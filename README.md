@@ -1,3 +1,7 @@
+---
+title: Pavel Solís - Home
+---
+
 # Pavel Solís 
 
 ___
@@ -12,7 +16,7 @@ Welcome! I am a Ph.D. student in Economics at the Johns Hopkins University. My r
 
 **CV:** You will find my CV here [forthcoming].
 
-**Profiles:** [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en), RePec, Research Gate, Mendeley, ORCID.
+**Profiles:** [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), RePec, Research Gate, Mendeley, ORCID.
 
 **Address:**
 Wyman Park Building 544E,
