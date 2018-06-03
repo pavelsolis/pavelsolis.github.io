@@ -1,11 +1,9 @@
-# basic options
+# Basic options
 title: Pavel Solís
-author: Pavel Solís
 email: msolism1@jhu.edu
+linkedin_username: pavelsolis
 twitter_username: PavelSolis
-github_username:  pavelsolis
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-minimal
 theme: minima
