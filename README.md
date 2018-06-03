@@ -2,6 +2,8 @@
 
 ___
 
+![alt text](imageDC2011.jpg)
+
 Welcome! I am a Ph.D. student in Economics at the Johns Hopkins University. My research focuses on the determinants of international risk premia in financial markets and the implications for monetary policy and the macroeconomy.
 
 **E-mail:** <msolism1@jhu.edu>.
