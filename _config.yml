@@ -5,6 +5,14 @@ email: msolism1@jhu.edu
 linkedin_username: pavelsolis
 twitter_username: PavelSolis
 
+# Pages
+header_pages:
+- index.md
+- cv.md
+- research.md
+- teaching.md
+- resources.md
+
 # Build settings
 markdown: kramdown
 theme: minima
