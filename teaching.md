@@ -13,7 +13,7 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 *Pre-requisites:* Basic facility with graphs and algebra. 
 
 
-**Instructor:** Pavel Solis (<msolism1@jhu.edu>)
+**Instructor:** Pavel Solís (<msolism1@jhu.edu>)
 
 **Location:** Maryland 217
 
