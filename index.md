@@ -1,10 +1,6 @@
 ---
-title: Pavel Solís - Home
+title: Home
 ---
-
-# Pavel Solís 
-
-___
 
 ![alt text](imageDC2011.jpg)
 
