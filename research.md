@@ -1,8 +1,13 @@
+---
+layout: page
+title: Research
+---
+
 # Work in Progress
 
 Term Premia
 
-#Publication
+# Publication
 
 Impacto de Sorpresas Macro.
 
