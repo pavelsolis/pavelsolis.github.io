@@ -13,11 +13,11 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 *Pre-requisites:* Basic facility with graphs and algebra. 
 
 
+**Instructor:** Pavel Solis (<msolism1@jhu.edu>)
+
 **Location:** Maryland 217
 
 **Lecture Times:** Mon, Wed, Fri    2:00 pm - 5:00 pm     (July 2- August 3)
-
-**Email:** <msolism1@jhu.edu>
 
 **Office Hours:** Mon 12:30 - 1:30 pm (or by appointment) in Gilman Atrium
 
