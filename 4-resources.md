@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 
-This site is under construction
+This site is under construction.
 
 # News
 Financial Times
