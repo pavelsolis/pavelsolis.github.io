@@ -2,8 +2,8 @@
 title: Home
 ---
 
-![alt text](imageDC2011.jpg)
-<img align="left" width="100" height="100">
+
+<img align="left" width="350" height="350" src="/images/home_img.jpg">
 
 Welcome! I am a Ph.D. student in Economics at the Johns Hopkins University. My research focuses on the determinants of 
 international risk premia in financial markets and the implications for monetary policy and the macroeconomy.
