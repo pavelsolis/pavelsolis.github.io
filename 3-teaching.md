@@ -23,7 +23,9 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 **Office Hours:** Mon 12:30 - 1:30 pm (or by appointment) in Gilman Atrium
 
 
-## Syllabus
+## Documents
+
+[Syllabus](/files/Syllabus101.pdf)
 
 ## Slides
 
