@@ -7,10 +7,10 @@ twitter_username: PavelSolis
 # Pages
 header_pages:
 - index.md
-- 1-cv.md
-- 2-research.md
-- 3-teaching.md
-- 4-resources.md
+- 01-cv.md
+- 02-research.md
+- 03-teaching.md
+- 04-resources.md
 
 # Build settings
 markdown: kramdown
