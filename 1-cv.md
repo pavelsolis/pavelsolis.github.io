@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-This site is under construction
+This site is under construction.
 
 # Education
 Johns Hopkins
