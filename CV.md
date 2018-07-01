@@ -28,4 +28,5 @@ IPN Seminar
 # Skills
 Programming: Matlab, Stata, Python, EViews, Bash, VBA, LaTeX.
 
-# Languages: English (fluent), Spanish (Native).
+# Languages 
+English (fluent), Spanish (Native).
