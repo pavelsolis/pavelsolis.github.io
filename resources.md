@@ -40,7 +40,7 @@ Trade Talks
 # Documentaries
 The Ascent of Money | Inside the Meltdown
 
-# Econ Teachhing
+# Econ Teaching
 CORE Project | Policon | Marginal Revolution U | History of Economic Thought | Statistics
 
 # Reports
