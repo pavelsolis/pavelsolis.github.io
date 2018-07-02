@@ -15,7 +15,7 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 **Instructor:** Pavel Solís (<msolism1@jhu.edu>)
 
-**Location:** TBD
+**Location:** Olin 304
 
 **Lecture Times:** Mon, Wed, Fri    2:00 pm - 5:00 pm     (July 2- August 3)
 
