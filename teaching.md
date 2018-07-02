@@ -19,12 +19,14 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 **Lecture Times:** Mon, Wed, Fri    2:00 pm - 5:00 pm     (July 2- August 3)
 
-**Office Hours:** Mon 12:30 - 1:30 pm (or by appointment) in Gilman Atrium
+**Office Hours:** Mon 12:30 - 1:30 pm, or by appointment, in Gilman Atrium
 
-# [Syllabus](/files/Syllabus101.pdf)
+# [Syllabus](/files/teaching/Syllabus101.pdf)
 
 # Slides
 
+Lecture 1
+
 # Problem Sets, Exams and Solutions
 
-# Recommended Readings
+# Additional Readings/Videos
