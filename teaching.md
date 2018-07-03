@@ -29,4 +29,6 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 # Problem Sets, Exams and Solutions
 
+[Problem Set 1](/files/teaching/PS1.pdf)
+
 # Additional Readings/Videos
