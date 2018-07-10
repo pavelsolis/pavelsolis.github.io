@@ -40,3 +40,5 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 [Problem Set 2](/files/teaching/PS2.pdf)
 
 # Additional Readings/Videos
+
+[GDP: Does It Measure Up?](/files/teaching/Reading-GDP.pdf)
