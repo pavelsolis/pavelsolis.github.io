@@ -45,4 +45,4 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 [GDP: Does It Measure Up?](/files/teaching/Reading-GDP.pdf) (Reading)
 
-[A Selfish Argument for Making the World a Better Place] (https://youtu.be/rvskMHn0sqQ) (Video)
+[A Selfish Argument for Making the World a Better Place](https://youtu.be/rvskMHn0sqQ) (Video)
