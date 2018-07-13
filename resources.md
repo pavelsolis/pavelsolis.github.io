@@ -9,7 +9,7 @@ This site is under construction.
 Financial Times | The Economist | WSJ | NYT | Washington Post | Bloomberg | VoxEU
 
 # Data
-FRED | IMF IFS | BIS LBS | WB | OECD | Stock and Watson | Serena Ng | Òscar Jordà | Our World in Data
+FRED | IMF IFS | BIS LBS | WB | OECD | Stock and Watson | Serena Ng | Òscar Jordà | Our World in Data | FREDcast
 
 # Coding
 Matlab | Stata | Python: Quant Econ | Quantopian
