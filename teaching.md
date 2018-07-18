@@ -49,6 +49,8 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 [Midterm](/files/teaching/Midterm.pdf)
 
+[Midterm Solutions](/files/teaching/Midterm_AnswerKey.pdf)
+
 # Additional Readings/Videos
 
 [GDP: Does It Measure Up?](/files/teaching/Reading-GDP.pdf) (Reading)
