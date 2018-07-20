@@ -3,6 +3,8 @@ layout: page
 title: Resources
 ---
 
+<iframe style="border: 1px solid #333333; overflow: hidden; width: 190px; height: 1142px;" src="//research.stlouisfed.org/fred-glance-widget.php?series_ids=DGS10,CPIAUCSL,UNRATE,GDPC1,PAYEMS,CLVMEURSCAB1GQEU28,DEXUSEU,NAEXKP01MXQ661S,DEXMXUS,FPCPITOTLZGMEX&transformations=lin,pc1,lin,pca,chg,pca,lin,pca,lin,pc1" align="right" height="1142" width="320" frameborder="0" scrolling="no"></iframe>
+
 This site is under construction.
 
 # News
