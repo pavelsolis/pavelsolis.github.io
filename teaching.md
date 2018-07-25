@@ -57,6 +57,8 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 [Problem Set 3 Solutions](/files/teaching/PS3_AnswerKey.pdf)
 
+[Problem Set 4](/files/teaching/PS4.pdf)
+
 [Midterm](/files/teaching/Midterm.pdf)
 
 [Midterm Solutions](/files/teaching/Midterm_AnswerKey.pdf)
