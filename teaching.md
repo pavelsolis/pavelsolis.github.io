@@ -64,3 +64,7 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 [GDP: Does It Measure Up?](/files/teaching/Reading-GDP.pdf) (Reading)
 
 [A Selfish Argument for Making the World a Better Place](https://youtu.be/rvskMHn0sqQ) (Video)
+
+[What Do Financial Market Indicators Tell Us?](/files/teaching/Reading-Financial_Market_Indicators.pdf) (Reading)
+
+[What Is Keynesian Economics?](/files/teaching/Reading-Keynesian_Economics.pdf) (Reading)
