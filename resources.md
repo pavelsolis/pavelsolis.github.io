@@ -17,7 +17,7 @@ FRED | IMF IFS | BIS LBS | WB | OECD | Stock and Watson | Serena Ng | Òscar Jor
 Matlab | Stata | Python: Quant Econ | Quantopian
 
 # Blogs
-Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time Economics | JHU CFE | Francis X. Diebold: No Hesitations | Martin Wolf | List of 100 Economics Blogs
+Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time Economics | JHU CFE | Francis X. Diebold: No Hesitations | Martin Wolf | Top 100 Economics Blogs
 
 # Podcasts
 Macro Musings | Trade Talks
@@ -31,3 +31,9 @@ CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money
 # Reports
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
 Federal Reserve Board | FRBNY | FRBSF | FRBD 
+
+# Books
+Best Economics Books (FT): 2017, 2016, 2015
+Best Books and Research on Economics (Bloomberg): 2017
+Best Books in Finance and Economics (The Economist)
+Important Economics Books (The Reading Lists)
