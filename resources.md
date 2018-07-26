@@ -26,7 +26,7 @@ Macro Musings | Trade Talks
 The Ascent of Money | Inside the Meltdown
 
 # Econ Teaching
-CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money Smart (FDIC) | History of Economic Thought | Page One Economics
+CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | FRBSF Economic Letters
 
 # Reports
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
