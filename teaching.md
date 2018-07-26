@@ -72,3 +72,5 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 [What Do Financial Market Indicators Tell Us?](/files/teaching/Reading-Financial_Market_Indicators.pdf) (Reading)
 
 [What Is Keynesian Economics?](/files/teaching/Reading-Keynesian_Economics.pdf) (Reading)
+
+[The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo) (Video)
