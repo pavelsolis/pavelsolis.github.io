@@ -43,6 +43,8 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 [Lecture 9](/files/teaching/Slides09.pdf)
 
+[Lecture 10](/files/teaching/Slides10.pdf)
+
 # Problem Sets and Midterm
 
 [Problem Set 1](/files/teaching/PS1.pdf)
