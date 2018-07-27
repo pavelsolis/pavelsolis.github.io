@@ -76,3 +76,5 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 [What Is Keynesian Economics?](/files/teaching/Reading-Keynesian_Economics.pdf) (Reading)
 
 [The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo) (Video)
+
+[Fiscal and Monetary Policy in Times of Crisis](/files/teaching/Reading-FP&MP_in_Crisis.pdf) (Reading)
