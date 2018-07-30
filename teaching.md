@@ -45,6 +45,8 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 [Lecture 10](/files/teaching/Slides10.pdf)
 
+[Lecture 11](/files/teaching/Slides11.pdf)
+
 # Problem Sets and Midterm
 
 [Problem Set 1](/files/teaching/PS1.pdf)
@@ -78,3 +80,5 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 [The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo) (Video)
 
 [Fiscal and Monetary Policy in Times of Crisis](/files/teaching/Reading-FP&MP_in_Crisis.pdf) (Reading)
+
+[Real Exchange Rates: What Money Can Buy](/files/teaching/Reading-RER.pdf) (Reading)
