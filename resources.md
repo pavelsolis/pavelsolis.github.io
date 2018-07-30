@@ -23,10 +23,10 @@ Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time E
 Macro Musings | Trade Talks
 
 # Documentaries
-The Ascent of Money | Inside the Meltdown
+The Ascent of Money | Inside the Meltdown (PBS)
 
 # Econ Teaching
-CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | FRBSF Economic Letters | Six Big Ideas (The Economist) | Econ Focus
+CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | FRBSF Economic Letters | Six Big Ideas (The Economist) | Econ Focus (Richmond Fed)
 
 # Reports
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
@@ -34,6 +34,9 @@ Federal Reserve Board | FRBNY | FRBSF | FRBD
 
 # Books
 Best Economics Books (FT): 2017, 2016, 2015
+
 Best Books and Research on Economics (Bloomberg): 2017
+
 Best Books in Finance and Economics (The Economist)
+
 Important Economics Books (The Reading Lists)
