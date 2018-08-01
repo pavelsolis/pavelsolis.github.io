@@ -20,7 +20,7 @@ Matlab | Stata | Python: Quant Econ | Quantopian
 Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time Economics | The Economist Explains | JHU CFE | Francis X. Diebold: No Hesitations | Martin Wolf | Top 100 Economics Blogs
 
 # Podcasts
-Macro Musings | Trade Talks
+Macro Musings | Econ Talks | Trade Talks
 
 # Documentaries
 The Ascent of Money | Inside the Meltdown (PBS)
@@ -40,3 +40,5 @@ Best Books and Research on Economics (Bloomberg): 2017
 Best Books in Finance and Economics (The Economist)
 
 Important Economics Books (The Reading Lists)
+
+Must-Read Books for Finance Professionals (Investopedia): 2018
