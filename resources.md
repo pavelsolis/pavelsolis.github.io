@@ -20,7 +20,7 @@ Matlab | Stata | Python: Quant Econ | Quantopian
 Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time Economics | The Economist Explains | JHU CFE | Francis X. Diebold: No Hesitations | Martin Wolf | Top 100 Economics Blogs
 
 # Podcasts
-Macro Musings | Econ Talks | Trade Talks
+Macro Musings (David Beckworth) | Econ Talks (Russell Roberts) | Unexpected Returns (Barron's) | Trade Talks (Chad P. Brown & Soumaya Keynes)
 
 # Documentaries
 The Ascent of Money | Inside the Meltdown (PBS)
