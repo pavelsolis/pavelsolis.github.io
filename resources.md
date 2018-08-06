@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 
-<iframe style="border: 1px solid #333333; overflow: hidden; width: 190px; height: 870px;" src="//research.stlouisfed.org/fred-glance-widget.php?series_ids=DGS10,T10Y2Y,DFEDTARU,VIXCLS,BAMLH0A0HYM2,DEXUSEU,DEXMXUS,CPIAUCSL,UNRATE,GDPC1&transformations=lin,lin,lin,lin,lin,lin,lin,pc1,lin,pca" align="right" height="870" width="320" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: 1px solid #333333; overflow: hidden; width: 190px; height: 880px;" src="//research.stlouisfed.org/fred-glance-widget.php?series_ids=DGS10,T10Y2Y,DFEDTARU,VIXCLS,BAMLH0A0HYM2,DEXUSEU,DEXMXUS,CPIAUCSL,UNRATE,GDPC1&transformations=lin,lin,lin,lin,lin,lin,lin,pc1,lin,pca" align="right" height="880" width="320" frameborder="0" scrolling="no"></iframe>
 
 This site is under construction.
 
