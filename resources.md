@@ -17,7 +17,7 @@ FRED | IMF IFS | BIS LBS | WB | OECD | Stock and Watson | Serena Ng | Òscar Jor
 Matlab | Stata | Python: Quant Econ | Quantopian
 
 # Blogs
-Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time Economics | The Economist Explains | JHU CFE | Francis X. Diebold: No Hesitations | Martin Wolf | Top 100 Economics Blogs | OUPblog | Visualizing Economics | A Fine Theorem | Bond Economics
+Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time Economics | The Economist Explains | CFE (JHU) | Francis X. Diebold: No Hesitations | Martin Wolf | Top 100 Economics Blogs | OUPblog | Visualizing Economics | A Fine Theorem | Bond Economics
 
 # Podcasts
 Macro Musings (David Beckworth) | Econ Talks (Russell Roberts) | Unexpected Returns (Barron's) | Trade Talks (Chad P. Brown & Soumaya Keynes)
