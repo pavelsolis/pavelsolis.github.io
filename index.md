@@ -10,7 +10,7 @@ international risk premia in financial markets and the implications for monetary
 
 **E-mail:** <msolism1@jhu.edu>.
 
-**Research interests:** International Finance, Empirical Macroeconomics, Time Series Econometrics.
+**Research interests:** International Finance, Empirical Macroeconomics, Asset Pricing.
 
 **CV:** You will find my CV here [forthcoming].
 
