@@ -3,10 +3,11 @@ title: Home
 ---
 
 
-<img align="left" width="350" height="380" src="/images/home_img.jpg">
+<img align="left" width="350" height="410" src="/images/home_img.jpg">
 
-Welcome! I am a Ph.D. student in Economics at the Johns Hopkins University. My research focuses on the determinants of 
-international risk premia in financial markets and the implications for monetary policy and the macroeconomy.
+Welcome! I am a Ph.D. student in Economics at the Johns Hopkins University.
+
+My research focuses on quantifying risk premia in international financial markets and their implications for monetary policy and the macroeconomy.
 
 **E-mail:** <msolism1@jhu.edu>.
 
