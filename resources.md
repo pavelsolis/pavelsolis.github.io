@@ -16,6 +16,9 @@ FRED | IMF IFS | BIS LBS | WB | OECD | Stock and Watson | Serena Ng | Òscar Jor
 # Coding
 Matlab | Stata | Python: Quant Econ | Quantopian
 
+# (Non-Technical) Economic Research
+FEDS Notes (FRB) | Economic Letters (FRBSF) | Econ Focus (Richmond Fed) | Peterson Institute for International Economics (PIIE) | Project Syndicate
+
 # Blogs
 Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time Economics | The Economist Explains | CFE (JHU) | Francis X. Diebold: No Hesitations | Martin Wolf | Top 100 Economics Blogs | OUPblog | Visualizing Economics | A Fine Theorem | Bond Economics
 
@@ -26,7 +29,7 @@ Macro Musings (David Beckworth) | Econ Talks (Russell Roberts) | Unexpected Retu
 The Ascent of Money | Inside the Meltdown (PBS)
 
 # Econ Teaching
-CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | FRBSF Economic Letters | Six Big Ideas (The Economist) | Econ Focus (Richmond Fed)
+CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | Six Big Ideas (The Economist)
 
 # Reports
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
@@ -39,6 +42,6 @@ Best Books and Research on Economics (Bloomberg): 2017
 
 Best Books in Finance and Economics (The Economist)
 
-Important Economics Books (The Reading Lists)
+Books for Finance Professionals (Investopedia): 2018
 
-Must-Read Books for Finance Professionals (Investopedia): 2018
+Important Economics Books (The Reading Lists)
