@@ -73,6 +73,8 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 [The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo) (Video)
 
+[Monetary Policy in a Changing Economy](https://www.federalreserve.gov/newsevents/speech/powell20180824a.htm) (Reading)
+
 [Fiscal and Monetary Policy in Times of Crisis](/files/teaching/Reading-FP&MP_in_Crisis.pdf) (Reading)
 
 [Real Exchange Rates: What Money Can Buy](/files/teaching/Reading-RER.pdf) (Reading)
