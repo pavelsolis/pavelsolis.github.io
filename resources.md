@@ -20,7 +20,7 @@ Matlab | Stata | Python: Quant Econ | Quantopian
 VoxEU | FEDS Notes (FRB) | Economic Letters (FRBSF) | Econ Focus (Richmond Fed) | Peterson Institute for International Economics (PIIE) | Project Syndicate
 
 # Blogs
-Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time Economics | The Economist Explains | CFE (JHU) | Francis X. Diebold: No Hesitations | Martin Wolf | Top 100 Economics Blogs | OUPblog | Visualizing Economics | A Fine Theorem | Bond Economics
+Noahpinion | Paul Krugman | Liberty Street Economics | MarketWatch | Real-Time Economics | The Economist Explains | CFE (JHU) | Francis X. Diebold: No Hesitations | Martin Wolf | Top 100 Economics Blogs | OUPblog | Visualizing Economics | A Fine Theorem | Bond Economics | [Top 10 Data Visualization Blogs](https://www.tableau.com/learn/articles/best-data-visualization-blogs)
 
 # Podcasts
 Macro Musings (David Beckworth) | Econ Talks (Russell Roberts) | Unexpected Returns (Barron's) | Trade Talks (Chad P. Brown & Soumaya Keynes)
