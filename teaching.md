@@ -25,43 +25,11 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 # Slides
 
-[Lecture 1](/files/teaching/Slides01.pdf)
-
-[Lecture 2](/files/teaching/Slides02.pdf)
-
-[Lecture 3](/files/teaching/Slides03.pdf)
-
-[Lecture 4](/files/teaching/Slides04.pdf)
-
-[Lecture 5](/files/teaching/Slides05.pdf)
-
-[Lecture 6](/files/teaching/Slides06.pdf)
-
-[Lecture 7](/files/teaching/Slides07.pdf)
-
-[Lecture 8](/files/teaching/Slides08.pdf)
-
-[Lecture 9](/files/teaching/Slides09.pdf)
-
-[Lecture 10](/files/teaching/Slides10.pdf)
-
-[Lecture 11](/files/teaching/Slides11.pdf)
-
-[Lecture 12](/files/teaching/Slides12.pdf)
 
 # Problem Sets and Midterm
 
-[Problem Set 1](/files/teaching/PS1.pdf)
-
-[Problem Set 2](/files/teaching/PS2.pdf)
-
-[Problem Set 3](/files/teaching/PS3.pdf)
-
-[Problem Set 4](/files/teaching/PS4.pdf)
 
 # Additional Readings/Videos
-
-[GDP: Does It Measure Up?](/files/teaching/Reading-GDP.pdf) (Reading)
 
 [A Selfish Argument for Making the World a Better Place](https://youtu.be/rvskMHn0sqQ) (Video)
 
