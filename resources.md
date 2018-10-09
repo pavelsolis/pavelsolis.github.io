@@ -29,7 +29,7 @@ Macro Musings (David Beckworth) | Econ Talks (Russell Roberts) | Unexpected Retu
 The Ascent of Money | Inside the Meltdown (PBS)
 
 # Econ Teaching
-CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | Six Big Ideas (The Economist) | FREDcast
+CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | Six Big Ideas (The Economist) | FREDcast | [NYT Yield Curve Visualization](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
 
 # Reports
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
