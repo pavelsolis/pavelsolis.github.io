@@ -35,6 +35,9 @@ CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
 Federal Reserve Board | FRBNY | FRBSF | FRBD 
 
+# Research Resources
+[The Writing Process](https://owl.purdue.edu/site_map.html)
+
 # Books
 Best Economics Books (FT): 2017, 2016, 2015
 
