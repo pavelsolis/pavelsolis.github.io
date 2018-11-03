@@ -36,7 +36,7 @@ IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Centra
 Federal Reserve Board | FRBNY | FRBSF | FRBD 
 
 # Research Resources
-[The Writing Process](https://owl.purdue.edu/site_map.html)
+[The Writing Process](https://owl.purdue.edu/site_map.html) | [Reference Manager](https://researchguides.library.tufts.edu/c.php?g=249269&p=1659288)
 
 # Books
 Best Economics Books (FT): 2017, 2016, 2015
