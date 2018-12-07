@@ -11,7 +11,7 @@ My research focuses on estimating risk premia in international financial markets
 
 **E-mail:** <msolism1@jhu.edu>.
 
-**Research interests:** International Finance, Empirical Macroeconomics, Asset Pricing, Derivatives.
+**Research interests:** International Finance, Empirical Asset Pricing, Empirical Macroeconomics, Derivatives.
 
 **Curriculum Vitae:** CV [forthcoming].
 
