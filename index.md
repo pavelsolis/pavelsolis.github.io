@@ -11,9 +11,9 @@ My research focuses on estimating risk premia in international financial markets
 
 **E-mail:** <msolism1@jhu.edu>.
 
-**Research interests:** International Finance, Empirical Macroeconomics, Asset Pricing.
+**Research interests:** International Finance, Empirical Macroeconomics, Asset Pricing, Derivatives.
 
-**CV:** You will find my CV here [forthcoming].
+**Curriculum Vitae:** CV [forthcoming].
 
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), 
 RePec, Research Gate, Mendeley, ORCID.
