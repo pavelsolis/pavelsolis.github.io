@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 
-# 180.101.21 - Elements of Macroeconomics
+# 180.101.11 - Elements of Macroeconomics
 
 This course introduces basic concepts and models in macroeconomics and applies them towards gaining an understanding of 
 recent events and current policy issues. We shall cover a broad range of topics including national income and output, 
