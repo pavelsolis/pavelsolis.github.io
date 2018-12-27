@@ -17,9 +17,9 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 **Location:** Olin 304
 
-**Lecture Times:** Mon, Wed, Fri    2:00 pm - 5:00 pm     (May 28 - June 28)
+**Lecture Times:** Mon, Wed, Fri    9:00 am - 12:00 pm     (May 28 - June 28)
 
-**Office Hours:** Mon 12:30 - 1:30 pm, or by appointment, in Gilman Atrium
+**Office Hours:** Fri 12:00 pm - 1:00 pm, or by appointment, in Gilman Atrium
 
 # [Syllabus](/files/teaching/Syllabus101.pdf)
 
