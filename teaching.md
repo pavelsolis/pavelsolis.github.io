@@ -8,18 +8,17 @@ title: Teaching
 
 This course introduces basic concepts and models in macroeconomics and applies them towards gaining an understanding of 
 recent events and current policy issues. We shall cover a broad range of topics including national income and output, 
-unemployment, the price level and inflation, money, interest rates, exchange rates, monetary and fiscal policies. 
-We will also analyze the 2008-09 financial crisis and its impact on the economy. 
+unemployment, inflation, interest rates, exchange rates, as well as monetary and fiscal policies. We will also analyze the 2008-09 financial crisis and its impact on the economy. 
 
 *Pre-requisites:* Basic facility with graphs and algebra. 
 
 **Instructor:** Pavel Solís (<msolism1@jhu.edu>)
 
-**Location:** Olin 304
+**Location:** TBD
 
 **Lecture Times:** Mon, Wed, Fri    9:00 am - 12:00 pm     (May 28 - June 28)
 
-**Office Hours:** Fri 12:00 pm - 1:00 pm, or by appointment, in Gilman Atrium
+**Office Hours:** Wed 8:00 am - 9:00 am, or by appointment, in the Gilman Atrium
 
 # [Syllabus](/files/teaching/Syllabus101.pdf)
 
@@ -51,15 +50,6 @@ We will also analyze the 2008-09 financial crisis and its impact on the economy.
 
 # Problem Sets and Midterm
 
-[Problem Set 1](/files/teaching/PS1.pdf)
-
-[Problem Set 2](/files/teaching/PS2.pdf)
-
-[Problem Set 3](/files/teaching/PS3.pdf)
-
-[Problem Set 4](/files/teaching/PS4.pdf)
-
-[Midterm](/files/teaching/Midterm.pdf)
 
 # Additional Readings/Videos
 
