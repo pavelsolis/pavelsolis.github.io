@@ -11,10 +11,10 @@ This site is under construction.
 Financial Times | The Economist | WSJ | NYT | Washington Post | Bloomberg | FiveThirtyEight
 
 # Data
-FRED | IFS (IMF) | LBS (BIS) | WB | OECD | Stock and Watson | Serena Ng | Òscar Jordà | International Banking Research Network (IBRN) | Our World in Data
+FRED | IFS (IMF) | LBS (BIS) | WB | OECD | International Banking Research Network (IBRN) | Stock and Watson | Serena Ng | Òscar Jordà | Our World in Data
 
 # Coding
-Matlab | Stata | R | Python: Quant Econ | Quantopian
+Matlab | Stata | R | Python (Quant Econ, Quantopian)
 
 # (Non-Technical) Economic Research
 SR-SV | VoxEU | FEDS Notes (FRB) | Economic Letters (FRBSF) | Econ Focus (Richmond Fed) | Regional Economist (FRBStL) | Peterson Institute for International Economics (PIIE) | Project Syndicate
@@ -29,7 +29,9 @@ Macro Musings (David Beckworth) | Econ Talks (Russell Roberts) | Unexpected Retu
 The Ascent of Money | Inside the Meltdown (PBS)
 
 # Econ Teaching
-CORE Project | Policon | Marginal Revolution U | IMF Basics | Statistics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | Six Big Ideas (The Economist) | FREDcast | [NYT Yield Curve Visualization](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
+Economics: CORE Project | Policon | Marginal Revolution U | IMF Basics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | Six Big Ideas (The Economist) | FREDcast | [NYT Yield Curve Visualization](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
+
+Econometrics: [Statistics](https://www.statlect.com/fundamentals-of-statistics/) | [Econometrics Academy](https://sites.google.com/site/econometricsacademy/) | Mark Thoma ([320](https://www.youtube.com/playlist?list=PL7vNyVXxvcu-bvpdBR_jExrDl6ESioZ4b), [421](https://www.youtube.com/playlist?list=PLD15D38DC7AA3B737)) | [Stock & Watson](https://www.nber.org/minicourse_2008.html)
 
 # Reports
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
