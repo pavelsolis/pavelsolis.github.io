@@ -11,7 +11,10 @@ This site is under construction.
 Financial Times | The Economist | WSJ | NYT | Washington Post | Bloomberg | FiveThirtyEight
 
 # Data
-FRED | IFS (IMF) | LBS (BIS) | WB | OECD | International Banking Research Network (IBRN) | Stock and Watson | Serena Ng | Òscar Jordà | Our World in Data
+FRED | IFS (IMF) | LBS (BIS) | WB | OECD | Stock and Watson | Serena Ng | Òscar Jordà | Our World in Data
+
+# Conferences
+[Central Bank Research Association (CEBRA)](https://cebra.org/) | [International Banking Research Network (IBRN)](https://www.newyorkfed.org/ibrn) | [Jacques Polak (IMF)](https://www.imf.org/external/pubs/ft/staffp/arc/index.asp)
 
 # Coding
 Matlab | Stata | R | Python (Quant Econ, Quantopian)
