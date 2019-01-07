@@ -50,6 +50,8 @@ Best Books and Research on Economics (Bloomberg): 2017
 
 Best Books in Finance and Economics (The Economist)
 
+[Best Finance Books](https://fivebooks.com/best-books/finance-andrew-lo/)
+
 Books for Finance Professionals (Investopedia): 2018
 
 Important Economics Books (The Reading Lists)
