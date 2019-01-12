@@ -36,6 +36,8 @@ Economics: CORE Project | Policon | Marginal Revolution U | IMF Basics | Money S
 
 Econometrics: [Statistics](https://www.statlect.com/fundamentals-of-statistics/) | [Econometrics Academy](https://sites.google.com/site/econometricsacademy/) | Mark Thoma ([320](https://www.youtube.com/playlist?list=PL7vNyVXxvcu-bvpdBR_jExrDl6ESioZ4b), [421](https://www.youtube.com/playlist?list=PLD15D38DC7AA3B737)) | [Stock & Watson](https://www.nber.org/minicourse_2008.html)
 
+Math: [SpaceMath@NASA](https://spacemath.gsfc.nasa.gov/)
+
 # Reports
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
 Federal Reserve Board | FRBNY | FRBSF | FRBD 
