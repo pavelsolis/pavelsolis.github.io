@@ -3,6 +3,20 @@ layout: page
 title: Teaching
 ---
 
+# 180.334 (02) - Econometrics
+
+**Instructor:** Pavel Solís (<msolism1@jhu.edu>)
+
+**Location:** Hodson 316
+
+**Lecture Times:** Th 03:00 PM - 03:50 PM
+
+**Office Hours:** Th 02:00 PM - 03:00 PM in the Greenhouse Annex ([Map](/files/teaching/Greenhouse_Map.png), [Entrance](/files/teaching/Greenhouse_Entrance.png))
+
+# Files
+
+First class
+
 
 # 180.101.11 - Elements of Macroeconomics
 
