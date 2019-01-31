@@ -21,6 +21,7 @@ First class: [Data file](/files/teaching/intro_hs0.csv), [Do-file](/files/teachi
 
 ___
 
+
 # 180.101.11 - Elements of Macroeconomics
 
 This course introduces basic concepts and models in macroeconomics and applies them towards gaining an understanding of 
