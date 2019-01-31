@@ -11,7 +11,10 @@ This site is under construction.
 Financial Times | The Economist | WSJ | NYT | Washington Post | Bloomberg | FiveThirtyEight
 
 # Data
-FRED | IFS (IMF) | LBS (BIS) | WB | OECD | International Banking Research Network (IBRN) | Stock and Watson | Serena Ng | Òscar Jordà | Our World in Data
+FRED | IFS (IMF) | LBS (BIS) | WB | OECD | Stock and Watson | Serena Ng | Òscar Jordà | Our World in Data
+
+# Conferences
+[Central Bank Research Association (CEBRA)](https://cebra.org/) | [International Banking Research Network (IBRN)](https://www.newyorkfed.org/ibrn) | [Jacques Polak (IMF)](https://www.imf.org/external/pubs/ft/staffp/arc/index.asp)
 
 # Coding
 Matlab | Stata | R | Python (Quant Econ, Quantopian)
@@ -29,9 +32,11 @@ Macro Musings (David Beckworth) | Econ Talks (Russell Roberts) | Unexpected Retu
 The Ascent of Money | Inside the Meltdown (PBS)
 
 # Econ Teaching
-Economics: CORE Project | Policon | Marginal Revolution U | IMF Basics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | Six Big Ideas (The Economist) | FREDcast | [NYT Yield Curve Visualization](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
+Economics: CORE Project | Policon | Marginal Revolution U | IMF Basics | Money Smart (FDIC) | History of Economic Thought | Page One Economics | Six Big Ideas (The Economist) | FREDcast | [Yield Curve Visualization (NYT)](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
 
-Econometrics: [Statistics](https://www.statlect.com/fundamentals-of-statistics/) | [Econometrics Academy](https://sites.google.com/site/econometricsacademy/) | Mark Thoma ([320](https://www.youtube.com/playlist?list=PL7vNyVXxvcu-bvpdBR_jExrDl6ESioZ4b), [421](https://www.youtube.com/playlist?list=PLD15D38DC7AA3B737)) | [Stock & Watson](https://www.nber.org/minicourse_2008.html)
+Econometrics: [Statistics](https://www.statlect.com/fundamentals-of-statistics/) | [Econometrics Academy](https://sites.google.com/site/econometricsacademy/) | Mark Thoma ([320](https://www.youtube.com/playlist?list=PL7vNyVXxvcu-bvpdBR_jExrDl6ESioZ4b), [421a](https://www.youtube.com/playlist?list=PLD15D38DC7AA3B737), [421b](https://www.youtube.com/watch?v=sy3tjVUT5JY&list=PLUTFo-QOO0FJMm6wkflL0hk0Hm2Z3nBva)) | [Stock & Watson](https://www.nber.org/minicourse_2008.html)
+
+Math: [SpaceMath@NASA](https://spacemath.gsfc.nasa.gov/) | [Calculus and Linear Algebra](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 
 # Reports
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
@@ -46,6 +51,8 @@ Best Economics Books (FT): 2017, 2016, 2015
 Best Books and Research on Economics (Bloomberg): 2017
 
 Best Books in Finance and Economics (The Economist)
+
+[Best Finance Books](https://fivebooks.com/best-books/finance-andrew-lo/)
 
 Books for Finance Professionals (Investopedia): 2018
 
