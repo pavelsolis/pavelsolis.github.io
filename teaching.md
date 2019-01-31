@@ -15,10 +15,9 @@ title: Teaching
 
 # Files
 
-[First class file ](/files/teaching/intro_hs0.csv)
+First class: [Data file](/files/teaching/intro_hs0.csv), [Do-file](/files/teaching/example.do)
 
-use http://www.ats.ucla.edu/stat/data/hs0, clear
-
+___
 
 # 180.101.11 - Elements of Macroeconomics
 
