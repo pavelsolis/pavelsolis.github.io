@@ -15,7 +15,7 @@ title: Teaching
 
 # Files
 
-First class
+[First class file](/files/teaching/intro_hs0.csv)
 
 
 # 180.101.11 - Elements of Macroeconomics
