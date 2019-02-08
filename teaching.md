@@ -17,9 +17,9 @@ This course gives an introduction to estimation for economic research.
 
 # Files
 
-First class: [Data file](/files/teaching/intro_hs0.csv), [Do-file](/files/teaching/example.do)
+First class: [Data file](/files/teaching/intro_hs0.csv), [do-file](/files/teaching/example.do)
 
-Second class: How to create a log file when working through Citrix Retriever: [do-file](/files/teaching/how-to-log-file.do)
+Second class: How to create a log file when working through Citrix Retriever ([do-file](/files/teaching/how-to-log-file.do))
 
 ___
 
