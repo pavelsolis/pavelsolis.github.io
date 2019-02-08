@@ -5,6 +5,8 @@ title: Teaching
 
 # 180.334 (02) - Econometrics
 
+This course gives an introduction to estimation for economic research.
+
 **Instructor:** Pavel Solís (<msolism1@jhu.edu>)
 
 **Location:** Hodson 316
@@ -18,6 +20,7 @@ title: Teaching
 First class: [Data file](/files/teaching/intro_hs0.csv), [Do-file](/files/teaching/example.do)
 
 ___
+
 
 # 180.101.11 - Elements of Macroeconomics
 
