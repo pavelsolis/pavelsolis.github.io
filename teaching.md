@@ -21,6 +21,8 @@ First class: [Data file](/files/teaching/intro_hs0.csv), [do-file](/files/teachi
 
 Second class: How to create a log file when working through Citrix Retriever ([do-file](/files/teaching/how-to-log-file.do))
 
+[Econometrics Guide](/files/teaching/Econometrics_Guide.pdf) by Tyler Ransom
+
 ___
 
 
