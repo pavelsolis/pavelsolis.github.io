@@ -11,7 +11,7 @@ I study international financial markets. My research focuses on estimating risk 
 
 **E-mail:** <msolism1@jhu.edu>.
 
-**Research interests:** International Finance, Empirical Asset Pricing, Empirical Macroeconomics, Financial Markets.
+**Research interests:** International Finance, Empirical Asset Pricing, Empirical Macroeconomics.
 
 **Curriculum Vitae:** CV [forthcoming].
 
