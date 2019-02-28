@@ -23,6 +23,8 @@ Second class: How to create a log file when working through Citrix Retriever ([d
 
 [Econometrics Guide](/files/teaching/Econometrics_Guide.pdf) by Tyler Ransom
 
+[Intuititve Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
+
 ___
 
 
