@@ -25,6 +25,9 @@ Second class: How to create a log file when working through Citrix Retriever ([d
 
 [Intuititve Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
 
+[Cleaning data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
+
+
 ___
 
 
