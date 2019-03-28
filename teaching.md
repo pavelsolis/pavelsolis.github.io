@@ -25,6 +25,9 @@ Second class: How to create a log file when working through Citrix Retriever ([d
 
 [Intuititve Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
 
+[Cleaning data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
+
+[Dummy Variables and Interaction Terms](/files/teaching/dummies_and_interactions.do)
 ___
 
 
@@ -48,48 +51,10 @@ unemployment, inflation, interest rates, exchange rates, as well as monetary and
 
 # Slides
 
-[Lecture 1](/files/teaching/Slides01.pdf)
-
-[Lecture 2](/files/teaching/Slides02.pdf)
-
-[Lecture 3](/files/teaching/Slides03.pdf)
-
-[Lecture 4](/files/teaching/Slides04.pdf)
-
-[Lecture 5](/files/teaching/Slides05.pdf)
-
-[Lecture 6](/files/teaching/Slides06.pdf)
-
-[Lecture 7](/files/teaching/Slides07.pdf)
-
-[Lecture 8](/files/teaching/Slides08.pdf)
-
-[Lecture 9](/files/teaching/Slides09.pdf)
-
-[Lecture 10](/files/teaching/Slides10.pdf)
-
-[Lecture 11](/files/teaching/Slides11.pdf)
-
-[Lecture 12](/files/teaching/Slides12.pdf)
 
 # Problem Sets and Midterm
 
 
 # Additional Readings/Videos
 
-[GDP: Does It Measure Up?](/files/teaching/Reading-GDP.pdf) (Reading)
-
-[A Selfish Argument for Making the World a Better Place](https://youtu.be/rvskMHn0sqQ) (Video)
-
-[What Do Financial Market Indicators Tell Us?](/files/teaching/Reading-Financial_Market_Indicators.pdf) (Reading)
-
-[What Is Keynesian Economics?](/files/teaching/Reading-Keynesian_Economics.pdf) (Reading)
-
-[The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo) (Video)
-
-[Monetary Policy in a Changing Economy](https://www.federalreserve.gov/newsevents/speech/powell20180824a.htm) (Reading)
-
-[Fiscal and Monetary Policy in Times of Crisis](/files/teaching/Reading-FP&MP_in_Crisis.pdf) (Reading)
-
-[Real Exchange Rates: What Money Can Buy](/files/teaching/Reading-RER.pdf) (Reading)
 
