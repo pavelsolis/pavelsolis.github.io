@@ -27,7 +27,7 @@ Second class: How to create a log file when working through Citrix Retriever ([d
 
 [Cleaning data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
-
+[Dummy Variables and Interaction Terms](/files/teaching/dummies_and_interactions.do)
 ___
 
 
