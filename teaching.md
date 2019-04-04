@@ -29,7 +29,7 @@ Second class: How to create a log file when working through Citrix Retriever ([d
 
 [Cleaning data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
-[Dummy Variables and Interaction Terms](/files/teaching/dummies_and_interactions.do)
+Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/dummies_and_interactions.do)
 
 [Practice Questions for Exam 2](/files/teaching/Exam2_PracticeQuestions.pdf)
 ___
