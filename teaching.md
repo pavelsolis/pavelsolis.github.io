@@ -15,6 +15,8 @@ This course gives an introduction to estimation for economic research.
 
 **Office Hours:** Th 02:00 PM - 03:00 PM in the Greenhouse Annex ([Map](/files/teaching/Greenhouse_Map.png), [Entrance](/files/teaching/Greenhouse_Entrance.png))
 
+**EXTRA OFFICE HOUR:** Tuesday April 9, 02:00 PM - 03:00 PM in the Greenhouse Annex. I will give back Quiz 2 and Problem Set 3 during this time.
+
 # Files
 
 First class: [Data file](/files/teaching/intro_hs0.csv), [do-file](/files/teaching/example.do)
@@ -29,7 +31,7 @@ Second class: How to create a log file when working through Citrix Retriever ([d
 
 [Dummy Variables and Interaction Terms](/files/teaching/dummies_and_interactions.do)
 
-[Exam 2 Practice Questions](/files/teaching/Exam2_PracticeQuestions.pdf)
+[Practice Questions for Exam 2](/files/teaching/Exam2_PracticeQuestions.pdf)
 ___
 
 
