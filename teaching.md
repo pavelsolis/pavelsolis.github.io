@@ -3,6 +3,35 @@ layout: page
 title: Teaching
 ---
 
+# 180.101.11 - Elements of Macroeconomics
+
+This course introduces basic concepts and models in macroeconomics and applies them towards gaining an understanding of 
+recent events and current policy issues. We shall cover a broad range of topics including national income and output, 
+unemployment, inflation, interest rates, exchange rates, as well as monetary and fiscal policies. We will also analyze the 2008-09 financial crisis and its impact on the economy. 
+
+*Pre-requisites:* Basic facility with graphs and algebra. 
+
+**Instructor:** Pavel Solís (<msolism1@jhu.edu>)
+
+**Location:** Gilman 55
+
+**Lecture Times:** Mon, Wed, Fri    9:00 am - 12:15 pm     (May 28 - June 28)
+
+**Office Hours:** Wed 8:00 am - 9:00 am, or by appointment, in the Gilman Atrium
+
+# [Syllabus](/files/teaching/macro/Syllabus101.pdf)
+
+# Slides
+
+
+# Problem Sets and Midterm
+
+
+# Additional Material
+
+
+---
+
 # 180.334 (02) - Econometrics
 
 This course gives an introduction to estimation for economic research.
@@ -33,33 +62,3 @@ Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/dummie
 
 [Practice Questions for Proxy Variables](/files/teaching/Ch9_PracticeQuestions.pdf)
 ___
-
-
-
-# 180.101.11 - Elements of Macroeconomics
-
-This course introduces basic concepts and models in macroeconomics and applies them towards gaining an understanding of 
-recent events and current policy issues. We shall cover a broad range of topics including national income and output, 
-unemployment, inflation, interest rates, exchange rates, as well as monetary and fiscal policies. We will also analyze the 2008-09 financial crisis and its impact on the economy. 
-
-*Pre-requisites:* Basic facility with graphs and algebra. 
-
-**Instructor:** Pavel Solís (<msolism1@jhu.edu>)
-
-**Location:** TBD
-
-**Lecture Times:** Mon, Wed, Fri    9:00 am - 12:15 pm     (May 28 - June 28)
-
-**Office Hours:** Wed 8:00 am - 9:00 am, or by appointment, in the Gilman Atrium
-
-# [Syllabus](/files/teaching/Syllabus101.pdf)
-
-# Slides
-
-
-# Problem Sets and Midterm
-
-
-# Additional Readings/Videos
-
-
