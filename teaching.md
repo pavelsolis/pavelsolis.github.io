@@ -23,6 +23,7 @@ unemployment, inflation, interest rates, exchange rates, as well as monetary and
 
 # Slides
 
+Lecture 1: [Intro](/files/teaching/macro/Slides101_01.pdf)
 
 # Problem Sets and Midterm
 
