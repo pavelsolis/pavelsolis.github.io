@@ -11,7 +11,7 @@ unemployment, inflation, interest rates, exchange rates, as well as monetary and
 
 *Pre-requisites:* Basic facility with graphs and algebra. 
 
-**Instructor:** Pavel Solís (<msolism1@jhu.edu>)
+**E-mail:** <msolism1@jhu.edu>
 
 **Location:** Gilman 55
 
@@ -24,6 +24,7 @@ unemployment, inflation, interest rates, exchange rates, as well as monetary and
 # Slides
 
 Lecture 1: [Intro](/files/teaching/macro/Slides101_01.pdf)
+
 
 # Problem Sets and Midterm
 
