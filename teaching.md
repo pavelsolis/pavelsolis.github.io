@@ -38,7 +38,7 @@ Lecture 1: [Intro](/files/teaching/macro/Slides101_01.pdf)
 
 This course gives an introduction to estimation for economic research.
 
-**Instructor:** Pavel Solís (<msolism1@jhu.edu>)
+**E-mail:** <msolism1@jhu.edu>
 
 **Location:** Hodson 316
 
@@ -63,4 +63,5 @@ Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/dummie
 [Practice Questions for Exam 2](/files/teaching/Exam2_PracticeQuestions.pdf)
 
 [Practice Questions for Proxy Variables](/files/teaching/Ch9_PracticeQuestions.pdf)
+
 ___
