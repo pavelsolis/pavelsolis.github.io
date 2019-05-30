@@ -25,6 +25,8 @@ unemployment, inflation, interest rates, exchange rates, as well as monetary and
 
 Lecture 1: [Intro](/files/teaching/macro/Slides101_01.pdf)
 
+Lecture 2: [PPF & CA](/files/teaching/macro/Slides101_02_1.pdf) | [D&S](/files/teaching/macro/Slides101_02_2.pdf)
+
 
 # Problem Sets and Midterm
 
