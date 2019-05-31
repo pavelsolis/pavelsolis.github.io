@@ -34,6 +34,7 @@ Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf)
 
 # Additional Material
 
+Reading: [Does International Trade Create Winners and Losers?](/files/teaching/macro/Reading-International_Trade.pdf)
 
 ---
 
