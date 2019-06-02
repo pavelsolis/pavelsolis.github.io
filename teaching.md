@@ -25,7 +25,9 @@ unemployment, inflation, interest rates, exchange rates, as well as monetary and
 
 Lecture 1: [Intro](/files/teaching/macro/Slides101_01.pdf)
 
-Lecture 2: [PPF & Comparative Advantage](/files/teaching/macro/Slides101_02_1.pdf), [Demand & Supply Analysis (Part I)](/files/teaching/macro/Slides101_02_2.pdf)
+Lecture 2: [PPF & Comparative Advantage](/files/teaching/macro/Slides101_02_1.pdf)
+
+Lecture 3: [Demand & Supply Analysis](/files/teaching/macro/Slides101_03_1.pdf), [Macroeconomic Variables](/files/teaching/macro/Slides101_03_2.pdf)
 
 
 # Problem Sets and Midterm
