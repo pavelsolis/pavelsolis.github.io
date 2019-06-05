@@ -29,7 +29,7 @@ Lecture 2: [PPF & Comparative Advantage](/files/teaching/macro/Slides101_02_1.pd
 
 Lecture 3: [Demand & Supply Analysis](/files/teaching/macro/Slides101_03_1.pdf), [Macroeconomic Variables](/files/teaching/macro/Slides101_03_2.pdf)
 
-Lecture 4: [GDP](/files/teaching/macro/Slides101_04.pdf)
+Lecture 4: [GDP](/files/teaching/macro/Slides101_GDP.pdf)
 
 # Problem Sets and Midterm
 
