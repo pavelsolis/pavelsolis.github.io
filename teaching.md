@@ -23,13 +23,13 @@ unemployment, inflation, interest rates, exchange rates, as well as monetary and
 
 # Slides
 
-Lecture 1: [Intro](/files/teaching/macro/Slides101_01.pdf)
+Lecture 1: [Intro](/files/teaching/macro/Slides101_01_Intro.pdf)
 
-Lecture 2: [PPF & Comparative Advantage](/files/teaching/macro/Slides101_02_1.pdf)
+Lecture 2: [PPF & Comparative Advantage](/files/teaching/macro/Slides101_02_PPF.pdf)
 
-Lecture 3: [Demand & Supply Analysis](/files/teaching/macro/Slides101_03_1.pdf), [Macroeconomic Variables](/files/teaching/macro/Slides101_03_2.pdf)
+Lecture 3: [Demand & Supply Analysis](/files/teaching/macro/Slides101_03_DS.pdf), [Macroeconomic Variables](/files/teaching/macro/Slides101_03_MacroVars.pdf)
 
-Lecture 4: [GDP](/files/teaching/macro/Slides101_04.pdf)
+Lecture 4: [GDP](/files/teaching/macro/Slides101_04_GDP.pdf), [Inflation](/files/teaching/macro/Slides101_04_Inflation.pdf)
 
 # Problem Sets and Midterm
 
