@@ -39,6 +39,8 @@ Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf)
 
 Reading: [Does International Trade Create Winners and Losers?](/files/teaching/macro/Reading-International_Trade.pdf)
 
+Reading: [GDP - Does It Measure Up?](/files/teaching/macro/Reading-GDP.pdf)
+
 ---
 
 # 180.334 (02) - Econometrics
