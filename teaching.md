@@ -35,7 +35,9 @@ Lecture 5: [Unemployment](/files/teaching/macro/Slides101_05_Unemployment.pdf)
 
 # Problem Sets and Midterm
 
-Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf)
+Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf), [Solutions](/files/teaching/macro/PS1_Sols.pdf)
+
+Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf)
 
 # Additional Material
 
