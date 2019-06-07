@@ -31,6 +31,8 @@ Lecture 3: [Demand & Supply Analysis](/files/teaching/macro/Slides101_03_DS.pdf)
 
 Lecture 4: [GDP](/files/teaching/macro/Slides101_04_GDP.pdf), [Inflation](/files/teaching/macro/Slides101_04_Inflation.pdf)
 
+Lecture 5: [Unemployment](/files/teaching/macro/Slides101_05_Unemployment.pdf)
+
 # Problem Sets and Midterm
 
 Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf)
