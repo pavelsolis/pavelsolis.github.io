@@ -33,6 +33,8 @@ Lecture 4: [GDP](/files/teaching/macro/Slides101_04_GDP.pdf), [Inflation](/files
 
 Lecture 5: [Unemployment](/files/teaching/macro/Slides101_05_Unemployment.pdf)
 
+Lecture 6: [Economic Growth](/files/teaching/macro/Slides101_06_Growth.pdf)
+
 # Problem Sets and Midterm
 
 Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf), [Solutions](/files/teaching/macro/PS1_Sols.pdf)
@@ -44,6 +46,8 @@ Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf)
 Reading: [Does International Trade Create Winners and Losers?](/files/teaching/macro/Reading-International_Trade.pdf)
 
 Reading: [GDP - Does It Measure Up?](/files/teaching/macro/Reading-GDP.pdf)
+
+Video: [A Selfish Argument for Making the World a Better Place](https://youtu.be/rvskMHn0sqQ)
 
 ---
 
