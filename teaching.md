@@ -51,9 +51,9 @@ Reading: [GDP - Does It Measure Up?](/files/teaching/macro/Reading-GDP.pdf)
 
 Video: [A Selfish Argument for Making the World a Better Place](https://youtu.be/rvskMHn0sqQ)
 
-Reading: [Output Gap](/files/teaching/macro/Reading-Financial_Market_Indicators.pdf)
+Reading: [Output Gap](/files/teaching/macro/Reading-Output_Gap.pdf)
 
-Reading: [What Do Financial Market Indicators Tell Us?](/files/teaching/macro/Reading-Output_Gap.pdf)
+Reading: [What Do Financial Market Indicators Tell Us?](/files/teaching/macro/Reading-Financial_Market_Indicators.pdf)
 
 ---
 
