@@ -37,11 +37,15 @@ Lecture 6: [Economic Growth](/files/teaching/macro/Slides101_06_Growth.pdf)
 
 Lecture 7: [Financial System](/files/teaching/macro/Slides101_07_S&I.pdf)
 
+Lecture 8: [Aggregate Expenditure](/files/teaching/macro/Slides101_08_AE.pdf)
+
 # Problem Sets and Midterm
 
 Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf), [Solutions](/files/teaching/macro/PS1_Sols.pdf)
 
-Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf)
+Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf), Solutions
+
+Problem Set 3: [Exercises](/files/teaching/macro/PS3.pdf)
 
 # Additional Material
 
