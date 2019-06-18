@@ -41,6 +41,8 @@ Lecture 8: [Aggregate Expenditure](/files/teaching/macro/Slides101_08_AE.pdf), [
 
 Lecture 9: [AD-AS](/files/teaching/macro/Slides101_09_AD-AS.pdf)
 
+Lecture 10: [Monetary Policy](/files/teaching/macro/Slides101_10_MP.pdf)
+
 # Problem Sets and Midterm
 
 Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf), [Solutions](/files/teaching/macro/PS1_Sols.pdf)
@@ -62,6 +64,10 @@ Video: [A Selfish Argument for Making the World a Better Place](https://youtu.be
 Reading: [Output Gap](/files/teaching/macro/Reading-Output_Gap.pdf)
 
 Reading: [What Do Financial Market Indicators Tell Us?](/files/teaching/macro/Reading-Financial_Market_Indicators.pdf)
+
+Reading: [What Is Keynesian Economics?](/files/teaching/macro/Reading-Keynesian_Economics.pdf)
+
+Video: [The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo)
 
 ---
 
