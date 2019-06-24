@@ -45,6 +45,8 @@ Lecture 10: [Monetary Policy](/files/teaching/macro/Slides101_10_MP.pdf)
 
 Lecture 11: [Phillips Curve](/files/teaching/macro/Slides101_11_PC.pdf), [Fiscal Policy](/files/teaching/macro/Slides101_11_FP.pdf)
 
+Lecture 12: [Open Economy](/files/teaching/macro/Slides101_12_OE.pdf)
+
 # Problem Sets and Midterm
 
 Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf), [Solutions](/files/teaching/macro/PS1_Sols.pdf)
