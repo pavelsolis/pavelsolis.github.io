@@ -73,7 +73,13 @@ Reading: [What Do Financial Market Indicators Tell Us?](/files/teaching/macro/Re
 
 Reading: [What Is Keynesian Economics?](/files/teaching/macro/Reading-Keynesian_Economics.pdf)
 
+Reading: [Output Gap (2)](/files/teaching/macro/Reading-Output_Gap_2.pdf)
+
 Video: [The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo)
+
+Reading: [Fiscal and Monetary Policy in Times of Crisis](/files/teaching/macro/Reading-FP&MP_in_Crisis.pdf)
+
+Reading: [Real Exchange Rates - What Money Can Buy](/files/teaching/macro/Reading-RER.pdf)
 
 ---
 
@@ -91,20 +97,20 @@ This course gives an introduction to estimation for economic research.
 
 # Files
 
-First class: [Data file](/files/teaching/intro_hs0.csv), [do-file](/files/teaching/example.do)
+First class: [Data file](/files/teaching/intro_hs0.csv), [do-file](/files/teaching/metrics/example.do)
 
-Second class: How to create a log file when working through Citrix Retriever ([do-file](/files/teaching/how-to-log-file.do))
+Second class: How to create a log file when working through Citrix Retriever ([do-file](/files/teaching/metrics/how-to-log-file.do))
 
-[Econometrics Guide](/files/teaching/Econometrics_Guide.pdf) by Tyler Ransom
+[Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
 
 [Intuititve Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
 
 [Cleaning data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
-Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/dummies_and_interactions.do)
+Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/metrics/dummies_and_interactions.do)
 
-[Practice Questions for Exam 2](/files/teaching/Exam2_PracticeQuestions.pdf)
+[Practice Questions for Exam 2](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
 
-[Practice Questions for Proxy Variables](/files/teaching/Ch9_PracticeQuestions.pdf)
+[Practice Questions for Proxy Variables](/files/teaching/metrics/Ch9_PracticeQuestions.pdf)
 
 ___
