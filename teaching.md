@@ -47,6 +47,8 @@ Lecture 11: [Phillips Curve](/files/teaching/macro/Slides101_11_PC.pdf), [Fiscal
 
 Lecture 12: [Open Economy](/files/teaching/macro/Slides101_12_OE.pdf)
 
+Lecture 13: [International Financial System](/files/teaching/macro/Slides101_13_IFS.pdf), [Summary](/files/teaching/macro/Slides101_13_Summary.pdf)
+
 # Problem Sets and Midterm
 
 Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf), [Solutions](/files/teaching/macro/PS1_Sols.pdf)
@@ -57,7 +59,7 @@ Midterm: [Solutions](/files/teaching/macro/Midterm_Sols.pdf)
 
 Problem Set 3: [Exercises](/files/teaching/macro/PS3.pdf), [Solutions](/files/teaching/macro/PS3_Sols.pdf)
 
-Problem Set 4: [Exercises](/files/teaching/macro/PS4.pdf)
+Problem Set 4: [Exercises](/files/teaching/macro/PS4.pdf), Solutions
 
 # Additional Material
 
