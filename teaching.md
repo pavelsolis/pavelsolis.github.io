@@ -51,15 +51,15 @@ Lecture 13: [International Financial System](/files/teaching/macro/Slides101_13_
 
 # Problem Sets and Midterm
 
-Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf), [Solutions](/files/teaching/macro/PS1_Sols.pdf)
+Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf)
 
-Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf), [Solutions](/files/teaching/macro/PS2_Sols.pdf)
+Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf)
 
 Midterm: [Solutions](/files/teaching/macro/Midterm_Sols.pdf)
 
-Problem Set 3: [Exercises](/files/teaching/macro/PS3.pdf), [Solutions](/files/teaching/macro/PS3_Sols.pdf)
+Problem Set 3: [Exercises](/files/teaching/macro/PS3.pdf)
 
-Problem Set 4: [Exercises](/files/teaching/macro/PS4.pdf), [Solutions](/files/teaching/macro/PS4_Sols.pdf)
+Problem Set 4: [Exercises](/files/teaching/macro/PS4.pdf)
 
 # Additional Material
 
