@@ -55,8 +55,6 @@ Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf)
 
 Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf)
 
-Midterm: [Solutions](/files/teaching/macro/Midterm_Sols.pdf)
-
 Problem Set 3: [Exercises](/files/teaching/macro/PS3.pdf)
 
 Problem Set 4: [Exercises](/files/teaching/macro/PS4.pdf)
