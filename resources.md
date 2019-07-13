@@ -38,6 +38,8 @@ Econometrics: [Statistics](https://www.statlect.com/fundamentals-of-statistics/)
 
 Math: [SpaceMath@NASA](https://spacemath.gsfc.nasa.gov/) | [Calculus and Linear Algebra](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 
+Data Science: [Ingeotec](http://www.ingeotec.mx/)
+
 # Reports
 IMF: GFSR, WEO | BIS: Quarterly | OECD | FSB | Bank of England | European Central Bank | Bank of Canada | Banco de México
 Federal Reserve Board | FRBNY | FRBSF | FRBD 
