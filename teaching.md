@@ -4,6 +4,8 @@ title: Teaching
 ---
 
 
+---
+
 # 180.334 (02) - Econometrics
 
 This course gives an introduction to estimation for economic research.
@@ -18,11 +20,20 @@ This course gives an introduction to estimation for economic research.
 
 # Files
 
+[Data file](/files/teaching/intro_hs0.csv), [do-file](/files/teaching/metrics/example.do)
+
+How to create a log file when working through Citrix Retriever ([do-file](/files/teaching/metrics/how-to-log-file.do))
+
+Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/metrics/dummies_and_interactions.do)
+
+[Practice Questions for Exam 2](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
+
+[Practice Questions for Proxy Variables](/files/teaching/metrics/Ch9_PracticeQuestions.pdf)
+
+
+# Links
+
 [Introduction](https://en.wikibooks.org/wiki/Stata/Introduction)
-
-First class: [Data file](/files/teaching/intro_hs0.csv), [do-file](/files/teaching/metrics/example.do)
-
-Second class: How to create a log file when working through Citrix Retriever ([do-file](/files/teaching/metrics/how-to-log-file.do))
 
 [Stata Returned Results](https://stats.idre.ucla.edu/stata/faq/how-can-i-access-information-stored-after-i-run-a-command-in-stata-returned-results/)
 
@@ -30,13 +41,7 @@ Second class: How to create a log file when working through Citrix Retriever ([d
 
 [Intuititve Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
 
-[Cleaning data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
-
-Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/metrics/dummies_and_interactions.do)
-
-[Practice Questions for Exam 2](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
-
-[Practice Questions for Proxy Variables](/files/teaching/metrics/Ch9_PracticeQuestions.pdf)
+[Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
 
 ---
