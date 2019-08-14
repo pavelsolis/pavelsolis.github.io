@@ -35,6 +35,8 @@ Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/metric
 
 [Introduction](https://en.wikibooks.org/wiki/Stata/Introduction)
 
+[Keyboard Shortcuts](http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/)
+
 [Stata Returned Results](https://stats.idre.ucla.edu/stata/faq/how-can-i-access-information-stored-after-i-run-a-command-in-stata-returned-results/)
 
 [Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
