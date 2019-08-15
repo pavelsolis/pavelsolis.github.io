@@ -39,11 +39,13 @@ Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/metric
 
 [Stata Returned Results](https://stats.idre.ucla.edu/stata/faq/how-can-i-access-information-stored-after-i-run-a-command-in-stata-returned-results/)
 
+[Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
+
+[Econometrics By Simulation](http://www.econometricsbysimulation.com/p/stata.html)
+
 [Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
 
 [Intuititve Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
-
-[Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
 
 ---
