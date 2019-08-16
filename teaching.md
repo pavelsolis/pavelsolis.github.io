@@ -41,6 +41,8 @@ Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/metric
 
 [Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
+[Stata Tips](https://www.stata-journal.com/sjsearch.html?choice=keyword&q=stata+tip)
+
 [Econometrics By Simulation](http://www.econometricsbysimulation.com/p/stata.html)
 
 [Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
