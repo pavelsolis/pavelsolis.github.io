@@ -16,38 +16,20 @@ This course gives an introduction to estimation for economic research.
 
 **Lecture Times:** Th 03:00 PM - 03:50 PM
 
-**Office Hours:** Th 02:00 PM - 03:00 PM in the Greenhouse Annex ([Map](/files/teaching/Greenhouse_Map.png), [Entrance](/files/teaching/Greenhouse_Entrance.png))
+**Office Hours:** Th 01:50 PM - 02:50 PM in the Greenhouse Annex ([Map](/files/teaching/Greenhouse_Map.png), [Entrance](/files/teaching/Greenhouse_Entrance.png))
 
 # Files
 
 [Data file](/files/teaching/intro_hs0.csv), [do-file](/files/teaching/metrics/example.do)
-
-How to create a log file when working through Citrix Retriever ([do-file](/files/teaching/metrics/how-to-log-file.do))
-
-Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/metrics/dummies_and_interactions.do)
-
-[Practice Questions for Exam 2](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
-
-[Practice Questions for Proxy Variables](/files/teaching/metrics/Ch9_PracticeQuestions.pdf)
 
 
 # Links
 
 [Introduction](https://en.wikibooks.org/wiki/Stata/Introduction)
 
-[Keyboard Shortcuts](http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/)
 
-[Stata Returned Results](https://stats.idre.ucla.edu/stata/faq/how-can-i-access-information-stored-after-i-run-a-command-in-stata-returned-results/)
 
-[Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
-[Stata Tips](https://www.stata-journal.com/sjsearch.html?choice=keyword&q=stata+tip)
-
-[Econometrics By Simulation](http://www.econometricsbysimulation.com/p/stata.html)
-
-[Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
-
-[Intuititve Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
 
 
 ---
