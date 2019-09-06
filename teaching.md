@@ -3,6 +3,38 @@ layout: page
 title: Teaching
 ---
 
+
+---
+
+# 180.334 (02) - Econometrics
+
+This course gives an introduction to estimation for economic research.
+
+**E-mail:** <msolism1@jhu.edu>
+
+**Location:** Hodson 316
+
+**Lecture Times:** Th 03:00 PM - 03:50 PM
+
+**Office Hours:** Th 01:50 PM - 02:50 PM in the Greenhouse Annex ([Map](/files/teaching/Greenhouse_Map.png), [Entrance](/files/teaching/Greenhouse_Entrance.png))
+
+# Files
+
+[Data file](/files/teaching/metrics/intro_hs0.csv)
+
+
+# Links
+
+[Introduction](https://en.wikibooks.org/wiki/Stata/Introduction)
+
+
+
+
+
+
+---
+
+
 # 180.101.11 - Elements of Macroeconomics
 
 This course introduces basic concepts and models in macroeconomics and applies them towards gaining an understanding of 
@@ -51,15 +83,13 @@ Lecture 13: [International Financial System](/files/teaching/macro/Slides101_13_
 
 # Problem Sets and Midterm
 
-Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf), [Solutions](/files/teaching/macro/PS1_Sols.pdf)
+Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf)
 
-Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf), [Solutions](/files/teaching/macro/PS2_Sols.pdf)
+Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf)
 
-Midterm: [Solutions](/files/teaching/macro/Midterm_Sols.pdf)
+Problem Set 3: [Exercises](/files/teaching/macro/PS3.pdf)
 
-Problem Set 3: [Exercises](/files/teaching/macro/PS3.pdf), [Solutions](/files/teaching/macro/PS3_Sols.pdf)
-
-Problem Set 4: [Exercises](/files/teaching/macro/PS4.pdf), Solutions
+Problem Set 4: [Exercises](/files/teaching/macro/PS4.pdf)
 
 # Additional Material
 
@@ -82,37 +112,5 @@ Video: [The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo)
 Reading: [Fiscal and Monetary Policy in Times of Crisis](/files/teaching/macro/Reading-FP&MP_in_Crisis.pdf)
 
 Reading: [Real Exchange Rates - What Money Can Buy](/files/teaching/macro/Reading-RER.pdf)
-
----
-
-# 180.334 (02) - Econometrics
-
-This course gives an introduction to estimation for economic research.
-
-**E-mail:** <msolism1@jhu.edu>
-
-**Location:** Hodson 316
-
-**Lecture Times:** Th 03:00 PM - 03:50 PM
-
-**Office Hours:** Th 02:00 PM - 03:00 PM in the Greenhouse Annex ([Map](/files/teaching/Greenhouse_Map.png), [Entrance](/files/teaching/Greenhouse_Entrance.png))
-
-# Files
-
-First class: [Data file](/files/teaching/intro_hs0.csv), [do-file](/files/teaching/metrics/example.do)
-
-Second class: How to create a log file when working through Citrix Retriever ([do-file](/files/teaching/metrics/how-to-log-file.do))
-
-[Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
-
-[Intuititve Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
-
-[Cleaning data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
-
-Dummy Variables and Interaction Terms in Stata: [do-file](/files/teaching/metrics/dummies_and_interactions.do)
-
-[Practice Questions for Exam 2](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
-
-[Practice Questions for Proxy Variables](/files/teaching/metrics/Ch9_PracticeQuestions.pdf)
 
 ___
