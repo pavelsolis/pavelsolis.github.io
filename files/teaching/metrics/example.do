@@ -1,5 +1,6 @@
 * Do-file example with useful commands
 * Pavel Solís
+* 180.334 (02) Econometrics
 * September 2019
 * ===========================================
 

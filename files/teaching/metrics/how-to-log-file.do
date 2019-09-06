@@ -1,4 +1,9 @@
 * This code may help to save log files when working in Stata using Citrix Retriever
+* Pavel Solís
+* 180.334 (02) Econometrics
+* September 2019
+* ===========================================
+
 
 local mainpath "\\Client\C$\Users\Pavel\Project"
 local datapath "Data\mydata.dta"
