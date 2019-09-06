@@ -25,7 +25,7 @@ Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/m
 
 # Links
 
-[Introduction](https://en.wikibooks.org/wiki/Stata/Introduction)
+[Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
 
 
 
