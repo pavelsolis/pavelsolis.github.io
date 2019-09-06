@@ -20,7 +20,7 @@ This course gives an introduction to estimation for economic research.
 
 # Files
 
-[Data file](/files/teaching/metrics/intro_hs0.csv)
+Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/metrics/intro_hs0.dta)), Do-files ([example](/files/teaching/metrics/example.do), [log file](/files/teaching/metrics/how-to-log-file.do))
 
 
 # Links
