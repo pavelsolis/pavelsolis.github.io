@@ -7,11 +7,11 @@ title: Home
 
 Welcome! I am a Ph.D. candidate in Economics at the [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
 
-I study international financial markets. My research focuses on estimating risk premia in global fixed-income markets and understanding their relationship with monetary policy.
+My research focuses on estimating risk premia in global fixed-income markets and understanding their relationship with monetary policy.
 
 **E-mail:** <msolism1@jhu.edu>.
 
-**Research interests:** International Finance, Empirical Asset Pricing, Empirical Macroeconomics.
+**Research Interests:** International Finance, Empirical Macroeconomics, Banking.
 
 **Curriculum Vitae:** CV [forthcoming].
 
