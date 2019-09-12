@@ -27,6 +27,8 @@ Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/m
 
 [Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
 
+[Keyboard Shortcuts](http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/)
+
 
 
 
