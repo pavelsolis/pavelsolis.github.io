@@ -25,7 +25,11 @@ Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/m
 
 # Links
 
-[Introduction](https://en.wikibooks.org/wiki/Stata/Introduction)
+[Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
+
+[Keyboard Shortcuts for Stata](http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/)
+
+[Importance of Using Statistical Software](https://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
 
 
 
