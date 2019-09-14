@@ -32,6 +32,7 @@ Multiple Linear Regression Model: [Do-file](/files/teaching/metrics/MLR.do)
 
 [Importance of Using Statistical Software](https://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
 
+[Stata Returned Results](https://stats.idre.ucla.edu/stata/faq/how-can-i-access-information-stored-after-i-run-a-command-in-stata-returned-results/)
 
 
 
