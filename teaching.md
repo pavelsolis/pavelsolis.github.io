@@ -20,8 +20,9 @@ This course gives an introduction to estimation for economic research.
 
 # Files
 
-Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/metrics/intro_hs0.dta)), Do-files ([example](/files/teaching/metrics/example.do), [log file](/files/teaching/metrics/how-to-log-file.do))
+Introduction: Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/metrics/intro_hs0.dta)), Do-files ([example](/files/teaching/metrics/example.do), [log file](/files/teaching/metrics/how-to-log-file.do))
 
+Multiple Linear Regression Model: [Do-file](/files/teaching/metrics/MLR.do)
 
 # Links
 
