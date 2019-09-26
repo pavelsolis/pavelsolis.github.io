@@ -24,6 +24,8 @@ Introduction: Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/fi
 
 Multiple Linear Regression Model: [Do-file](/files/teaching/metrics/MLR.do)
 
+Properties of the MLR Model: [Do-file](/files/teaching/metrics/MLR_properties.do)
+
 # Links
 
 [Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
