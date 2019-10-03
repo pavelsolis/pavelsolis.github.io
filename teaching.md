@@ -20,8 +20,11 @@ This course gives an introduction to estimation for economic research.
 
 # Files
 
-Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/metrics/intro_hs0.dta)), Do-files ([example](/files/teaching/metrics/example.do), [log file](/files/teaching/metrics/how-to-log-file.do))
+Introduction: Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/metrics/intro_hs0.dta)), Do-files ([example](/files/teaching/metrics/example.do), [log file](/files/teaching/metrics/how-to-log-file.do))
 
+Multiple Linear Regression Model: [do-file](/files/teaching/metrics/MLR.do)
+
+Properties of the MLR Model: [do-file](/files/teaching/metrics/MLR_properties.do)
 
 # Links
 
@@ -31,10 +34,11 @@ Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/m
 
 [Importance of Using Statistical Software](https://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
 
+[Stata Returned Results](https://stats.idre.ucla.edu/stata/faq/how-can-i-access-information-stored-after-i-run-a-command-in-stata-returned-results/)
 
+[Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
 
-
-
+[Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
 ---
 
