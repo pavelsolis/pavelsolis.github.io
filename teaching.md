@@ -26,6 +26,8 @@ Multiple Linear Regression Model: [do-file](/files/teaching/metrics/MLR.do)
 
 Properties of the MLR Model: [do-file](/files/teaching/metrics/MLR_properties.do)
 
+Data Screening to Detect Potential Errors: [do-file](/files/teaching/metrics/Data_Screening.do)
+
 # Links
 
 [Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
