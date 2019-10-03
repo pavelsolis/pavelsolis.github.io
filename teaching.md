@@ -38,7 +38,9 @@ Properties of the MLR Model: [Do-file](/files/teaching/metrics/MLR_properties.do
 
 [Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
 
+[Intuitive Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
 
+[Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
 ---
 
