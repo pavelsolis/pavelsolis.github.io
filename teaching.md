@@ -42,6 +42,8 @@ Data Screening to Detect Potential Errors: [do-file](/files/teaching/metrics/Dat
 
 [Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
+[Intuitive Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
+
 ---
 
 
