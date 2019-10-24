@@ -28,6 +28,8 @@ Properties of the MLR Model: [do-file](/files/teaching/metrics/MLR_properties.do
 
 Data Screening to Detect Potential Errors: [do-file](/files/teaching/metrics/Data_Screening.do)
 
+Dummy Variables and Interaction Terms: [do-file](/files/teaching/metrics/Dummies_Interactions.do)
+
 # Links
 
 [Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
@@ -43,6 +45,8 @@ Data Screening to Detect Potential Errors: [do-file](/files/teaching/metrics/Dat
 [Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
 
 [Intuitive Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
+
+[Useful Stata Tips](http://www.econometricsbysimulation.com/p/stata.html) by Francis Smart
 
 ---
 
