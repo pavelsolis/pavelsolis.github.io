@@ -48,6 +48,8 @@ Dummy Variables and Interaction Terms: [do-file](/files/teaching/metrics/Dummies
 
 [Useful Stata Tips](http://www.econometricsbysimulation.com/p/stata.html) by Francis Smart
 
+[Stata Playlists](https://www.youtube.com/user/statacorp/playlists)
+
 ---
 
 
