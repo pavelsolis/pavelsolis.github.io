@@ -30,6 +30,8 @@ Data Screening to Detect Potential Errors: [do-file](/files/teaching/metrics/Dat
 
 Dummy Variables and Interaction Terms: [do-file](/files/teaching/metrics/Dummies_Interactions.do)
 
+Heteroskedasticity: [do-file](/files/teaching/metrics/Heteroskedasticity.do)
+
 # Links
 
 [Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
