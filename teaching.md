@@ -32,6 +32,8 @@ Dummy Variables and Interaction Terms: [do-file](/files/teaching/metrics/Dummies
 
 Heteroskedasticity: [do-file](/files/teaching/metrics/Heteroskedasticity.do)
 
+[Practice Questions for Exam 2](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
+
 # Links
 
 [Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
