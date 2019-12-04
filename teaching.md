@@ -34,6 +34,8 @@ Heteroskedasticity: [do-file](/files/teaching/metrics/Heteroskedasticity.do)
 
 Exam 2: [Practice Questions](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
 
+TA Section Evaluation: [Survey](https://forms.gle/Xfvf7yYhhdUcPRWE6)
+
 # Links
 
 [Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
