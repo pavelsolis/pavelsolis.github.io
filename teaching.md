@@ -54,7 +54,9 @@ TA Section Evaluation: [Survey](https://forms.gle/Xfvf7yYhhdUcPRWE6)
 
 [Useful Stata Tips](http://www.econometricsbysimulation.com/p/stata.html) by Francis Smart
 
-[Stata Playlists](https://www.youtube.com/user/statacorp/playlists)
+[Internet Guide to Stata](http://wlm.userweb.mwn.de/Stata/wstatord.htm) by W. Ludwig-Mayerhofer
+
+[Stata Videos](https://www.youtube.com/user/statacorp/playlists)
 
 ---
 
