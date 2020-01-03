@@ -5,7 +5,7 @@ title: Research
 
 # Work in Progress
 
-"Term Premia in Emerging Markets" <!-- (Paper <code>&#124;</code> Slides <code>&#124;</code> Data <code>&#124;</code> Code) -->
+"Term Premia in Emerging Markets" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 Solís, Pavel. *Working Paper*, 2020.
 <!--
@@ -14,7 +14,7 @@ Solís, Pavel. *Working Paper*, 2020.
 -->
 
 
-"The Effect of Monetary Policy on Asset Prices and Capital Flows in Emerging Markets: Do Statements Matter?" <!-- (Paper <code>&#124;</code> Slides <code>&#124;</code> Data <code>&#124;</code> Code) -->
+"The Effect of Monetary Policy on Asset Prices and Capital Flows in Emerging Markets: Do Statements Matter?" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 Solís, Pavel. *Working Paper*, 2020.
 <!--
@@ -23,7 +23,7 @@ Solís, Pavel. *Working Paper*, 2020.
 -->
 
 
-"Monetary Policy and Bank Profitability" <!-- (Paper <code>&#124;</code> Slides <code>&#124;</code> Data <code>&#124;</code> Code) -->
+"Monetary Policy and Bank Profitability" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 Solís, Pavel. *Working Paper*, 2019.
 <!--
@@ -47,7 +47,7 @@ Solís, Pavel. *Working Paper*, 2017.
 -->
 
 
-"The Structure of the Mexican Interbank Market" ([Paper](/files/research/TieringPaper.pdf) <code>&#124;</code> [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
+"The Structure of the Mexican Interbank Market" ([Paper](/files/research/TieringPaper.pdf) &#124; [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
 
 Solís, Pavel. *Banco de México* mimeo, 2013.
 <!--
