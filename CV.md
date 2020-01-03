@@ -3,6 +3,10 @@ layout: page
 title: CV
 ---
 
+Curriculum Vitae: [pdf](/files/mpsmcv.pdf)
+
+<embed src="https://pavelsolis.github.io/files/mpsmcv.pdf" type="application/pdf" />
+
 This site is under construction.
 
 # Education
