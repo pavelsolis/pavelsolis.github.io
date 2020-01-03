@@ -13,7 +13,7 @@ Solís, Pavel. *Working Paper*, 2020.
 **Abstract**: 
 -->
 
-                                                ---
+<!--                                                --- -->
 
 "**The Effect of Monetary Policy on Asset Prices and Capital Flows in Emerging Markets: Do Statements Matter?**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
@@ -23,7 +23,6 @@ Solís, Pavel. *Working Paper*, 2020.
 **Abstract**: 
 -->
 
-                                                ---
 
 "**Monetary Policy and Bank Profitability**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
@@ -49,7 +48,6 @@ Solís, Pavel. *Working Paper*, 2017.
 <img align="rigt" width="300" height="150" src="/files/research/GFCyFigB.png" alt="Decomposition of Total Returns">
 -->
 
-                                                ---
 
 "**The Structure of the Mexican Interbank Market**" ([Paper](/files/research/TieringPaper.pdf) &#124; [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
 
