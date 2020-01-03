@@ -139,4 +139,9 @@ Reading: [Fiscal and Monetary Policy in Times of Crisis](/files/teaching/macro/R
 
 Reading: [Real Exchange Rates - What Money Can Buy](/files/teaching/macro/Reading-RER.pdf)
 
+<!--
+---
+# Testimonials
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+-->
 ___
