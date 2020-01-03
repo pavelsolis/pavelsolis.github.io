@@ -13,7 +13,7 @@ My research focuses on estimating risk premia in global fixed-income markets and
 
 **Research Interests:** International Finance, Empirical Macroeconomics, Banking.
 
-**Curriculum Vitae:** [PDF](/files/mpsmcv.pdf "Curriculum Vitae").
+**Curriculum Vitae:** <! -- [PDF](/files/mpsmcv.pdf "Curriculum Vitae"). -->
 
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), 
 RePec, Research Gate, Mendeley, ORCID.
