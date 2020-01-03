@@ -5,6 +5,8 @@ title: Research
 
 # Work in Progress
 
+---
+
 "**Term Premia in Emerging Markets**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 Solís, Pavel. *Working Paper*, 2020.
@@ -35,6 +37,8 @@ Solís, Pavel. *Working Paper*, 2019.
 
 # Working Papers
 
+---
+
 "**Capital Flows, Stock Returns and the Global Financial Cycle in Emerging Markets**" ([Paper](/files/research/GFCyPaper.pdf)) <!-- Abstract -->
 
 Solís, Pavel. *Working Paper*, 2017.
@@ -64,6 +68,8 @@ Solís, Pavel. *Banco de México* mimeo, 2013.
 
 
 # Publication
+
+---
 
 "**Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
 
