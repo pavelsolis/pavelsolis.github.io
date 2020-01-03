@@ -5,18 +5,54 @@ title: Research
 
 # Work in Progress
 
-Term Premia
-<!-- [Paper](/files/research/TieringPaper.pdf) | [Slides](/files/research/TieringSlides.pdf) | Data | Code -->
+<!-- Paper | Slides | Data | Code -->
+"Term Premia in Emerging Markets" (Paper | Slides | Data | Code)
+
+Solís, Pavel. *Working Paper*, 2020.
+
+‣ Credit risk needs to be taken into account when estimating the term premia in emerging markets.
+
+**Abstract**: 
+
+
+"The Effect of Monetary Policy on Asset Prices and Capital Flows in Emerging Markets: Do Statements Matter?" (Paper | Slides | Data | Code)
+
+Solís, Pavel. *Working Paper*, 2020.
+
+‣ Surprises in *both* the current policy rate and its future path influence asset prices and capital flows in emerging markets. 
+
+**Abstract**: 
+
+
+"Monetary Policy and Bank Profitability" (Paper | Slides | Data | Code)
+
+Solís, Pavel. *Working Paper*, 2019.
+
+‣ Banks use different strategies to insulate their return on assets from monetary policy changes
+
+**Abstract**: 
+
 
 # Working Papers
 
-Global Financial Cycle.
+"Capital Flows, Stock Returns and the Global Financial Cycle in Emerging Markets" ([Paper](/files/research/GFCyPaper.pdf))
 
-The Structure of the Mexican Interbank Market
+Solís, Pavel. *Working Paper*, 2017.
+
+‣ Gross equity inflows to emerging markets are mainly driven by global shocks and total stock returns by domestic shocks.
+
+**Abstract**: This paper proposes a simple methodology to identify push and pull factors using gross capital inflows and stock market returns. The analysis is conducted over a panel of 16 emerging markets from 1999 to 2015. A portfolio allocation model is used to guide the identification strategy. The model is consistent with the empirical results. Gross equity inflows are mainly driven by push shocks and total returns by pull shocks. Both shocks are correlated with the VIX.
+
+
+<img align="left" width="300" height="150" src="/files/research/GFCyFigA.png" alt="Decomposition of Inflows">
+<img align="rigt" width="300" height="150" src="/files/research/GFCyFigB.png" alt="Decomposition of Total Returns">
+
+
+"The Structure of the Mexican Interbank Market" ([Paper](/files/research/TieringPaper.pdf) | [Slides](/files/research/TieringSlides.pdf))
+
+Solís, Pavel. *Banco de México* mimeo, 2013.
 
 ‣ The Mexican interbank market is tiered in line with a core-periphery structure.
-
-[Paper](/files/research/TieringPaper.pdf) | [Slides](/files/research/TieringSlides.pdf) | Data | Code
 
 **Abstract**: This paper provides evidence that the Mexican interbank market is tiered. I fit the core-periphery model developed by Craig and von Peter (2010) to 157 daily networks (from January 3 to August 15, 2011) of bilateral exposures (aggregated and disaggregated) between 41 commercial banks and 6 development banks. The main findings are (i) the core-periphery model provides a better fit to the Mexican interbank market than random networks, that is there are money center banks that intermediate with the rest of the banks in the market, (ii) the size and the composition of this group of banks is remarkably stable over time for aggregated (and some disaggregated) networks, (iii) the relations (borrowing and lending) between banks in the core and the periphery are asymmetric. The results are robust and significant.
 
@@ -25,7 +61,7 @@ The Structure of the Mexican Interbank Market
 
 # Publication
 
-[Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)
+"Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market" ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf))
 
 Cermeño Bazán, Rodolfo  and Pavel Solís. *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67.
 
