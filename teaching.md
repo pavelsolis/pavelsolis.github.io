@@ -30,6 +30,12 @@ Data Screening to Detect Potential Errors: [do-file](/files/teaching/metrics/Dat
 
 Dummy Variables and Interaction Terms: [do-file](/files/teaching/metrics/Dummies_Interactions.do)
 
+Heteroskedasticity: [do-file](/files/teaching/metrics/Heteroskedasticity.do)
+
+Exam 2: [Practice Questions](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
+
+TA Section Evaluation: [Survey](https://forms.gle/Xfvf7yYhhdUcPRWE6)
+
 # Links
 
 [Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
@@ -48,7 +54,9 @@ Dummy Variables and Interaction Terms: [do-file](/files/teaching/metrics/Dummies
 
 [Useful Stata Tips](http://www.econometricsbysimulation.com/p/stata.html) by Francis Smart
 
-[Stata Playlists](https://www.youtube.com/user/statacorp/playlists)
+[Internet Guide to Stata](http://wlm.userweb.mwn.de/Stata/wstatord.htm) by W. Ludwig-Mayerhofer
+
+[Stata Videos](https://www.youtube.com/user/statacorp/playlists)
 
 ---
 
