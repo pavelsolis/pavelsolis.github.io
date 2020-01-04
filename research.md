@@ -52,7 +52,14 @@ Solís, Pavel. *Working Paper*, 2017.
 <img align="rigt" width="300" height="150" src="/files/research/GFCyFigB.png" alt="Decomposition of Total Returns">
 -->
 
+<!--
 <hr style="width:20%">
+hr {
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+}
+-->
 
 "**The Structure of the Mexican Interbank Market**" ([Paper](/files/research/TieringPaper.pdf) &#124; [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
 
