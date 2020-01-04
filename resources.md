@@ -47,7 +47,7 @@ IMF: GFSR, WEO &#124; BIS: Quarterly &#124; OECD &#124; FSB &#124; Bank of Engla
 Federal Reserve Board &#124; FRBNY &#124; FRBSF &#124; FRBD 
 
 # Research Resources <a name="resources"></a>
-[The Writing Process](https://owl.purdue.edu/site_map.html) &#124; [Reference Manager](https://researchguides.library.tufts.edu/c.php?g=249269&p=1659288) &#124; [Communicating Economics](www.communicatingeconomics.com)
+Replication &#124; [The Writing Process](https://owl.purdue.edu/site_map.html) &#124; [Reference Manager](https://researchguides.library.tufts.edu/c.php?g=249269&p=1659288) &#124; [Communicating Economics](www.communicatingeconomics.com) &#124; Markdown
 
 # Books <a name="books"></a>
 Best Economics Books (FT): 2017, 2016, 2015
