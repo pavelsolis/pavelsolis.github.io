@@ -3,9 +3,11 @@ layout: page
 title: Resources
 ---
 
+**[News](#news), [Data](#data), [Conferences](#conferences), [Coding](#coding), [(Non-Technical) Economic Research](#ecoresearch), [Blogs](#blogs), [Podcasts](#podcasts), [Documentaries](#documentaries), [Econ Teaching](#econteaching), [Reports](#reports), [Research Resources](#resources), [Books](#books)**
+
+
 <iframe style="border: 1px solid #333333; overflow: hidden; width: 190px; height: 880px;" src="//research.stlouisfed.org/fred-glance-widget.php?series_ids=DGS10,T10Y2Y,DFEDTARU,VIXCLS,BAMLH0A0HYM2,DEXUSEU,DEXMXUS,CPIAUCSL,UNRATE,GDPC1&transformations=lin,lin,lin,lin,lin,lin,lin,pc1,lin,pca" align="right" height="880" width="320" frameborder="0" scrolling="no"></iframe>
 
-**[News](#news), [Data](#data), [Conferences](#conferences), [Coding](#coding), [(Non-Technical) Economic Research](#ecoresearch), [Blogs](#blogs), [Podcasts](#podcasts), [Documentaries](#documentaries), [Econ Teaching](#econteaching), [Reports](#reports), [Research Resources](#resources), [Books](#books)**
 
 # News <a name="news"></a>
 Financial Times | The Economist | WSJ | NYT | Washington Post | Bloomberg | FiveThirtyEight
