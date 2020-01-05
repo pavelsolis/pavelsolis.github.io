@@ -11,13 +11,13 @@ title: Research
 
 Solís, Pavel. *Working Paper*, 2020.
 <!--
-‣ Credit risk needs to be taken into account when estimating the term premia in emerging markets.
+•▴▪︎‣ Credit risk needs to be taken into account when estimating the term premia in emerging markets.
 **Abstract**: 
 -->
 
 <!--                                                --- -->
 
-"**The Effect of Monetary Policy on Asset Prices and Capital Flows in Emerging Markets: Do Statements Matter?**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**The Effects of Monetary Policy on Asset Prices and Capital Flows in Emerging Markets: Do Statements Matter?**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 Solís, Pavel. *Working Paper*, 2020.
 <!--
@@ -26,11 +26,11 @@ Solís, Pavel. *Working Paper*, 2020.
 -->
 
 
-"**Monetary Policy and Bank Profitability**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 Solís, Pavel. *Working Paper*, 2019.
 <!--
-‣ Banks use different strategies to insulate their return on assets from monetary policy changes
+‣ Banks use different strategies to insulate their return on assets from monetary policy changes.
 **Abstract**: 
 -->
 
