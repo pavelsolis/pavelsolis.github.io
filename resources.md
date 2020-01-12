@@ -36,7 +36,7 @@ The Ascent of Money &#124; Inside the Meltdown (PBS)
 # Econ Teaching <a name="econteaching"></a>
 Economics: CORE Project &#124; Policon &#124; Marginal Revolution U &#124; IMF Basics &#124; Money Smart (FDIC) &#124; History of Economic Thought &#124; Page One Economics &#124; Six Big Ideas (The Economist) &#124; FREDcast &#124; [Yield Curve Visualization (NYT)](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
 
-Econometrics: [Statistics](https://www.statlect.com/fundamentals-of-statistics/) &#124; [Econometrics Academy](https://sites.google.com/site/econometricsacademy/) &#124; Mark Thoma ([320](https://www.youtube.com/playlist?list=PL7vNyVXxvcu-bvpdBR_jExrDl6ESioZ4b), [421a](https://www.youtube.com/playlist?list=PLD15D38DC7AA3B737), [421b](https://www.youtube.com/watch?v=sy3tjVUT5JY&list=PLUTFo-QOO0FJMm6wkflL0hk0Hm2Z3nBva)) &#124; [Stock & Watson](https://www.nber.org/minicourse_2008.html)
+Econometrics: [Statistics](https://www.statlect.com/fundamentals-of-statistics/) &#124; [Econometrics Academy](https://sites.google.com/site/econometricsacademy/) &#124; Mark Thoma ([320](https://www.youtube.com/playlist?list=PL7vNyVXxvcu-bvpdBR_jExrDl6ESioZ4b), [421a](https://www.youtube.com/playlist?list=PLD15D38DC7AA3B737), [421b](https://www.youtube.com/watch?v=sy3tjVUT5JY&list=PLUTFo-QOO0FJMm6wkflL0hk0Hm2Z3nBva)) &#124; Stock & Watson [mini-course](https://www.nber.org/minicourse_2008.html), [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
 
 Math: [SpaceMath@NASA](https://spacemath.gsfc.nasa.gov/) &#124; [Calculus and Linear Algebra](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 
