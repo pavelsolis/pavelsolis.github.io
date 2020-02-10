@@ -10,18 +10,18 @@ title: Research
 "**Term Premia in Emerging Markets**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 Solís, Pavel. *Working Paper*, 2020.
-<!--
-•▴▪︎‣ Credit risk needs to be taken into account when estimating the term premia in emerging markets.
+<!-- •▴▪︎‣
+‣ Credit risk needs to be taken into account when estimating the term premia in emerging markets.
 **Abstract**: 
 -->
 
 <!--                                                --- -->
 
-"**The Effects of Monetary Policy on Asset Prices and Capital Flows in Emerging Markets: Do Statements Matter?**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Monetary Policy in Emerging Markets: The Role of Actions and Statements**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 Solís, Pavel. *Working Paper*, 2020.
 <!--
-‣ Surprises in *both* the current policy rate and its future path influence asset prices and capital flows in emerging markets. 
+‣ The exchange rate, the yield curve and portfolio flows respond asymmetrically to monetary policy actions and statements in an emerging economy. 
 **Abstract**: 
 -->
 
