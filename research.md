@@ -30,10 +30,10 @@ title: Research
 
 "**Monetary Policy in Mexico: The Effects of Actions and Statements on Asset Prices and Portfolio Flows**," *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
-<!-- ‣The exchange rate, the yield curve and portfolio flows respond (asymmetrically) to monetary policy actions *and* statements. -->
+<!-- ‣ Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions and statements. -->
 
 <details>
-  <summary> The exchange rate, the yield curve and portfolio flows respond (asymmetrically) to monetary policy actions *and* statements. </summary>
+  <summary> Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions and statements. </summary>
 
   ***Abstract***: This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. The results show that asset prices and portfolio flows respond significantly not only to actions but to statements. Therefore, even though the policy rate has not bee constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio inflows but not the currency; the exchange rate only reacts to surprises in the current policy rate. Moreover, the response of asset prices and portfolio flows to actions and statements is asymmetric, they react differently to monetary tightenings than easings.
 
@@ -52,7 +52,7 @@ title: Research
 
 "**Capital Flows, Stock Returns and the Global Financial Cycle in Emerging Markets**," *Working Paper*, 2017. ([Paper](/files/research/GFCyPaper.pdf)) <!-- Abstract -->
 
-<!-- ‣ Gross equity inflows to emerging markets are driven by global shocks, while total stock returns by domestic shocks. -->
+<!-- ‣ Gross equity inflows to emerging markets are driven by global shocks, and total stock returns by domestic shocks. -->
 
 <details>
   <summary> Gross equity inflows to emerging markets are driven by global shocks, and total stock returns by domestic shocks. </summary>
