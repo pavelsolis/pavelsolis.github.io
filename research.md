@@ -7,12 +7,12 @@ title: Research
 
 ---
 
-"**Term Premia in Emerging Markets**," *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Term Premia in Emerging Markets**," *Working Paper*. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 ‣ Credit risk needs to be taken into account when estimating the term premia in emerging markets.
 <!-- ‣•▴▪︎‣ -->
 
-"**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**," *Working Paper*, 2019. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**," with Daniel A. Miranda, *Working Paper*. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <!-- ‣ Banks use different strategies to insulate their return on assets from monetary policy changes. -->
 
