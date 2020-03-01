@@ -7,12 +7,12 @@ title: Research
 
 ---
 
-"**Term Premia in Emerging Markets**", *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Term Premia in Emerging Markets**," *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 ‣ Credit risk needs to be taken into account when estimating the term premia in emerging markets.
 <!-- ‣•▴▪︎‣ -->
 
-"**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**", *Working Paper*, 2019. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**," *Working Paper*, 2019. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <!-- ‣ Banks use different strategies to insulate their return on assets from monetary policy changes. -->
 
@@ -28,7 +28,7 @@ title: Research
 
 ---
 
-"**Monetary Policy in Mexico: The Effects of Actions and Statements on Asset Prices and Portfolio Flows**", *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Monetary Policy in Mexico: The Effects of Actions and Statements on Asset Prices and Portfolio Flows**," *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <!-- ‣The exchange rate, the yield curve and portfolio flows respond (asymmetrically) to monetary policy actions *and* statements. -->
 
@@ -39,7 +39,7 @@ title: Research
 
 </details>
 
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**", *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <!-- ‣ The response of the exchange rate to policy rate surprises can only be perceived with intraday data. -->
 
@@ -50,7 +50,7 @@ title: Research
 
 </details>
 
-"**Capital Flows, Stock Returns and the Global Financial Cycle in Emerging Markets**", *Working Paper*, 2017. ([Paper](/files/research/GFCyPaper.pdf)) <!-- Abstract -->
+"**Capital Flows, Stock Returns and the Global Financial Cycle in Emerging Markets**," *Working Paper*, 2017. ([Paper](/files/research/GFCyPaper.pdf)) <!-- Abstract -->
 
 <!-- ‣ Gross equity inflows to emerging markets are driven by global shocks, while total stock returns by domestic shocks. -->
 
@@ -75,7 +75,7 @@ margin-right: auto;
 }
 -->
 
-"**The Structure of the Mexican Interbank Market**", *Banco de México* mimeo, 2013. ([Paper](/files/research/TieringPaper.pdf) &#124; [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
+"**The Structure of the Mexican Interbank Market**," *Banco de México* mimeo, 2013. ([Paper](/files/research/TieringPaper.pdf) &#124; [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
 
 <!-- ‣ The Mexican interbank market has a core-periphery structure. -->
 
@@ -96,7 +96,7 @@ margin-right: auto;
 
 ---
 
-"**Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán. *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
+"**Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
 
 <!-- ‣ Stock returns in Mexico are associated with macroeconomic surprises from Mexico *and* the U.S. -->
 
