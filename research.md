@@ -55,7 +55,7 @@ title: Research
 <!-- ‣ Gross equity inflows to emerging markets are driven by global shocks, while total stock returns by domestic shocks. -->
 
 <details>
-  <summary> Gross equity inflows to emerging markets are driven by global shocks, while total stock returns by domestic shocks. </summary>
+  <summary> Gross equity inflows to emerging markets are driven by global shocks, and total stock returns by domestic shocks. </summary>
 
   ***Abstract***: This paper proposes a simple methodology to identify push and pull factors using gross capital inflows and stock market returns. The analysis is conducted over a panel of 16 emerging markets from 1999 to 2015. A portfolio allocation model is used to guide the identification strategy. The model is consistent with the empirical results. Gross equity inflows are mainly driven by push shocks and total returns by pull shocks. Both shocks are correlated with the VIX.
 
