@@ -103,7 +103,7 @@ margin-right: auto;
 <details>
   <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
 
-  ***Abstract***: This paper studies the relationship between the arrival of macroeconomic news and the Mexican stock market. We use GARCH models to examine the reaction of daily excess returns of stock prices to the unexpected component of Mexican and U.S. macroeconomic news from 2003 to 2008. We find that the dynamics of daily returns in the Mexican stock market is linked to the arrival of new information on macroeconomic fundamentals from both Mexico and the U.S.
+  ***Abstract***: This paper studies the relationship between the arrival of macroeconomic news and the Mexican stock market. We use GARCH models to examine the reaction of daily excess returns of stock prices to surprises in Mexican and U.S. macroeconomic releases from 2003 to 2008. We find that the dynamics of daily returns in the Mexican stock market is linked to the arrival of new information on macroeconomic fundamentals from both Mexico and the U.S.
 
 </details>
 
