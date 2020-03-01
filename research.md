@@ -30,10 +30,10 @@ title: Research
 
 "**Monetary Policy in Mexico: The Effects of Actions and Statements on Asset Prices and Portfolio Flows**," *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
-<!-- ‣ Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions and statements. -->
+<!-- ‣ Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions *and* statements. -->
 
 <details>
-  <summary> Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions and statements. </summary>
+  <summary> Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions <i>and</i> statements. </summary>
 
   ***Abstract***: This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. The results show that asset prices and portfolio flows respond significantly not only to actions but to statements. Therefore, even though the policy rate has not bee constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio inflows but not the currency; the exchange rate only reacts to surprises in the current policy rate. Moreover, the response of asset prices and portfolio flows to actions and statements is asymmetric, they react differently to monetary tightenings than easings.
 
@@ -101,7 +101,7 @@ margin-right: auto;
 <!-- ‣ Stock returns in Mexico are associated with macroeconomic surprises from Mexico *and* the U.S. -->
 
 <details>
-  <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico and the U.S. </summary>
+  <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
 
   ***Abstract***: This paper studies the relationship between the arrival of macroeconomic news and the Mexican stock market. We use GARCH models to examine the reaction of daily excess returns of stock prices to the unexpected component of Mexican and U.S. macroeconomic news from 2003 to 2008. We find that the dynamics of daily returns in the Mexican stock market is linked to the arrival of new information on macroeconomic fundamentals from both Mexico and the U.S.
 
