@@ -44,7 +44,7 @@ title: Research
 <!-- ‣ The response of the exchange rate to policy rate surprises can only be perceived with intraday data. -->
 
 <details>
-  <summary> The response of the exchange rate to policy rate surprises can only be perceived with intraday data. </summary>
+  <summary> The exchange rate response to policy rate surprises can only be perceived with intraday data. </summary>
 
   ***Abstract***: Monetary policy in advanced countries exerts a strong impact on exchange rates. In emerging markets, however, the evidence shows that the exchange rate response is low or nonexistent, even using daily data, which has been characterized as a high-frequency exchange rate puzzle. I use an event study methodology and a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous shocks to the policy rate. The results show that an unanticipated increase in the policy rate appreciates the currency, and raises bond yields. The exchange rate puzzle is explained using a validation study by comparing intraday and daily changes in asset prices. The analysis reveals that the exchange rate response is sensitive to data frequency; it can only be perceived with intraday data. Further, this sensitivity is characteristic of the exchange rate since the monetary policy effect on the yield curve is still observed with daily data.
 
