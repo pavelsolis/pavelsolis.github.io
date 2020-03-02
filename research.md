@@ -19,7 +19,7 @@ title: Research
 <details>
   <summary> Banks use different strategies to insulate their return on assets from monetary policy changes. </summary>
 
-  ***Abstract***: Using bank-level data from Mexico, this paper shows that banks insulate their return on assets (ROA) from monetary policy changes using different strategies. The ROA components of some banks are insensitive to changes in monetary policy, especially their net interest margin (NIM) since they match their interest income and expenses. Meanwhile, other banks offset changes in their NIM with other ROA components. The strategy implemented depends on the charter (domestic or foreign) and business model. For example, the largest banks do not match their interest income and expenses. Subsidiaries of foreign banks, however, are closer to matching than domestic banks.
+  <b><i>Abstract:</b></i> Using bank-level data from Mexico, this paper shows that banks insulate their return on assets (ROA) from monetary policy changes using different strategies. The ROA components of some banks are insensitive to changes in monetary policy, especially their net interest margin (NIM) since they match their interest income and expenses. Meanwhile, other banks offset changes in their NIM with other ROA components. The strategy implemented depends on the charter (domestic or foreign) and business model. For example, the largest banks do not match their interest income and expenses. Subsidiaries of foreign banks, however, are closer to matching than domestic banks.
 
 </details>
 
@@ -35,7 +35,7 @@ title: Research
 <details>
   <summary> Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions <i>and</i> statements. </summary>
 
-  ***Abstract***: This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. The results show that asset prices and portfolio flows respond significantly not only to actions but to statements. Therefore, even though the policy rate has not bee constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio inflows but not the currency; the exchange rate only reacts to surprises in the current policy rate. Moreover, the response of asset prices and portfolio flows to actions and statements is asymmetric, they react differently to monetary tightenings than easings.
+  <b><i>Abstract:</b></i> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. The results show that asset prices and portfolio flows respond significantly not only to actions but to statements. Therefore, even though the policy rate has not bee constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio inflows but not the currency; the exchange rate only reacts to surprises in the current policy rate. Moreover, the response of asset prices and portfolio flows to actions and statements is asymmetric, they react differently to monetary tightenings than easings.
 
 </details>
 
@@ -46,7 +46,7 @@ title: Research
 <details>
   <summary> The exchange rate response to policy rate surprises can only be perceived with intraday data. </summary>
 
-  ***Abstract***: Monetary policy in advanced countries exerts a strong impact on exchange rates. In emerging markets, however, the evidence shows that the exchange rate response is low or nonexistent, even using daily data, which has been characterized as a high-frequency exchange rate puzzle. I use an event study methodology and a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous shocks to the policy rate. The results show that an unanticipated increase in the policy rate appreciates the currency, and raises bond yields. The exchange rate puzzle is explained using a validation study by comparing intraday and daily changes in asset prices. The analysis reveals that the exchange rate response is sensitive to data frequency; it can only be perceived with intraday data. Further, this sensitivity is characteristic of the exchange rate since the monetary policy effect on the yield curve is still observed with daily data.
+  <b><i>Abstract:</b></i> Monetary policy in advanced countries exerts a strong impact on exchange rates. In emerging markets, however, the evidence shows that the exchange rate response is low or nonexistent, even using daily data, which has been characterized as a high-frequency exchange rate puzzle. I use an event study methodology and a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous shocks to the policy rate. The results show that an unanticipated increase in the policy rate appreciates the currency, and raises bond yields. The exchange rate puzzle is explained using a validation study by comparing intraday and daily changes in asset prices. The analysis reveals that the exchange rate response is sensitive to data frequency; it can only be perceived with intraday data. Further, this sensitivity is characteristic of the exchange rate since the monetary policy effect on the yield curve is still observed with daily data.
 
 </details>
 
@@ -57,7 +57,7 @@ title: Research
 <details>
   <summary> Gross equity inflows to emerging markets are driven by global shocks, and total stock returns by domestic shocks. </summary>
 
-  ***Abstract***: This paper proposes a simple methodology to identify push and pull factors using gross capital inflows and stock market returns. The analysis is conducted over a panel of 16 emerging markets from 1999 to 2015. A portfolio allocation model is used to guide the identification strategy. The model is consistent with the empirical results. Gross equity inflows are mainly driven by push shocks and total returns by pull shocks. Both shocks are correlated with the VIX.
+  <b><i>Abstract:</b></i> This paper proposes a simple methodology to identify push and pull factors using gross capital inflows and stock market returns. The analysis is conducted over a panel of 16 emerging markets from 1999 to 2015. A portfolio allocation model is used to guide the identification strategy. The model is consistent with the empirical results. Gross equity inflows are mainly driven by push shocks and total returns by pull shocks. Both shocks are correlated with the VIX.
 
 </details>
 
@@ -82,7 +82,7 @@ margin-right: auto;
 <details>
   <summary> The Mexican interbank market has a core-periphery structure. </summary>
 
-  ***Abstract***: This paper provides evidence that the Mexican interbank market is tiered. I fit the core-periphery model developed by Craig and von Peter (2010) to 157 daily networks (from January 3 to August 15, 2011) of bilateral exposures (aggregated and disaggregated) between 41 commercial banks and 6 development banks. The main findings are (i) the core-periphery model provides a better fit to the Mexican interbank market than random networks, that is there are money center banks that intermediate with the rest of the banks in the market, (ii) the size and the composition of this group of banks is remarkably stable over time for aggregated (and some disaggregated) networks, (iii) the relations (borrowing and lending) between banks in the core and the periphery are asymmetric. The results are robust and significant.
+  <b><i>Abstract:</b></i> This paper provides evidence that the Mexican interbank market is tiered. I fit the core-periphery model developed by Craig and von Peter (2010) to 157 daily networks (from January 3 to August 15, 2011) of bilateral exposures (aggregated and disaggregated) between 41 commercial banks and 6 development banks. The main findings are (i) the core-periphery model provides a better fit to the Mexican interbank market than random networks, that is there are money center banks that intermediate with the rest of the banks in the market, (ii) the size and the composition of this group of banks is remarkably stable over time for aggregated (and some disaggregated) networks, (iii) the relations (borrowing and lending) between banks in the core and the periphery are asymmetric. The results are robust and significant.
 
 </details>
 
@@ -103,7 +103,7 @@ margin-right: auto;
 <details>
   <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
 
-  ***Abstract***: This paper studies the relationship between the arrival of macroeconomic news and the Mexican stock market. We use GARCH models to examine the reaction of daily excess returns of stock prices to surprises in Mexican and U.S. macroeconomic releases from 2003 to 2008. We find that the dynamics of daily returns in the Mexican stock market is linked to the arrival of new information on macroeconomic fundamentals from both Mexico and the U.S.
+  <b><i>Abstract:</b></i> This paper studies the relationship between the arrival of macroeconomic news and the Mexican stock market. We use GARCH models to examine the reaction of daily excess returns of stock prices to surprises in Mexican and U.S. macroeconomic releases from 2003 to 2008. We find that the dynamics of daily returns in the Mexican stock market is linked to the arrival of new information on macroeconomic fundamentals from both Mexico and the U.S.
 
 </details>
 
