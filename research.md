@@ -9,7 +9,7 @@ title: Research
 
 "**Term Premia in Emerging Markets**". <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
-‣ Credit risk needs to be taken into account when estimating the term premia in emerging markets.
+‣ Credit risk needs to be accounted for when estimating the term premia in emerging markets.
 <!-- ‣•▴▪︎‣ -->
 
 "**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**," with Daniel A. Miranda. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
