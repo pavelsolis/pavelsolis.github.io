@@ -24,7 +24,7 @@ title: Research
 
 </details>
 
-
+&nbsp;
 
 # Working Papers
 
@@ -94,7 +94,7 @@ margin-right: auto;
 <img align="rigt" width="300" height="150" src="/files/research/TieringFigB.png" alt="Core-periphery network">
 -->
 
-<!-- &nbsp; introduces breaks -->
+&nbsp;
 
 # Publication
 
