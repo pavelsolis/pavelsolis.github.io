@@ -7,9 +7,9 @@ title: Research
 
 ---
 
-"**Term Premia in Emerging Markets**". <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Comovement of the Sovereign Yields of Emerging Markets: The Role of Synthetic Yield Curves**". <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
-‣ Credit risk needs to be accounted for when estimating the term premia in emerging markets.
+‣ Credit risk needs to be accounted for when estimating the yield curves of emerging markets.
 <!-- ‣•▴▪︎‣ -->
 
 "**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**," with Daniel A. Miranda. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
@@ -17,7 +17,7 @@ title: Research
 <!-- ‣ Banks use different strategies to insulate their return on assets from monetary policy shocks. -->
 
 <details>
-  <summary> Banks use different strategies to insulate their return on assets from monetary policy changes. </summary>
+  <summary> Banks use different strategies to insulate their return on assets from monetary policy shocks. </summary>
 
   <b><i>Abstract:</b></i> Using bank-level data from Mexico, this paper shows that banks insulate their return on assets (ROA) from monetary policy changes using different strategies. The ROA components of some banks are insensitive to changes in monetary policy, especially their net interest margin (NIM) since they match their interest income and expenses. Meanwhile, other banks offset changes in their NIM with other ROA components. The strategy implemented depends on the charter (domestic or foreign) and business model. For example, the largest banks do not match their interest income and expenses. Subsidiaries of foreign banks, however, are closer to matching than domestic banks.
 
