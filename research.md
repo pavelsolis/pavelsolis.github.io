@@ -14,7 +14,7 @@ title: Research
 
 "**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**," with Daniel A. Miranda. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
-<!-- ‣ Banks use different strategies to insulate their return on assets from monetary policy changes. -->
+<!-- ‣ Banks use different strategies to insulate their return on assets from monetary policy shocks. -->
 
 <details>
   <summary> Banks use different strategies to insulate their return on assets from monetary policy changes. </summary>
