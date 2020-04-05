@@ -53,20 +53,20 @@ title: Research
 
 </details>
 
-"**Capital Flows, Stock Returns and the Global Financial Cycle in Emerging Markets**," *Working Paper*, 2017. ([Paper](/files/research/GFCyPaper.pdf)) <!-- Abstract -->
+"**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
 
-<!-- ‣ Gross equity inflows to emerging markets are driven by global shocks, and total stock returns by domestic shocks. -->
+<!-- ‣ Stock market returns can be used to identify global and domestic factors in portfolio equity inflows. -->
 
 <details>
-  <summary> Gross equity inflows to emerging markets are driven by global shocks, and total stock returns by domestic shocks. </summary>
+  <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity inflows. </summary>
 
-  <b><i>Abstract:</i></b> This paper proposes a simple methodology to identify push and pull factors using gross capital inflows and stock market returns. The analysis is conducted over a panel of 16 emerging markets from 1999 to 2015. A portfolio allocation model is used to guide the identification strategy. The model is consistent with the empirical results. Gross equity inflows are mainly driven by push shocks and total returns by pull shocks. Both shocks are correlated with the VIX.
+  <b><i>Abstract:</i></b> This paper uses stock market returns to identify common (global) and idiosyncratic (domestic) factors in the portfolio equity inflows of emerging markets. The analysis covers 16 emerging markets from 1999 to 2015. A portfolio allocation model guides the identification strategy in vector autoregression models. The evidence is consistent with the predictions of the model. I find that global shocks mainly drive portfolio equity inflows, whereas global and domestic shocks drive stock market returns.
 
 </details>
 
 <!--
-<img align="left" width="300" height="150" src="/files/research/GFCyFigA.png" alt="Decomposition of Inflows">
-<img align="rigt" width="300" height="150" src="/files/research/GFCyFigB.png" alt="Decomposition of Total Returns">
+<img align="left" width="300" height="150" src="/files/research/RetFlwFigA.png" alt="Decomposition of Inflows">
+<img align="rigt" width="300" height="150" src="/files/research/RetFlwFigB.png" alt="Decomposition of Total Returns">
 -->
 
 <!--
