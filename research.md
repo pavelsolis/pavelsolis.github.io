@@ -18,8 +18,11 @@ title: Research
   
   <summary> Asset prices and portfolio flows respond (asymmetrically) to both monetary policy actions <i>and</i> statements. </summary>
 
+&nbsp;
+
   <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. The results show that asset prices and portfolio flows respond significantly not only to actions but to statements. Therefore, even though the policy rate has not bee constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio inflows but not the currency; the exchange rate only reacts to surprises in the current policy rate. Moreover, the response of asset prices and portfolio flows to actions and statements is asymmetric, they react differently to monetary tightenings than easings.
 
+&nbsp;
 </details>
 
 "**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**," with Daniel A. Miranda. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
@@ -28,8 +31,11 @@ title: Research
   
   <summary> Banks use different strategies to insulate their return on assets from monetary policy shocks. </summary>
 
+&nbsp;
+
   <b><i>Abstract:</i></b> Using bank-level data from Mexico, this paper shows that banks insulate their return on assets (ROA) from monetary policy changes using different strategies. The ROA components of some banks are insensitive to changes in monetary policy, especially their net interest margin (NIM) since they match their interest income and expenses. Meanwhile, other banks offset changes in their NIM with other ROA components. The strategy implemented depends on the charter (domestic or foreign) and business model. For example, the largest banks do not match their interest income and expenses. Subsidiaries of foreign banks, however, are closer to matching than domestic banks.
 
+&nbsp;
 </details>
 
 &nbsp;
@@ -43,8 +49,11 @@ title: Research
 <details>
   <summary> The exchange rate response to the policy rate can only be perceived with intraday but not with daily data. </summary>
 
+&nbsp;
+
   <b><i>Abstract:</i></b> This paper addresses the exchange rate puzzle in emerging markets. While monetary policy in advanced countries exerts a strong impact on exchange rates, existing evidence for emerging markets shows that the exchange rate response is low, nonexistent or inconsistent with standard open economy models.	I use an event study methodology and a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous shocks to the policy rate. In line with the evidence for advanced countries, I find that an unanticipated increase in the policy rate appreciates the currency, and flattens the yield curve. The exchange rate puzzle is explained using a validation study. The analysis compares intraday and daily changes in asset prices and reveals that the exchange rate response is sensitive to data frequency; it can only be perceived with intraday data. Further, this sensitivity is characteristic of the exchange rate since the response of the yield curve is still observed with daily data.
 
+&nbsp;
 </details>
 
 "**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper (Submitted)*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
@@ -52,8 +61,11 @@ title: Research
 <details>
   <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity inflows. </summary>
 
+&nbsp;
+
   <b><i>Abstract:</i></b> This paper uses stock market returns to identify common (global) and idiosyncratic (domestic) factors in the portfolio equity inflows of emerging markets. The analysis covers 16 emerging markets from 1999 to 2015. A portfolio allocation model guides the identification strategy in vector autoregression models. The evidence is consistent with the predictions of the model. I find that global shocks mainly drive portfolio equity inflows, whereas global and domestic shocks drive stock market returns.
 
+&nbsp;
 </details>
 
 <!--
@@ -75,8 +87,11 @@ margin-right: auto;
 <details>
   <summary> The Mexican interbank market has a core-periphery structure. </summary>
 
+&nbsp;
+
   <b><i>Abstract:</i></b> This paper provides evidence that the Mexican interbank market is tiered. I fit the core-periphery model developed by Craig and von Peter (2010) to 157 daily networks (from January 3 to August 15, 2011) of bilateral exposures (aggregated and disaggregated) between 41 commercial banks and 6 development banks. The main findings are (i) the core-periphery model provides a better fit to the Mexican interbank market than random networks, that is there are money center banks that intermediate with the rest of the banks in the market, (ii) the size and the composition of this group of banks is remarkably stable over time for aggregated (and some disaggregated) networks, (iii) the relations (borrowing and lending) between banks in the core and the periphery are asymmetric. The results are robust and significant.
 
+&nbsp;
 </details>
 
 <!--
@@ -95,8 +110,11 @@ margin-right: auto;
 <details>
   <summary> Stock returns in Mexico are associated with macroeconomic surprises from both Mexico <i>and</i> the U.S. </summary>
 
+&nbsp;
+
   <b><i>Abstract:</i></b> This paper studies the relationship between the arrival of macroeconomic news and the Mexican stock market. We use GARCH models to examine the reaction of daily excess returns of stock prices to surprises in Mexican and U.S. macroeconomic releases from 2003 to 2008. We find that the dynamics of daily returns in the Mexican stock market is linked to the arrival of new information on macroeconomic fundamentals from both Mexico and the U.S.
 
+&nbsp;
 </details>
 
 <!--
