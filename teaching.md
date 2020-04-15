@@ -56,6 +56,8 @@ TA Section Evaluation: [Survey](https://forms.gle/Xfvf7yYhhdUcPRWE6)
 
 [Internet Guide to Stata](http://wlm.userweb.mwn.de/Stata/wstatord.htm) by W. Ludwig-Mayerhofer
 
+[Generate LaTeX Output from Stata](https://github.com/lukestein/stata-latex-workflows) by Luke Stein
+
 [Stata Videos](https://www.youtube.com/user/statacorp/playlists)
 
 ---
