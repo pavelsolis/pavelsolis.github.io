@@ -14,19 +14,15 @@ title: Research
 
 "**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
-<!-- ‣ Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions *and* statements. -->
-
 <details>
   
-  <summary> Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions <i>and</i> statements. </summary>
+  <summary> Asset prices and portfolio flows respond (asymmetrically) to both monetary policy actions <i>and</i> statements. </summary>
 
   <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. The results show that asset prices and portfolio flows respond significantly not only to actions but to statements. Therefore, even though the policy rate has not bee constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio inflows but not the currency; the exchange rate only reacts to surprises in the current policy rate. Moreover, the response of asset prices and portfolio flows to actions and statements is asymmetric, they react differently to monetary tightenings than easings.
 
 </details>
 
 "**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**," with Daniel A. Miranda. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
-
-<!-- ‣ Banks use different strategies to insulate their return on assets from monetary policy shocks. -->
 
 <details>
   
@@ -44,18 +40,14 @@ title: Research
 
 "**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *Working Paper (Submitted)*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
-<!-- ‣ The response of the exchange rate to policy rate surprises can only be perceived with intraday data. -->
-
 <details>
-  <summary> The exchange rate response to the policy rate can be perceived with intraday but not with daily data. </summary>
+  <summary> The exchange rate response to the policy rate can only be perceived with intraday but not with daily data. </summary>
 
   <b><i>Abstract:</i></b> This paper addresses the exchange rate puzzle in emerging markets. While monetary policy in advanced countries exerts a strong impact on exchange rates, existing evidence for emerging markets shows that the exchange rate response is low, nonexistent or inconsistent with standard open economy models.	I use an event study methodology and a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous shocks to the policy rate. In line with the evidence for advanced countries, I find that an unanticipated increase in the policy rate appreciates the currency, and flattens the yield curve. The exchange rate puzzle is explained using a validation study. The analysis compares intraday and daily changes in asset prices and reveals that the exchange rate response is sensitive to data frequency; it can only be perceived with intraday data. Further, this sensitivity is characteristic of the exchange rate since the response of the yield curve is still observed with daily data.
 
 </details>
 
 "**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
-
-<!-- ‣ Stock market returns can be used to identify global and domestic factors in portfolio equity inflows. -->
 
 <details>
   <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity inflows. </summary>
@@ -80,8 +72,6 @@ margin-right: auto;
 
 "**The Structure of the Mexican Interbank Market**," *Banco de México* mimeo, 2013. ([Paper](/files/research/TieringPaper.pdf) &#124; [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
 
-<!-- ‣ The Mexican interbank market has a core-periphery structure. -->
-
 <details>
   <summary> The Mexican interbank market has a core-periphery structure. </summary>
 
@@ -101,8 +91,6 @@ margin-right: auto;
 ---
 
 "**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
-
-<!-- ‣ Stock returns in Mexico are associated with macroeconomic surprises from Mexico *and* the U.S. -->
 
 <details>
   <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
