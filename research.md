@@ -7,12 +7,12 @@ title: Research
 
 ---
 
-"**Comovement of the Sovereign Yields of Emerging Markets**". <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Comovement of the Sovereign Yields of Emerging Markets**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 ‣ Credit risk needs to be accounted for when estimating the yield curves of emerging markets.
 <!-- ‣•▴▪︎‣ -->
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," *Working Paper*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <!-- ‣ Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions *and* statements. -->
 
