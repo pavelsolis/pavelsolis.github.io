@@ -47,7 +47,7 @@ title: Research
 
 </details>
 
-"**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
+"**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper (Submitted)*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
 
 <details>
   <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity inflows. </summary>
@@ -93,7 +93,7 @@ margin-right: auto;
 "**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
 
 <details>
-  <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
+  <summary> Stock returns in Mexico are associated with macroeconomic surprises from both Mexico <i>and</i> the U.S. </summary>
 
   <b><i>Abstract:</i></b> This paper studies the relationship between the arrival of macroeconomic news and the Mexican stock market. We use GARCH models to examine the reaction of daily excess returns of stock prices to surprises in Mexican and U.S. macroeconomic releases from 2003 to 2008. We find that the dynamics of daily returns in the Mexican stock market is linked to the arrival of new information on macroeconomic fundamentals from both Mexico and the U.S.
 
