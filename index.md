@@ -16,7 +16,7 @@ My research focuses on estimating risk premia in global fixed-income markets and
 **Curriculum Vitae:** <!-- [PDF](/files/mpsmcv.pdf "Curriculum Vitae"). -->
 
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), 
-RePec, Research Gate, Mendeley, ORCID.
+[ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID iD - Pavel Solís")<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;">, [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís"), RePec, Research Gate.
 
 **Address:**
 Wyman Park Building 544E,
