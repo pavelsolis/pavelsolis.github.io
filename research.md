@@ -25,7 +25,7 @@ title: Research
 &nbsp;
 </details>
 
-"**Monetary Policy and Bank Profitability: Do Banks Hedge Their Return on Assets?**," with Daniel A. Miranda. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**," with Daniel A. Miranda. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
   
