@@ -15,8 +15,10 @@ My research focuses on estimating risk premia in global fixed-income markets and
 
 **Curriculum Vitae:** <!-- [PDF](/files/mpsmcv.pdf "Curriculum Vitae"). -->
 
-**Profiles:** [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), 
-[ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID iD - Pavel Solís")<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;">, [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís"), RePec, Research Gate.
+**Profiles:** [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís")<img src="/images/google-scholar-icon.png" style="width:1em;margin-right:.5em;">, 
+[ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID iD - Pavel Solís")<img src="/images/orcid-icon-1200px.png" style="width:1em;margin-right:.5em;">, [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís")<img src="/images/mendeley-icon.png" style="width:1em;margin-right:.5em;">, Research Gate<img src="/images/researchgate-icon.png" style="width:1em;margin-right:.5em;">, RePec.
+
+<!--   <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;">   -->
 
 **Address:**
 Wyman Park Building 544E,
