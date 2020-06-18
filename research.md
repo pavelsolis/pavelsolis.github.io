@@ -14,6 +14,8 @@ Click on the bullets to see the abstracts.
 ‣ Credit risk needs to be accounted for when estimating the yield curves of emerging markets.
 <!-- ‣•▴▪︎‣ -->
 
+&nbsp;
+
 "**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
@@ -27,7 +29,9 @@ Click on the bullets to see the abstracts.
 &nbsp;
 </details>
 
-"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**," with Daniel A. Miranda. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+&nbsp;
+
+"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" <!-- with Daniel A. Miranda. (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
   
@@ -58,6 +62,8 @@ Click on the bullets to see the abstracts.
 &nbsp;
 </details>
 
+&nbsp;
+
 "**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper (Submitted)*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
 
 <details>
@@ -83,6 +89,8 @@ margin-left: auto;
 margin-right: auto;
 }
 -->
+
+&nbsp;
 
 "**The Structure of the Mexican Interbank Market**," *Banco de México* mimeo, 2013. ([Paper](/files/research/TieringPaper.pdf) &#124; [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
 
