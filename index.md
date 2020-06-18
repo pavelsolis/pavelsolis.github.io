@@ -7,7 +7,7 @@ title: Home
 
 Welcome! I am a Ph.D. candidate in economics at the [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
 
-In my [research](research.md), I apply state-of-the-art macro-finance tools to study the effects of macroeconomic policies with a special focus on emerging markets.
+I [apply](research.md) state-of-the-art macro-finance tools to study the effects of macroeconomic policies with a special focus on emerging markets.
 
 **Research Interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
 
