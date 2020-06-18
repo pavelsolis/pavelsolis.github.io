@@ -3,11 +3,13 @@ layout: page
 title: Research
 ---
 
+Click on the bullets to see the abstracts.
+
 # Work in Progress
 
 ---
 
-"**Comovement of the Sovereign Yields of Emerging Markets**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Decomposing the Sovereign Yield Curves of Emerging Markets**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 ‣ Credit risk needs to be accounted for when estimating the yield curves of emerging markets.
 <!-- ‣•▴▪︎‣ -->
@@ -16,7 +18,7 @@ title: Research
 
 <details>
   
-  <summary> Asset prices and portfolio flows respond (asymmetrically) to both monetary policy actions <i>and</i> statements. </summary>
+  <summary> Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions <i>and</i> statements. </summary>
 
 &nbsp;
 
@@ -47,7 +49,7 @@ title: Research
 "**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *Working Paper (Submitted)*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
-  <summary> The exchange rate response to the policy rate can only be perceived with intraday but not with daily data. </summary>
+  <summary> The exchange rate response to the policy rate can be perceived with intraday but not with daily data. </summary>
 
 &nbsp;
 
@@ -59,7 +61,7 @@ title: Research
 "**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper (Submitted)*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
 
 <details>
-  <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity inflows. </summary>
+  <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity flows. </summary>
 
 &nbsp;
 
@@ -108,7 +110,7 @@ margin-right: auto;
 "**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
 
 <details>
-  <summary> Stock returns in Mexico are associated with macroeconomic surprises from both Mexico <i>and</i> the U.S. </summary>
+  <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
 
 &nbsp;
 
