@@ -53,7 +53,7 @@ Click on the bullets to see the abstracts.
 "**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *Working Paper (Submitted)*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
-  <summary> The exchange rate response to the policy rate can be perceived with intraday but not with daily data. </summary>
+  <summary> The exchange rate response to the policy rate can be seen with intraday but not with daily data. </summary>
 
 &nbsp;
 
