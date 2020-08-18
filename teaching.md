@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 ---
 
+&nbsp;
 
 ---
 
@@ -60,9 +61,9 @@ TA Section Evaluation: [Survey](https://forms.gle/Xfvf7yYhhdUcPRWE6)
 
 [Stata Videos](https://www.youtube.com/user/statacorp/playlists)
 
----
-
 &nbsp;
+
+---
 
 # 180.101.11 - Elements of Macroeconomics
 
@@ -80,7 +81,7 @@ unemployment, inflation, interest rates, exchange rates, as well as monetary and
 
 **Office Hours:** Wed 8:00 am - 9:00 am, or by appointment, in the Gilman Atrium
 
-# [Syllabus](/files/teaching/macro/Syllabus101.pdf)
+[**Syllabus**](/files/teaching/macro/Syllabus101.pdf)
 
 # Slides
 
