@@ -15,7 +15,7 @@ Click on the bullets to see the abstracts.
 
 <details>
   
-  <summary> U.S. Monetary Policy leads to a reassessment of policy rate expectations and a repricing of risk in emerging markets. </summary>
+  <summary> U.S. Monetary Policy leads to a reassessment of policy rate expectations and a repricing of risks in emerging markets. </summary>
 
 &nbsp;
 
