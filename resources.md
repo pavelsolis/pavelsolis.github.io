@@ -6,7 +6,7 @@ title: Resources
 **[Data](#data) &#124; [Economic Research](#ecoresearch) &#124; [Blogs](#blogs) &#124; [Podcasts](#podcasts) &#124; [News](#news) &#124; [Reports](#reports) &#124; [Coding](#coding) &#124; [Research Resources](#resources) &#124; [Conferences](#conferences) &#124; [Documentaries](#documentaries) &#124; [Teaching](#econteaching) &#124; [Books](#books)**
 
 
-<iframe style="border: 1px solid #333333; overflow: hidden; width: 190px; height: 880px;" src="//research.stlouisfed.org/fred-glance-widget.php?series_ids=DGS10,T10Y2Y,VIXCLS,CPIAUCSL,UNRATE,GDPC1,DFEDTARU,BAMLH0A0HYM2,DEXUSEU,DEXMXUS&transformations=lin,lin,lin,lin,lin,lin,lin,pc1,lin,pca" align="right" height="880" width="320" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: 1px solid #333333; overflow: hidden; width: 190px; height: 880px;" src="//research.stlouisfed.org/fred-glance-widget.php?series_ids=DGS10,T10Y2Y,VIXCLS,CPIAUCSL,UNRATE,GDPC1,DFEDTARU,BAMLH0A0HYM2,DEXUSEU,DEXMXUS&transformations=lin,lin,lin,pc1,lin,pca,lin,lin,lin,lin" align="right" height="880" width="320" frameborder="0" scrolling="no"></iframe>
 
 # Data <a name="data"></a>
 [CIP](https://sites.google.com/view/jschreger/CIP) &#124; [Global Capital Allocation](https://www.globalcapitalallocation.com/) &#124; [JST Macrohistory](http://www.macrohistory.net/data/) &#124; [Our World in Data](https://ourworldindata.org/) &#124; 
