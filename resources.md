@@ -6,7 +6,7 @@ title: Resources
 **[News](#news) &#124; [Data](#data) &#124; [Conferences](#conferences) &#124; [Coding](#coding) &#124; [(Non-Technical) Economic Research](#ecoresearch) &#124; [Blogs](#blogs) &#124; [Podcasts](#podcasts) &#124; [Documentaries](#documentaries) &#124; [Econ Teaching](#econteaching) &#124; [Reports](#reports) &#124; [Research Resources](#resources) &#124; [Books](#books)**
 
 
-<iframe style="border: 1px solid #333333; overflow: hidden; width: 190px; height: 880px;" src="//research.stlouisfed.org/fred-glance-widget.php?series_ids=DGS10,T10Y2Y,DFEDTARU,VIXCLS,BAMLH0A0HYM2,DEXUSEU,DEXMXUS,CPIAUCSL,UNRATE,GDPC1&transformations=lin,lin,lin,lin,lin,lin,lin,pc1,lin,pca" align="right" height="880" width="320" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: 1px solid #333333; overflow: hidden; width: 190px; height: 880px;" src="//research.stlouisfed.org/fred-glance-widget.php?series_ids=DGS10,T10Y2Y,VIXCLS,CPIAUCSL,UNRATE,GDPC1,DFEDTARU,BAMLH0A0HYM2,DEXUSEU,DEXMXUS&transformations=lin,lin,lin,lin,lin,lin,lin,pc1,lin,pca" align="right" height="880" width="320" frameborder="0" scrolling="no"></iframe>
 
 
 # News <a name="news"></a>
