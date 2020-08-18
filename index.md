@@ -13,7 +13,7 @@ I [apply](research.md) state-of-the-art macro-finance tools to understand the ef
 
 **E-mail:** <msolism1@jhu.edu>.
 
-**Curriculum Vitae:** [CV](CV.md)
+<!-- **Curriculum Vitae:** [CV](CV.md) -->
 
 **Research Profiles:** [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), 
 [ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID iD - Pavel Solís"), [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís").
