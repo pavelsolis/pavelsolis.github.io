@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 
-**[Data](#data) &#124; [Economic Research](#ecoresearch) &#124; [Blogs](#blogs) &#124; [Podcasts](#podcasts) &#124; [News](#news) &#124; [Reports](#reports) &#124; [Coding](#coding) &#124; [Research Resources](#resources) &#124; [Conferences](#conferences) &#124; [Documentaries](#documentaries) &#124; [Teaching](#econteaching) &#124; [Books](#books)**
+**[Data](#data) &#124; [Economic Research](#ecoresearch) &#124; [Blogs](#blogs) &#124; [Podcasts](#podcasts) &#124; [News](#news) &#124; [Reports](#reports) &#124; [Coding](#coding) &#124; [Research](#research) &#124; [Conferences](#conferences) &#124; [Documentaries](#documentaries) &#124; [Teaching](#econteaching) &#124; [Books](#books)**
 
 
 <iframe style="border: 1px solid #333333; overflow: hidden; width: 190px; height: 880px;" src="//research.stlouisfed.org/fred-glance-widget.php?series_ids=DGS10,T10Y2Y,VIXCLS,CPIAUCSL,UNRATE,GDPC1,DFEDTARU,BAMLH0A0HYM2,DEXUSEU,DEXMXUS&transformations=lin,lin,lin,pc1,lin,pca,lin,lin,lin,lin" align="right" height="880" width="320" frameborder="0" scrolling="no"></iframe>
@@ -28,10 +28,10 @@ Popular: [Martin Wolf](https://www.ft.com/martin-wolf) &#124; [Paul Krugman](htt
 
 # Podcasts <a name="podcasts"></a>
 [Macro Musings (David Beckworth)](https://macromusings.libsyn.com/) &#124; [Econ Talks (Russell Roberts)](https://www.econtalk.org/) &#124; 
-[Streetwise (Jack Hough)](https://www.barrons.com/podcasts/streetwise) &#124; [Trade Talks (Chad P. Brown & Soumaya Keynes)](https://www.tradetalkspodcast.com/) &#124; [Money Smart (FDIC)](https://www.fdic.gov/consumers/consumer/moneysmart/podcast/index.html)
+[Streetwise (Jack Hough)](https://www.barrons.com/podcasts/streetwise) &#124; [Trade Talks (Chad Brown & Soumaya Keynes)](https://www.tradetalkspodcast.com/) &#124; [Money Smart (FDIC)](https://www.fdic.gov/consumers/consumer/moneysmart/podcast/index.html)
 
 # News <a name="news"></a>
-[Worldwide](http://kiosko.net/) &#124; [Financial Times](https://www.ft.com/) &#124; [The Economist](https://www.economist.com/) &#124; [Bloomberg](https://www.bloomberg.com/) &#124; [FiveThirtyEight](https://fivethirtyeight.com/) &#124; [Investopedia](https://www.investopedia.com/)
+[Worldwide](http://kiosko.net/) &#124; [Financial Times](https://www.ft.com/) &#124; [The Economist](https://www.economist.com/) &#124; [Bloomberg](https://www.bloomberg.com/) &#124; [FiveThirtyEight](https://fivethirtyeight.com/) &#124; [Investopedia](https://www.investopedia.com/) &#124; 
 [WSJ](https://www.wsj.com/) &#124; [NYT](https://www.nytimes.com/) &#124; [Washington Post](https://www.washingtonpost.com/) &#124; [Science](https://www.sciencemag.org/)
 
 # Reports <a name="reports"></a>
@@ -40,7 +40,7 @@ Popular: [Martin Wolf](https://www.ft.com/martin-wolf) &#124; [Paul Krugman](htt
 # Coding <a name="coding"></a>
 [Matlab](https://www.mathworks.com/help/index.html) &#124; [Stata](https://stats.idre.ucla.edu/stata/) &#124; [R](https://swirlstats.com/) &#124; Python ([QuantEcon](https://quantecon.org/), [Quantopian](https://www.quantopian.com/))
 
-# Research Resources <a name="resources"></a>
+# Research <a name="research"></a>
 [Replication Template](https://github.com/pavelsolis/Replication-Folder) &#124; [Communicating Economics](www.communicatingeconomics.com) &#124; [Reference Manager](https://researchguides.library.tufts.edu/c.php?g=249269&p=1659288) &#124; [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) &#124; [The Writing Process](https://owl.purdue.edu/site_map.html)
 
 # Conferences <a name="conferences"></a>
