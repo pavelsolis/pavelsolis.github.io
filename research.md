@@ -15,7 +15,7 @@ Click on the bullets to see the abstracts.
 
 <details>
   
-  <summary> U.S. Monetary Policy leads to a reassessment of policy rate expectations and a repricing of risks in emerging markets. </summary>
+  <summary> U.S. monetary policy leads to a reassessment of policy rate expectations and risks in emerging markets. </summary>
 
 &nbsp;
 
@@ -126,7 +126,7 @@ margin-right: auto;
 
 ---
 
-"**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
+"**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. [In Spanish] ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
 
 <details>
   <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
