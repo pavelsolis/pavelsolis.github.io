@@ -20,7 +20,7 @@ unemployment, inflation, interest rates, exchange rates, as well as monetary and
 
 **Location:** Gilman 55
 
-**Lecture Times:** Mon, Wed, Fri    9:00 am - 12:15 pm     (May 28 - June 28)
+**Lecture Times:** Mon, Wed, Fri    9:00 am - 12:15 pm
 
 **Office Hours:** Wed 8:00 am - 9:00 am, or by appointment, in the Gilman Atrium
 
