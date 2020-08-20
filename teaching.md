@@ -5,64 +5,6 @@ title: Teaching
 
 &nbsp;
 
-# 180.334 (02) - Econometrics
-
----
-
-This course gives an introduction to estimation for economic research.
-
-**E-mail:** <msolism1@jhu.edu>
-
-**Location:** Hodson 316
-
-**Lecture Times:** Th 03:00 PM - 03:50 PM
-
-**Office Hours:** Th 01:50 PM - 02:50 PM in the Greenhouse Annex ([Map](/files/teaching/Greenhouse_Map.png), [Entrance](/files/teaching/Greenhouse_Entrance.png))
-
-# Files
-
-Introduction: Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/metrics/intro_hs0.dta)), Do-files ([example](/files/teaching/metrics/example.do), [log file](/files/teaching/metrics/how-to-log-file.do))
-
-Multiple Linear Regression Model: [do-file](/files/teaching/metrics/MLR.do)
-
-Properties of the MLR Model: [do-file](/files/teaching/metrics/MLR_properties.do)
-
-Data Screening to Detect Potential Errors: [do-file](/files/teaching/metrics/Data_Screening.do)
-
-Dummy Variables and Interaction Terms: [do-file](/files/teaching/metrics/Dummies_Interactions.do)
-
-Heteroskedasticity: [do-file](/files/teaching/metrics/Heteroskedasticity.do)
-
-Exam 2: [Practice Questions](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
-
-TA Section Evaluation: [Survey](https://forms.gle/Xfvf7yYhhdUcPRWE6)
-
-# Links
-
-[Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
-
-[Keyboard Shortcuts for Stata](http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/)
-
-[Importance of Using Statistical Software](https://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
-
-[Stata Returned Results](https://stats.idre.ucla.edu/stata/faq/how-can-i-access-information-stored-after-i-run-a-command-in-stata-returned-results/)
-
-[Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
-
-[Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
-
-[Intuitive Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
-
-[Useful Stata Tips](http://www.econometricsbysimulation.com/p/stata.html) by Francis Smart
-
-[Internet Guide to Stata](http://wlm.userweb.mwn.de/Stata/wstatord.htm) by W. Ludwig-Mayerhofer
-
-[Generate LaTeX Output from Stata](https://github.com/lukestein/stata-latex-workflows) by Luke Stein
-
-[Stata Videos](https://www.youtube.com/user/statacorp/playlists)
-
-&nbsp;
-
 
 # 180.101.11 - Elements of Macroeconomics
 
@@ -143,6 +85,65 @@ Video: [The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo)
 Reading: [Fiscal and Monetary Policy in Times of Crisis](/files/teaching/macro/Reading-FP&MP_in_Crisis.pdf)
 
 Reading: [Real Exchange Rates - What Money Can Buy](/files/teaching/macro/Reading-RER.pdf)
+
+&nbsp;
+
+# 180.334 (02) - Econometrics
+
+---
+
+This course gives an introduction to estimation for economic research.
+
+**E-mail:** <msolism1@jhu.edu>
+
+**Location:** Hodson 316
+
+**Lecture Times:** Th 03:00 PM - 03:50 PM
+
+**Office Hours:** Th 01:50 PM - 02:50 PM in the Greenhouse Annex ([Map](/files/teaching/Greenhouse_Map.png), [Entrance](/files/teaching/Greenhouse_Entrance.png))
+
+# Files
+
+Introduction: Data file ([csv](/files/teaching/metrics/intro_hs0.csv), [dta](/files/teaching/metrics/intro_hs0.dta)), Do-files ([example](/files/teaching/metrics/example.do), [log file](/files/teaching/metrics/how-to-log-file.do))
+
+Multiple Linear Regression Model: [do-file](/files/teaching/metrics/MLR.do)
+
+Properties of the MLR Model: [do-file](/files/teaching/metrics/MLR_properties.do)
+
+Data Screening to Detect Potential Errors: [do-file](/files/teaching/metrics/Data_Screening.do)
+
+Dummy Variables and Interaction Terms: [do-file](/files/teaching/metrics/Dummies_Interactions.do)
+
+Heteroskedasticity: [do-file](/files/teaching/metrics/Heteroskedasticity.do)
+
+Exam 2: [Practice Questions](/files/teaching/metrics/Exam2_PracticeQuestions.pdf)
+
+TA Section Evaluation: [Survey](https://forms.gle/Xfvf7yYhhdUcPRWE6)
+
+# Links
+
+[Introduction to Stata](https://en.wikibooks.org/wiki/Stata/Introduction)
+
+[Keyboard Shortcuts for Stata](http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/)
+
+[Importance of Using Statistical Software](https://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel)
+
+[Stata Returned Results](https://stats.idre.ucla.edu/stata/faq/how-can-i-access-information-stored-after-i-run-a-command-in-stata-returned-results/)
+
+[Econometrics Guide](/files/teaching/metrics/Econometrics_Guide.pdf) by Tyler Ransom
+
+[Cleaning Data in Stata](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
+
+[Intuitive Explanation of Controlling for a Variable](http://nickchk.com/causalgraphs.html) by Nick Huntington-Klein
+
+[Useful Stata Tips](http://www.econometricsbysimulation.com/p/stata.html) by Francis Smart
+
+[Internet Guide to Stata](http://wlm.userweb.mwn.de/Stata/wstatord.htm) by W. Ludwig-Mayerhofer
+
+[Generate LaTeX Output from Stata](https://github.com/lukestein/stata-latex-workflows) by Luke Stein
+
+[Stata Videos](https://www.youtube.com/user/statacorp/playlists)
+
 
 <!--
 ---
