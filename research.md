@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts.
 
 ---
 
-"**Spillovers of U.S. Monetary Policy to Emerging Market Sovereign Yields**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Sovereign Yields with Credit Risk and U.S. Monetary Policy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
   
@@ -19,7 +19,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper documents a strong and persistent response of the sovereign bond yields of emerging markets to U.S. monetary policy, despite a moderate initial reaction. I characterize the response based on a novel decomposition of the yields into an expected future short-term interest rate, a term premium and a credit risk premium using a new dataset of nominal and synthetic local currency yields along with survey forecasts for 15 emerging markets from 2000 to 2019. I find that monetary policy changes in the U.S. influence all three yield components. This means that investors expect central banks in emerging markets to follow the monetary stance in the U.S., since their policy rate expectations move in the same direction. Moreover, depending on the type of news, investors adjust not only the compensation they demand to hold long-term bonds but also the compensation against default. U.S. monetary policy has therefore monetary as well as fiscal implications for emerging markets.
+  <b><i>Abstract:</i></b> Sovereign yield curve decompositions provide valuable information. Yet they rely on a risk-free assumption. For emerging markets, traditional decompositions are biased because credit risk is not zero. I show that their yields can be decomposed into an expected future short-term interest rate, a term premium and a credit risk premium using a new dataset of nominal and synthetic local currency yields along with survey forecasts for 15 emerging markets from 2000 to 2019. Even though the components are weakly connected, they react strongly to monetary policy changes in the U.S.	The decomposition thus reveals that U.S. monetary policy shocks lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets.
 
 &nbsp;
 </details>
