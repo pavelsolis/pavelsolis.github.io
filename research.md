@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts.
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
   
@@ -26,7 +26,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *Working Paper (Submitted)*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 <!-- The exchange rate response to the policy rate can be seen with intraday but not with daily data. -->
 
 <details>
@@ -41,7 +41,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
   
@@ -56,7 +56,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" <!-- with Daniel A. Miranda. (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" 2020. <!-- with Daniel A. Miranda. (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
   
@@ -72,7 +72,7 @@ Click on the bullets to see the abstracts.
 &nbsp;
 
 
-"**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper (Submitted)*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
+"**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
 
 <details>
   <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity flows. </summary>
