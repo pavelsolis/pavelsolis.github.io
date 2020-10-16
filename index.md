@@ -5,9 +5,9 @@ title: Home
 
 <img align="left" width="350" height="410" src="/images/ProfilePicture.JPG">
 
-Welcome! I am a Ph.D. candidate in economics at the [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
+Welcome! I am a Ph.D. candidate in economics at [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
 
-I [apply](research.md) state-of-the-art macro-finance tools to understand the effects of macroeconomic policies. <!-- with a special focus on emerging markets. -->
+I [apply](research.md "Research") state-of-the-art macro-finance tools to understand the effects of macroeconomic policies. <!-- with a special focus on emerging markets. -->
 
 **Research Interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
 
