@@ -7,11 +7,11 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-# Work in Progress
+# Working Papers
 
 ---
 
-"**Sovereign Yields with Credit Risk and U.S. Monetary Policy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
   
@@ -19,7 +19,22 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> Sovereign yield curve decompositions provide valuable information. Yet they rely on a risk-free assumption. For emerging markets, traditional decompositions are biased because credit risk is not zero. I show that their yields can be decomposed into an expected future short-term interest rate, a term premium and a credit risk premium using a new dataset of nominal and synthetic local currency yields along with survey forecasts for 15 emerging markets from 2000 to 2019. Even though the components are weakly connected, they react strongly to monetary policy changes in the U.S.	The decomposition thus reveals that U.S. monetary policy shocks lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets.
+  <b><i>Abstract:</i></b> This paper documents the channels through which U.S. monetary policy impacts the sovereign bond yields of emerging markets. Traditional decompositions of sovereign yields are not suitable for emerging markets because they rely on a default-free assumption. Instead, I decompose the yields of 15 emerging markets into average expected future short-term interest rates, a term premium and compensation for credit risk. I use this decomposition to analyze the transmission channels of U.S. monetary policy surprises identified with intraday data. I find that the response of emerging market yields to target, forward guidance and asset purchase surprises is economically significant, yet delayed over days. In addition, unanticipated U.S. monetary policy decisions lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets. Finally, U.S. unconventional monetary policies limit the monetary autonomy of emerging markets along the yield curve.
+
+&nbsp;
+</details>
+
+&nbsp;
+
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *Working Paper (Submitted)*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+<!-- The exchange rate response to the policy rate can be seen with intraday but not with daily data. -->
+
+<details>
+  <summary> Intraday data solves the exchange rate puzzle in emerging markets. </summary>
+
+&nbsp;
+
+  <b><i>Abstract:</i></b> This paper addresses the exchange rate puzzle in emerging markets. While monetary policy in advanced countries exerts a strong impact on exchange rates, existing evidence for emerging markets shows that the response is small, nonexistent or inconsistent with standard open economy models. I use a new dataset of intraday changes in asset prices around policy events to estimate the impact of monetary policy on the exchange rate and the yield curve in Mexico. I find that an unanticipated increase in the policy rate appreciates the currency and flattens the yield curve, in line with the evidence for advanced economies. I show that the puzzle is the result of wide event windows when measuring changes in the exchange rate with daily data, giving rise to a standard omitted variable bias.
 
 &nbsp;
 </details>
@@ -34,7 +49,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. The results show that asset prices and portfolio flows respond significantly not only to actions but to statements. Therefore, even though the policy rate has not bee constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio inflows but not the currency; the exchange rate only reacts to surprises in the current policy rate. Moreover, the response of asset prices and portfolio flows to actions and statements is asymmetric, they react differently to monetary tightenings than easings.
+  <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in Mexico. I use a new dataset of intraday changes in asset prices around central bank announcements to identify exogenous monetary policy surprises. I show that changes in both the policy rate and statements significantly impact asset prices and portfolio flows. albeit asymmetrically. For instance, the exchange rate does not respond to target easing surprises, while bond yields respond more to them than to target tightening surprises.
 
 &nbsp;
 </details>
@@ -56,24 +71,6 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-# Working Papers
-
----
-
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *Working Paper (Submitted)*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
-<!-- The exchange rate response to the policy rate can be seen with intraday but not with daily data. -->
-
-<details>
-  <summary> The solution to the exchange rate puzzle in emerging markets is to use intraday data. </summary>
-
-&nbsp;
-
-  <b><i>Abstract:</i></b> This paper addresses the exchange rate puzzle in emerging markets. While monetary policy in advanced countries exerts a strong impact on exchange rates, existing evidence for emerging markets shows that the response is low, nonexistent or inconsistent with standard open economy models. I use a new dataset of intraday changes in asset prices around policy events to estimate the impact of monetary policy on the exchange rate and the yield curve in Mexico. In line with the evidence for advanced countries, I find that an unanticipated increase in the policy rate appreciates the currency and flattens the yield curve. The exchange rate puzzle is addressed using a validation study, comparing the results of intraday and daily changes in asset prices. This reveals that, unlike the yield curve, the response of the exchange rate is sensitive to data frequency as it can only be perceived using intraday data. The puzzle is thus the result of wide event windows when measuring changes in the exchange rate, giving rise to a standard omitted variable bias.
-
-&nbsp;
-</details>
-
-&nbsp;
 
 "**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper (Submitted)*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
 
