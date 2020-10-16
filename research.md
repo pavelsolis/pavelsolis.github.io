@@ -3,20 +3,34 @@ layout: page
 title: Research
 ---
 
+Click on the bullets to see the abstracts.
+
+&nbsp;
+
 # Work in Progress
 
 ---
 
-"**Comovement of the Sovereign Yields of Emerging Markets**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Sovereign Yields with Credit Risk and U.S. Monetary Policy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
-‣ Credit risk needs to be accounted for when estimating the yield curves of emerging markets.
-<!-- ‣•▴▪︎‣ -->
+<details>
+  
+  <summary> U.S. monetary policy leads to a reassessment of policy rate expectations and risks in emerging markets. </summary>
+
+&nbsp;
+
+  <b><i>Abstract:</i></b> Sovereign yield curve decompositions provide valuable information. Yet they rely on a risk-free assumption. For emerging markets, traditional decompositions are biased because credit risk is not zero. I show that their yields can be decomposed into an expected future short-term interest rate, a term premium and a credit risk premium using a new dataset of nominal and synthetic local currency yields along with survey forecasts for 15 emerging markets from 2000 to 2019. Even though the components are weakly connected, they react strongly to monetary policy changes in the U.S.	The decomposition thus reveals that U.S. monetary policy shocks lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets.
+
+&nbsp;
+</details>
+
+&nbsp;
 
 "**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**" <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
   
-  <summary> Asset prices and portfolio flows respond (asymmetrically) to both monetary policy actions <i>and</i> statements. </summary>
+  <summary> Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions <i>and</i> statements. </summary>
 
 &nbsp;
 
@@ -25,7 +39,9 @@ title: Research
 &nbsp;
 </details>
 
-"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**," with Daniel A. Miranda. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+&nbsp;
+
+"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" <!-- with Daniel A. Miranda. (Paper &#124; Slides &#124; Data &#124; Code) -->
 
 <details>
   
@@ -45,21 +61,24 @@ title: Research
 ---
 
 "**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *Working Paper (Submitted)*, 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+<!-- The exchange rate response to the policy rate can be seen with intraday but not with daily data. -->
 
 <details>
-  <summary> The exchange rate response to the policy rate can only be perceived with intraday but not with daily data. </summary>
+  <summary> The solution to the exchange rate puzzle in emerging markets is to use intraday data. </summary>
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper addresses the exchange rate puzzle in emerging markets. While monetary policy in advanced countries exerts a strong impact on exchange rates, existing evidence for emerging markets shows that the exchange rate response is low, nonexistent or inconsistent with standard open economy models.	I use an event study methodology and a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous shocks to the policy rate. In line with the evidence for advanced countries, I find that an unanticipated increase in the policy rate appreciates the currency, and flattens the yield curve. The exchange rate puzzle is explained using a validation study. The analysis compares intraday and daily changes in asset prices and reveals that the exchange rate response is sensitive to data frequency; it can only be perceived with intraday data. Further, this sensitivity is characteristic of the exchange rate since the response of the yield curve is still observed with daily data.
+  <b><i>Abstract:</i></b> This paper addresses the exchange rate puzzle in emerging markets. While monetary policy in advanced countries exerts a strong impact on exchange rates, existing evidence for emerging markets shows that the response is low, nonexistent or inconsistent with standard open economy models. I use a new dataset of intraday changes in asset prices around policy events to estimate the impact of monetary policy on the exchange rate and the yield curve in Mexico. In line with the evidence for advanced countries, I find that an unanticipated increase in the policy rate appreciates the currency and flattens the yield curve. The exchange rate puzzle is addressed using a validation study, comparing the results of intraday and daily changes in asset prices. This reveals that, unlike the yield curve, the response of the exchange rate is sensitive to data frequency as it can only be perceived using intraday data. The puzzle is thus the result of wide event windows when measuring changes in the exchange rate, giving rise to a standard omitted variable bias.
 
 &nbsp;
 </details>
 
+&nbsp;
+
 "**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," *Working Paper (Submitted)*, 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
 
 <details>
-  <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity inflows. </summary>
+  <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity flows. </summary>
 
 &nbsp;
 
@@ -81,6 +100,8 @@ margin-left: auto;
 margin-right: auto;
 }
 -->
+
+&nbsp;
 
 "**The Structure of the Mexican Interbank Market**," *Banco de México* mimeo, 2013. ([Paper](/files/research/TieringPaper.pdf) &#124; [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
 
@@ -105,10 +126,10 @@ margin-right: auto;
 
 ---
 
-"**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
+"**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. [In Spanish] ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
 
 <details>
-  <summary> Stock returns in Mexico are associated with macroeconomic surprises from both Mexico <i>and</i> the U.S. </summary>
+  <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
 
 &nbsp;
 
