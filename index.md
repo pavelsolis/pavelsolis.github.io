@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-<img align="left" width="350" height="410" src="/images/home_img.jpg">
+<img align="left" width="350" height="410" src="/images/ProfilePicture.jpg">
 
 Welcome! I am a Ph.D. candidate in economics at the [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
 
