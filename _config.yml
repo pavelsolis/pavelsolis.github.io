@@ -1,11 +1,10 @@
 # Basic options
 title: Pavel Solís
-author:
-  email: msolism1@jhu.edu
-  pub_year: 2020
-  linkedin_username: pavelsolis
-  twitter_username: PavelSolis
-  github_username: pavelsolis
+email: msolism1@jhu.edu
+pub_year: 2020
+linkedin_username: pavelsolis
+twitter_username: PavelSolis
+github_username: pavelsolis
 
 # Generate social links in footer
 #  social_links:
