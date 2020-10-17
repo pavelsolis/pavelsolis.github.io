@@ -6,6 +6,8 @@ pub_year: 2020
 #twitter_username: PavelSolis
 #github_username: pavelsolis
 
+show_excerpts: false # set to true to show excerpts on the homepage
+
 # Generate social links in footer
 minima:
   social_links:
