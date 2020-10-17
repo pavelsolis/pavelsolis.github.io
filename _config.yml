@@ -8,8 +8,8 @@ email:
 
 # Generate social links in footer
 social_links:
-  linkedin: pavelsolis
-  twitter: PavelSolis
+- linkedin: pavelsolis
+- twitter: PavelSolis
 
 # Pages (can include index.md)
 header_pages:
