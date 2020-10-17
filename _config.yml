@@ -7,6 +7,7 @@ pub_year: 2020
 #github_username: pavelsolis
 
 # Generate social links in footer
+minima:
   social_links:
     linkedin: pavelsolis
     twitter: PavelSolis
