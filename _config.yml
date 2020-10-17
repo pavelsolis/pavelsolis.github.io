@@ -1,7 +1,9 @@
 # Basic options
 title: Pavel Solís
-email: msolism1@jhu.edu
-pub_year: 2020
+author:
+  name: GitHub User
+  email: msolism1@jhu.edu
+  pub_year: 2020
 #linkedin_username: pavelsolis
 #twitter_username: PavelSolis
 #github_username: pavelsolis
