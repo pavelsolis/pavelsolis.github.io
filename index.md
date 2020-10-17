@@ -2,9 +2,18 @@
 title: Home
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180749220-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180749220-1');
+</script>
+
 
 <img align="left" width="260" height="330" src="/images/ProfilePicture.JPG" style="float: left; padding-right: 30px;"> 
-<!-- <p class="view"><img align="left" width="350" height="410" src="/images/ProfilePicture.JPG"></p> -->
 
 Welcome! I am a Ph.D. candidate in economics at [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
 
