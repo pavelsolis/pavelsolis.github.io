@@ -7,9 +7,9 @@ email: msolism1@jhu.edu
 #twitter_username: PavelSolis
 
 # Generate social links in footer
-  social_links:
-    linkedin: pavelsolis
-    twitter: PavelSolis
+social_links:
+- linkedin: pavelsolis
+- twitter: PavelSolis
 
 # Pages (can include index.md)
 header_pages:
