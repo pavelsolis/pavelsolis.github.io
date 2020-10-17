@@ -11,9 +11,8 @@ I [apply](research.md) state-of-the-art macro-finance tools to understand the ef
 
 **Research Interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
 
-**E-mail:** <msolism1@jhu.edu>.
-
-<!-- **Curriculum Vitae:** [CV](CV.md) -->
+<!-- **E-mail:** <msolism1@jhu.edu>.
+**Curriculum Vitae:** [CV](CV.md) -->
 
 **Research Profiles:** [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), 
 [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís").
