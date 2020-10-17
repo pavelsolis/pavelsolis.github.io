@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts.
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2020. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf))
 
 <details>
   
@@ -26,8 +26,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
-<!-- The exchange rate response to the policy rate can be seen with intraday but not with daily data. -->
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* 2020. ([Paper](/files/research/FXpuzzle.pdf))
 
 <details>
   <summary> Intraday data solves the exchange rate puzzle in emerging markets. </summary>
@@ -41,7 +40,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. <!-- (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. ([Paper](/files/research/MXMP.pdf))
 
 <details>
   
@@ -56,7 +55,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" 2020. <!-- with Daniel A. Miranda. (Paper &#124; Slides &#124; Data &#124; Code) -->
+"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" 2019. ([Paper](/files/research/ROAmx.pdf))
 
 <details>
   
@@ -72,7 +71,7 @@ Click on the bullets to see the abstracts.
 &nbsp;
 
 
-"**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," 2020. <!--([Paper](/files/research/GFCyPaper.pdf))  Abstract -->
+"**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," 2019. ([Paper](/files/research/EMReturnsFlows.pdf))
 
 <details>
   <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity flows. </summary>
@@ -100,7 +99,7 @@ margin-right: auto;
 
 &nbsp;
 
-"**The Structure of the Mexican Interbank Market**," *Banco de México* mimeo, 2013. ([Paper](/files/research/TieringPaper.pdf) &#124; [Slides](/files/research/TieringSlides.pdf)) <!-- Abstract -->
+"**The Structure of the Mexican Interbank Market**," *Banco de México* mimeo, 2013. ([Paper](/files/research/MXTiering.pdf) &#124; [Slides](/files/research/MXTieringSlides.pdf))
 
 <details>
   <summary> The Mexican interbank market has a core-periphery structure. </summary>
