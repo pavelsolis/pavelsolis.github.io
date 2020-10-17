@@ -6,7 +6,7 @@ email:
 #linkedin_username: pavelsolis
 #twitter_username: PavelSolis
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Generate social links in footer
 social_links:
