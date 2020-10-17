@@ -1,12 +1,12 @@
 # Basic options
 title: Pavel Solís
 author:  
-name:  
+name: .
 email:  
 linkedin_username: pavelsolis
 twitter_username: PavelSolis
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Pages
 header_pages:
