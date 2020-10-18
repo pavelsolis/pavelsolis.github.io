@@ -40,7 +40,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. ([Paper](/files/research/MXMP.pdf))
+"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. ([Paper](/files/research/MXmp.pdf))
 
 <details>
   
@@ -55,7 +55,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" 2019. ([Paper](/files/research/ROAmx.pdf))
+"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" 2019. ([Paper](/files/research/MXroa.pdf))
 
 <details>
   
