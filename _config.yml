@@ -1,12 +1,8 @@
 # Basic options
 title: Pavel Solís
-author:
-  email: msolism1@jhu.edu
-#linkedin_username: pavelsolis
-#twitter_username: PavelSolis
-#github_username: pavelsolis
-
-show_excerpts: true # set to true to show excerpts on the homepage
+author: ""
+email: msolism1@jhu.edu
+keywords: "pavel, solis, economics, economist, jhu, emerging markets, mexico, macroeconomics, international finance"
 
 # Generate social links in footer
 minima:
@@ -14,6 +10,10 @@ minima:
     linkedin: pavelsolis
     twitter: PavelSolis
     github: pavelsolis
+# Earlier version of minima
+#linkedin_username: pavelsolis
+#twitter_username: PavelSolis
+#github_username: pavelsolis
 
 # Pages (can include index.md)
 header_pages:
