@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts.
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2020. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf))
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2020. ([Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)) <!-- (/files/research/EMYields.pdf)-->
 
 <details>
   
@@ -26,7 +26,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* 2020. ([Paper](/files/research/FXpuzzle.pdf))
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* 2020. ([Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)) <!--(/files/research/FXpuzzle.pdf)-->
 
 <details>
   <summary> Intraday data solves the exchange rate puzzle in emerging markets. </summary>
@@ -40,7 +40,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. ([Paper](/files/research/MXmp.pdf))
+"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. ([Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)) <!--(/files/research/MXmp.pdf)-->
 
 <details>
   
