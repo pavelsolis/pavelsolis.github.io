@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts.
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2020. ([Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)) <!-- (/files/research/EMYields.pdf)-->
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," [Job Market Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf) ([Appendix](/files/research/EMYieldsAppendix.pdf)). <!-- (/files/research/EMYields.pdf)-->
 
 <details>
   
