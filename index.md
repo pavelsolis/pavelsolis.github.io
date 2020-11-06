@@ -9,6 +9,8 @@ Welcome! I am a Ph.D. candidate in economics at [Johns Hopkins University](http:
 
 I [apply](research.md) state-of-the-art macro-finance tools to understand the effects of macroeconomic policies. <!-- with a special focus on emerging markets. -->
 
+I am available for interviews. I will participate in the the Virtual EJM 2020 in December and the Virtual 2021 ASSA Annual Meeting in January.
+
 **Research Interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
 
 <!-- **E-mail:** <msolism1@jhu.edu>.
