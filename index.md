@@ -7,9 +7,10 @@ title: Home
 
 Welcome! I am a Ph.D. candidate in economics at [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
 
+<!-- 
 I [apply](research.md) state-of-the-art macro-finance tools to understand the effects of macroeconomic policies. <!-- with a special focus on emerging markets. -->
 
-I am available for interviews. I will participate in the the Virtual EJM 2020 in December and the Virtual 2021 ASSA Annual Meeting in January.
+I will be available for interviews at the Virtual EJM 2020 in December and the Virtual 2021 ASSA Annual Meeting in January.
 
 **Research Interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
 
@@ -25,8 +26,10 @@ I am available for interviews. I will participate in the the Virtual EJM 2020 in
 [ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID iD - Pavel Solís")<img src="/images/orcid-icon-1200px.png" style="width:1em;margin-right:.5em;" width="15" height="15">, [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís")<img src="/images/mendeley-icon.png" style="width:1em;margin-right:.5em;" width="15" height="15">, Research Gate<img src="/images/researchgate-icon.png" style="width:1em;margin-right:.5em;" width="15" height="15">, <img src="/images/repec-icon-245x97.png" style="width:1em;margin-right:.5em;" width="30" height="15">.
 <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;">   -->
 
+<!-- 
 **Address:**
 3400 N. Charles Street,
 Wyman Park Building 544E,
 Baltimore, MD 21218,
 United States.
+-->
