@@ -10,8 +10,6 @@ Welcome! I am a Ph.D. candidate in economics at [Johns Hopkins University](http:
 <!-- 
 I [apply](research.md) state-of-the-art macro-finance tools to understand the effects of macroeconomic policies. <!-- with a special focus on emerging markets. -->
 
-I will be available for interviews at the Virtual EJM 2020 in December and the Virtual 2021 ASSA Annual Meeting in January.
-
 **Research Interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
 
 <!-- **E-mail:** <msolism1@jhu.edu>.
@@ -25,6 +23,8 @@ I will be available for interviews at the Virtual EJM 2020 in December and the V
 [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís")<img src="/images/google-scholar-icon.png" style="width:1em;margin-right:.5em;" width="15" height="15">, 
 [ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID iD - Pavel Solís")<img src="/images/orcid-icon-1200px.png" style="width:1em;margin-right:.5em;" width="15" height="15">, [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís")<img src="/images/mendeley-icon.png" style="width:1em;margin-right:.5em;" width="15" height="15">, Research Gate<img src="/images/researchgate-icon.png" style="width:1em;margin-right:.5em;" width="15" height="15">, <img src="/images/repec-icon-245x97.png" style="width:1em;margin-right:.5em;" width="30" height="15">.
 <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;">   -->
+
+I will be available for interviews at the Virtual EJM 2020 in December and the Virtual 2021 ASSA Annual Meeting in January.
 
 <!-- 
 **Address:**
