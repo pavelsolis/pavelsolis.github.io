@@ -5,7 +5,7 @@ title: Home
 
 <img align="left" width="260" height="330" src="/images/ProfilePicture.JPG" style="float: left; padding-right: 30px;"> 
 
-Welcome! I am a Ph.D. candidate in economics at [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
+Welcome! I am a Ph.D. Candidate in Economics at [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
 
 <!-- 
 I [apply](research.md) state-of-the-art macro-finance tools to understand the effects of macroeconomic policies. <!-- with a special focus on emerging markets. -->
