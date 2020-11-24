@@ -40,7 +40,7 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. ([Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)) <!--(/files/research/MXmp.pdf)-->
+"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. ([Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf) &#124; [Slides](/files/research/MXmpSlides.pdf)) <!--(/files/research/MXmp.pdf)-->
 
 <details>
   
@@ -144,7 +144,7 @@ margin-right: auto;
 
 ---
 
-"**Bond Flows and Liquidity: Do Foreigners Matter?**" by Jens H. E. Christensen, Eric Fischer and Patrick J. Shultz, 2020.
+"**Bond Flows and Liquidity: Do Foreigners Matter?**" by Jens H. E. Christensen, Eric Fischer and Patrick J. Shultz, 2020. ([Slides](/files/research/CFS_Discussion.pdf))
 
 &nbsp;
 
