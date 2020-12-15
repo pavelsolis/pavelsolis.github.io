@@ -140,7 +140,7 @@ margin-right: auto;
 
 &nbsp;
 
-# Discussions
+# Discussion
 
 ---
 
