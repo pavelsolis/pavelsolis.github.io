@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts.
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," [Job Market Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf) ([Appendix](/files/research/EMYieldsAppendix.pdf)). <!-- (/files/research/EMYields.pdf)-->
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," [Job Market Paper](/files/research/EMYields.pdf) ([Appendix](/files/research/EMYieldsAppendix.pdf)). <!-- (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)-->
 
 <details>
   
@@ -19,7 +19,8 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper documents the channels through which U.S. monetary policy impacts the sovereign bond yields of emerging markets. Traditional decompositions of sovereign yields are not suitable for emerging markets because they rely on a default-free assumption. Instead, I decompose the yields of 15 emerging markets into average expected future short-term interest rates, a term premium and compensation for credit risk. I use this decomposition to analyze the transmission channels of U.S. monetary policy surprises identified with intraday data. I find that the response of emerging market yields to target, forward guidance and asset purchase surprises is economically significant, yet delayed over days. In addition, unanticipated U.S. monetary policy decisions lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets. Finally, U.S. unconventional monetary policies limit the monetary autonomy of emerging markets along the yield curve.
+  <b><i>Abstract:</i></b> This paper documents the channels through which U.S. monetary policy impacts the sovereign bond yields of emerging markets.
+	Traditional decompositions of sovereign yields are not suitable for emerging markets because they rely on a default-free assumption. Instead, I decompose the yields of 15 emerging markets into average expected future short-term interest rates, a term premium and compensation for credit risk. I use this decomposition to analyze the transmission channels of U.S. monetary policy surprises identified with intraday data. I find that the response of emerging market yields to target, forward guidance and asset purchase surprises is economically significant, yet delayed over days. In addition, unanticipated U.S. monetary policy decisions lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets. Finally, U.S. unconventional monetary policies limit the monetary autonomy of emerging markets along their yield curves.
 
 &nbsp;
 </details>
