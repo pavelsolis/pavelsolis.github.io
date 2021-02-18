@@ -148,3 +148,6 @@ margin-right: auto;
 "**Bond Flows and Liquidity: Do Foreigners Matter?**" by Jens H. E. Christensen, Eric Fischer and Patrick J. Shultz, 2020. ([Slides](/files/research/CFS_Discussion.pdf))
 
 &nbsp;
+
+
+**Research Profile**: [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"). 
