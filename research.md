@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Click on the bullets to see the abstracts.
+Click on the bullets to see the abstracts. You can also visit my [Google Scholar profile](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís").
 
 &nbsp;
 
@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts.
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," [Job Market Paper](/files/research/EMYields.pdf) ([Appendix](/files/research/EMYieldsAppendix.pdf)). <!-- (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)-->
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2021. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)). <!-- (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)-->
 
 <details>
   
@@ -27,14 +27,15 @@ Click on the bullets to see the abstracts.
 
 &nbsp;
 
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* 2020. ([Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)) <!--(/files/research/FXpuzzle.pdf)-->
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* 2021. ([Paper](/files/research/FXpuzzle.pdf)) <!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
 
 <details>
   <summary> Intraday data solves the exchange rate puzzle in emerging markets. </summary>
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper addresses the exchange rate puzzle in emerging markets. While monetary policy in advanced economies exerts a strong impact on exchange rates, existing evidence for emerging markets shows that the response is small, nonexistent or inconsistent with standard open economy models. I use a new dataset of intraday changes in asset prices around policy events to estimate the impact of monetary policy on the exchange rate and the yield curve in Mexico. I find that an unanticipated increase in the policy rate appreciates the currency and flattens the yield curve, in line with the evidence for advanced economies. Comparing intraday and daily changes in asset prices reveals that, unlike the yield curve, the response of the exchange rate is sensitive to data frequency as it is only perceived using intraday data. The puzzle is thus the result of wide event windows when measuring changes in the exchange rate with daily data, giving rise to a standard omitted variable bias.
+  <b><i>Abstract:</i></b> This paper addresses the exchange rate puzzle in emerging markets. 
+	While monetary policy in advanced economies exerts a strong impact on exchange rates, existing evidence for emerging markets shows that the response is small, nonexistent or inconsistent with standard open economy models. I use a new dataset of intraday changes in asset prices around policy events to estimate the impact of monetary policy on the exchange rate and the yield curve in Mexico. I find that an unanticipated increase in the policy rate appreciates the currency and flattens the yield curve, in line with the evidence for advanced economies. Comparing intraday and daily changes in asset prices reveals that, unlike the yield curve, the response of the exchange rate is sensitive to data frequency as it is only perceived using intraday data. I show that the puzzle is the result of wide event windows when measuring changes in the exchange rate with daily data, giving rise to a standard omitted variable bias.
 
 &nbsp;
 </details>
@@ -147,7 +148,4 @@ margin-right: auto;
 
 "**Bond Flows and Liquidity: Do Foreigners Matter?**" by Jens H. E. Christensen, Eric Fischer and Patrick J. Shultz, 2020. ([Slides](/files/research/CFS_Discussion.pdf))
 
-&nbsp;
-
-
-**Research Profile**: [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"). 
+&nbsp; 
