@@ -46,11 +46,11 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 <details>
   
-  <summary> Asset prices and portfolio flows respond (asymmetrically) to monetary policy actions <i>and</i> statements. </summary>
+  <summary> Asset prices and portfolio flows respond to monetary policy actions <i>and</i> statements. </summary>
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. I show that unanticipated changes in both the policy rate and statements significantly impact asset prices and portfolio flows. Therefore, even though the policy rate has not been constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio flows but not the currency; the exchange rate only reacts to surprises in the current policy rate. Moreover, the response of asset prices and portfolio flows is asymmetric. For instance, the exchange rate does not respond to target easing surprises, while bond yields respond more to them than to target tightening surprises.
+  <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. I show that unanticipated changes in both the policy rate and statements significantly impact asset prices and portfolio flows. Therefore, even though the policy rate has not been constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio flows but not the currency; the exchange rate only reacts to surprises in the current policy rate.
 
 &nbsp;
 </details>
