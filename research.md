@@ -11,7 +11,8 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2021. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)). <!-- (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)-->
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," March 2021. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)). 
+<!-- (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)-->
 
 <details>
   
@@ -27,7 +28,8 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 &nbsp;
 
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* 2021. ([Paper](/files/research/FXpuzzle.pdf)) <!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* March 2021. ([Paper](/files/research/FXpuzzle.pdf)) 
+<!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
 
 <details>
   <summary> Intraday data solves the exchange rate puzzle in emerging markets. </summary>
@@ -42,7 +44,8 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 &nbsp;
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2020. ([Paper](http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf) &#124; [Slides](/files/research/MXmpSlides.pdf)) <!--(/files/research/MXmp.pdf)-->
+"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," March 2021. ([Paper](/files/research/MXmp.pdf) &#124; [Slides](/files/research/MXmpSlides.pdf)) 
+<!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
 
 <details>
   
@@ -50,7 +53,7 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in a representative emerging economy. I use a new dataset of intraday changes in asset prices around monetary policy announcements in Mexico to identify exogenous monetary policy surprises. I show that unanticipated changes in both the policy rate and statements significantly impact asset prices and portfolio flows. Therefore, even though the policy rate has not been constrained by the effective lower bound, the central bank has the ability to alter policy rate expectations via statements, influencing long-term bond yields and portfolio flows but not the currency; the exchange rate only reacts to surprises in the current policy rate.
+  <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in Mexico. Surprises about the current policy rate and about its future path communicated via statements are identified using a new dataset of intraday changes in asset prices around monetary policy announcements. I show that bond yields and portfolio flows respond significantly to both types of surprises. Domestic and foreign investors rebalance their portfolios over time following monetary policy decisions; for domestic investors, the rebalancing depends on their business model. Meanwhile, the exchange rate only reacts to surprises about the current policy rate and the effect is not persistent.
 
 &nbsp;
 </details>
