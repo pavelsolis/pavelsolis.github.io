@@ -28,7 +28,7 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 &nbsp;
 
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," *(Submitted)* March 2021. ([Paper](/files/research/FXpuzzle.pdf)) 
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," March 2021. ([Paper](/files/research/FXpuzzle.pdf)) 
 <!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
 
 <details>
