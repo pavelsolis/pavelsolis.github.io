@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," March 2021. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)). 
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2021. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)). 
 <!-- (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)-->
 
 <details>
@@ -28,7 +28,7 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 &nbsp;
 
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," March 2021. ([Paper](/files/research/FXpuzzle.pdf)) 
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," 2021. ([Paper](/files/research/FXpuzzle.pdf)) 
 <!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
 
 <details>
@@ -44,7 +44,7 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 &nbsp;
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," March 2021. ([Paper](/files/research/MXmp.pdf) &#124; [Slides](/files/research/MXmpSlides.pdf)) 
+"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2021. ([Paper](/files/research/MXmp.pdf) &#124; [Slides](/files/research/MXmpSlides.pdf)) 
 <!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
 
 <details>
