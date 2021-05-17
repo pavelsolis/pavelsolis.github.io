@@ -11,15 +11,15 @@ Welcome! I am a Ph.D. Candidate in Economics at [Johns Hopkins University](http:
 
 &nbsp;
 
-**Research interests:** International Finance, Empirical Macroeconomics and Financial Intermediation.
+**Research interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
 
 &nbsp;
 
 <!-- **E-mail:** <msolism1@jhu.edu>.
 **Curriculum Vitae:** [CV](CV.md) -->
 
-**Research Profiles**: [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), [ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID - Pavel Solís"). 
-<!-- [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís"), Research Gate, RePEc. -->
+<!-- **Research Profiles**: [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), [ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID - Pavel Solís"). 
+ [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís"), Research Gate, RePEc. -->
 
 <!--   
 [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís")<img src="/images/google-scholar-icon.png" style="width:1em;margin-right:.5em;" width="15" height="15">, 
