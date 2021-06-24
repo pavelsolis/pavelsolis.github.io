@@ -7,7 +7,7 @@ title: Home
 
 &nbsp;
 
-Welcome! I am a Ph.D. Candidate in Economics at [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
+Welcome! I am an Economist from [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
 
 &nbsp;
 
