@@ -7,7 +7,7 @@ title: Home
 
 &nbsp;
 
-Welcome! I am an Economist from [Johns Hopkins University](http://econ.jhu.edu/ "JHU Economics").
+Welcome! I am an Economist ([JHU](http://econ.jhu.edu/ "JHU Economics")) at [Banco de México](https://www.banxico.org.mx "Banxico").
 
 &nbsp;
 
