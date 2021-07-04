@@ -151,4 +151,6 @@ margin-right: auto;
 
 "**Bond Flows and Liquidity: Do Foreigners Matter?**" by Jens H. E. Christensen, Eric Fischer and Patrick J. Shultz, 2020. ([Slides](/files/research/CFS_Discussion.pdf))
 
+"**Firm’s Internal Dynamics and Credit Risk in Emerging Asia**" by Arti Omar and P. Krishna Prasanna, 2021. 
+
 &nbsp; 
