@@ -60,7 +60,7 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 &nbsp;
 
-"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" 2019. ([Paper](/files/research/MXroa.pdf))
+"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" 2019. ([Paper](/files/research/MXroa.pdf) &#124; [Slides](/files/research/MXroaSlides.pdf))
 
 <details>
   
