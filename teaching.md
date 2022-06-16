@@ -10,13 +10,11 @@ title: Teaching
 
 ---
 
-This course introduces basic concepts and models in macroeconomics and applies them towards gaining an understanding of 
-recent events and current policy issues. We shall cover a broad range of topics including national income and output, 
-unemployment, inflation, interest rates, exchange rates, as well as monetary and fiscal policies. We will also analyze the 2008-09 financial crisis and its impact on the economy. 
+This course introduces basic concepts and models in macroeconomics and applies them towards gaining an understanding of recent events and current policy issues. The course covers a broad range of topics including national income and output, unemployment, inflation, interest rates, exchange rates, as well as monetary and fiscal policies. Time is devoted to analyze recent events and their impact on the economy. 
 
 *Pre-requisites:* Basic facility with graphs and algebra. 
 
-**E-mail:** <msolism1@jhu.edu>
+<!-- **E-mail:** <msolism1@jhu.edu> -->
 
 **Location:** Gilman 55
 
@@ -54,7 +52,7 @@ Lecture 12: [Open Economy](/files/teaching/macro/Slides101_12_OE.pdf)
 
 Lecture 13: [International Financial System](/files/teaching/macro/Slides101_13_IFS.pdf), [Summary](/files/teaching/macro/Slides101_13_Summary.pdf)
 
-# Problem Sets and Midterm
+# Problem Sets
 
 Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf)
 
@@ -94,7 +92,7 @@ Reading: [Real Exchange Rates - What Money Can Buy](/files/teaching/macro/Readin
 
 This course gives an introduction to estimation for economic research.
 
-**E-mail:** <msolism1@jhu.edu>
+<!-- **E-mail:** <msolism1@jhu.edu> -->
 
 **Location:** Hodson 316
 
