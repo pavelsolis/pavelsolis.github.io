@@ -11,12 +11,13 @@ Welcome! I am an Economist ([JHU](http://econ.jhu.edu/ "JHU Economics")) at [Ban
 
 &nbsp;
 
-**Research interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
+**E-mail:** <pavel.solis@banxico.org.mx>.
 
 &nbsp;
 
-<!-- **E-mail:** <msolism1@jhu.edu>.
-**Curriculum Vitae:** [CV](CV.md) -->
+**Research interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
+
+<!-- **Curriculum Vitae:** [CV](CV.md) -->
 
 <!-- **Research Profiles**: [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), [ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID - Pavel Solís"). 
  [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís"), Research Gate, RePEc. -->
