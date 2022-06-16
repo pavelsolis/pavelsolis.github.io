@@ -27,15 +27,15 @@ Policy: [IMF](https://blogs.imf.org/) &#124; [Liberty Street Economics](https://
 Popular: [Martin Wolf](https://www.ft.com/martin-wolf) &#124; [Paul Krugman](https://krugman.blogs.nytimes.com/) &#124; [Greg Mankiw](http://gregmankiw.blogspot.com/) &#124; [Brad DeLong](https://delong.typepad.com/)
 
 # Podcasts <a name="podcasts"></a>
-[Macro Musings (David Beckworth)](https://macromusings.libsyn.com/) &#124; [Econ Talks (Russell Roberts)](https://www.econtalk.org/) &#124; 
-[Streetwise (Jack Hough)](https://www.barrons.com/podcasts/streetwise) &#124; [Trade Talks (Chad Brown & Soumaya Keynes)](https://www.tradetalkspodcast.com/) &#124; [Money Smart (FDIC)](https://www.fdic.gov/consumers/consumer/moneysmart/podcast/index.html)
+[Macro Musings](https://macromusings.libsyn.com/) (David Beckworth) &#124; [Econ Talks](https://www.econtalk.org/) (Russell Roberts) &#124; 
+[Streetwise](https://www.barrons.com/podcasts/streetwise) (Jack Hough) &#124; [Trade Talks](https://www.tradetalkspodcast.com/) (Chad Brown & Soumaya Keynes) &#124; [Money Smart](https://www.fdic.gov/consumers/consumer/moneysmart/podcast/index.html) (FDIC) 
 
 # News <a name="news"></a>
 [Worldwide](http://kiosko.net/) &#124; [Financial Times](https://www.ft.com/) &#124; [The Economist](https://www.economist.com/) &#124; [Bloomberg](https://www.bloomberg.com/) &#124; [FiveThirtyEight](https://fivethirtyeight.com/) &#124; [Investopedia](https://www.investopedia.com/) &#124; 
 [WSJ](https://www.wsj.com/) &#124; [NYT](https://www.nytimes.com/) &#124; [Washington Post](https://www.washingtonpost.com/) &#124; [Science](https://www.sciencemag.org/)
 
 # Reports <a name="reports"></a>
-[GFSR](https://www.imf.org/en/publications/gfsr) &#124; [WEO](https://www.imf.org/en/publications/weo) &#124; [BIS Quarterly Reviews](https://www.bis.org/quarterlyreviews/index.htm) &#124; [OECD Economic Outlook](https://www.oecd-ilibrary.org/economics/oecd-economic-outlook/volume-2020/issue-1_0d1d1e2e-en) &#124; [FSB Publications](https://www.fsb.org/publications/key-regular-publications/) &#124; Financial Stability Reports ([Fed](https://www.federalreserve.gov/publications/financial-stability-report.htm), [BoE](https://www.bankofengland.co.uk/financial-stability-report/financial-stability-reports), [ECB](https://www.ecb.europa.eu/pub/financial-stability/fsr/html/index.en.html), [BdM](https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-el-sistema-financiero/reportes-sistema-financiero-s.html))
+[GFSR](https://www.imf.org/en/publications/gfsr) &#124; [WEO](https://www.imf.org/en/publications/weo) &#124; [BIS Quarterly Reviews](https://www.bis.org/quarterlyreviews/index.htm) &#124; [OECD Economic Outlook](https://www.oecd-ilibrary.org/economics/oecd-economic-outlook/volume-2020/issue-1_0d1d1e2e-en) &#124; [FSB Publications](https://www.fsb.org/publications/key-regular-publications/) &#124; Financial Stability Reports ([Fed](https://www.federalreserve.gov/publications/financial-stability-report.htm), [BoE](https://www.bankofengland.co.uk/financial-stability-report/financial-stability-reports), [ECB](https://www.ecb.europa.eu/pub/financial-stability/fsr/html/index.en.html), [Banxico](https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-el-sistema-financiero/reportes-sistema-financiero-s.html))
 
 # Coding <a name="coding"></a>
 [Matlab](https://www.mathworks.com/help/index.html) &#124; [Stata](https://stats.idre.ucla.edu/stata/) &#124; [R](https://swirlstats.com/) &#124; Python ([QuantEcon](https://quantecon.org/), [Quantopian](https://www.quantopian.com/))
@@ -69,6 +69,6 @@ Best Books in Finance and Economics (The Economist): [2018](https://www.economis
 
 Books for Finance Professionals (Investopedia): [2020](https://www.investopedia.com/financial-advisor/must-read-books-for-finance-professionals/), [2019](https://www.investopedia.com/financial-edge/1210/5-must-read-finance-books.aspx)
 
-[Important Economics Books (The Reading Lists)](https://www.thereadinglists.com/the-most-important-economics-books/)
+[Important Economics Books](https://www.thereadinglists.com/the-most-important-economics-books/) (The Reading Lists)
 
 [Best Finance Books](https://fivebooks.com/best-books/finance-andrew-lo/)
