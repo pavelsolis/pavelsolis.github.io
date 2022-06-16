@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Click on the bullets to see the abstracts. You can also visit my [Google Scholar profile](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís").
+Click on the bullets to see the abstracts. Here is my [Google Scholar profile](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís").
 
 &nbsp;
 
@@ -11,24 +11,23 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," 2021. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf) &#124; [Codes](https://github.com/pavelsolis/Ch_Synthetic)). 
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2021. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf) &#124; [Codes](https://github.com/pavelsolis/Ch_Synthetic)). 
 <!-- (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)-->
 
 <details>
   
-  <summary> Changes in U.S. monetary policy lead to a reassessment of policy rate expectations and of risks in emerging markets. </summary>
+  <summary> U.S. monetary policy leads to a reassessment of policy rate expectations and risks in emerging markets. </summary>
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper documents the channels through which U.S. monetary policy impacts the sovereign bond yields of emerging markets.
-	Traditional decompositions of sovereign yields are not suitable for emerging markets because they rely on a default-free assumption. Instead, I decompose the yields of 15 emerging markets into average expected future short-term interest rates, a term premium and compensation for credit risk. I use this decomposition to analyze the transmission channels of U.S. monetary policy surprises identified with intraday data. I find that the response of emerging market yields to target, forward guidance and asset purchase surprises is economically significant, yet delayed over days. In addition, unanticipated U.S. monetary policy decisions lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets. Finally, U.S. unconventional monetary policies limit the monetary autonomy of emerging markets along their yield curves.
+  <b><i>Abstract:</i></b> This paper documents the channels through which U.S. monetary policy impacts the sovereign bond yields of emerging markets. 	Traditional decompositions of sovereign yields are not suitable for emerging markets because they rely on a default-free assumption. Instead, I decompose the yields of 15 emerging markets into average expected future short-term interest rates, a (`clean') term premium and compensation for credit risk. I use these decompositions to analyze the transmission channels of U.S. monetary policy surprises identified with intraday data. I find that the responses of emerging market yields to target, forward guidance and asset purchase surprises are sluggish, and amplify over time. The yield decompositions show that U.S. monetary policy transmits to emerging market yields through their different components. Unanticipated Fed's policy decisions lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets. The effects vary along their yield curves.
 
 &nbsp;
 </details>
 
 &nbsp;
 
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," 2021. ([Paper](/files/research/FXpuzzle.pdf) &#124; [Slides](/files/research/FXpuzzleSlides.pdf)) 
+"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," Submitted, 2021. ([Paper](/files/research/FXpuzzle.pdf) &#124; [Slides](/files/research/FXpuzzleSlides.pdf)) 
 <!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
 
 <details>
@@ -36,31 +35,31 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper addresses the exchange rate puzzle in emerging markets. 
-	While monetary policy in advanced economies exerts a strong impact on exchange rates, existing evidence for emerging markets shows that the response is small, nonexistent or inconsistent with standard open economy models. I use a new dataset of intraday changes in asset prices around policy events to estimate the impact of monetary policy on the exchange rate and the yield curve in Mexico. I find that an unanticipated increase in the policy rate appreciates the currency and flattens the yield curve, in line with the evidence for advanced economies. Comparing intraday and daily changes in asset prices reveals that, unlike the yield curve, the response of the exchange rate is sensitive to data frequency as it is only perceived using intraday data. I show that the puzzle is the result of wide event windows when measuring changes in the exchange rate with daily data, giving rise to a standard omitted variable bias.
+  <b><i>Abstract:</i></b> This paper shows that the null or weak response of emerging market currencies to domestic monetary policy documented so far in the literature is the result of wide event windows. An event study with intraday data for Mexico shows that an unanticipated tightening appreciates the currency and flattens the yield curve, consistent with the evidence for advanced economies. With daily event windows, however, only the yield curve responds to monetary policy. Noise in daily exchange rate returns explains the lack of response of the currency. Such noise gives rise to a bias that declines after controlling for potential omitted variables.
 
 &nbsp;
 </details>
 
 &nbsp;
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," 2021. ([Paper](/files/research/MXmp.pdf) &#124; [Slides](/files/research/MXmpSlides.pdf)) 
+"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," Submitted, 2022. ([Paper](/files/research/MXmp.pdf) &#124; [Slides](/files/research/MXmpSlides.pdf)) 
 <!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
 
 <details>
   
-  <summary> Asset prices and portfolio flows respond to monetary policy actions <i>and</i> statements. </summary>
-
+  <summary> Emerging market central banks manage expectations about future policy via statements. </summary>
+<!-- Asset prices and portfolio flows respond to monetary policy actions <i>and</i> statements. -->
+	
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and portfolio flows in Mexico. Surprises about the current policy rate and about its future path communicated via statements are identified using a new dataset of intraday changes in asset prices around monetary policy announcements. I show that bond yields and portfolio flows respond significantly to both types of surprises. Domestic and foreign investors rebalance their portfolios over time following monetary policy decisions; for domestic investors, the rebalancing depends on their business model. Meanwhile, the exchange rate only reacts to surprises about the current policy rate and the effect is not persistent.
+  <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and bond holdings in Mexico. Monetary policy surprises are identified using intraday data on asset prices around monetary policy announcements. Asset prices and the bond holdings of domestic and foreign investors respond not only to unanticipated changes in the policy rate but to information about its future path communicated via statements. The ability to manage expectations about future policy via statements is thus not exclusive to central banks in advanced economies and does not require the zero lower bound to be binding.
 
 &nbsp;
 </details>
 
 &nbsp;
 
-"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**" 2019. ([Paper](/files/research/MXroa.pdf) &#124; [Slides](/files/research/MXroaSlides.pdf))
+"**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**," 2019. ([Paper](/files/research/MXroa.pdf) &#124; [Slides](/files/research/MXroaSlides.pdf))
 
 <details>
   
@@ -79,7 +78,7 @@ Click on the bullets to see the abstracts. You can also visit my [Google Scholar
 "**Stock Returns and the Drivers of Portfolio Equity Flows in Emerging Markets**," 2019. ([Paper](/files/research/EMReturnsFlows.pdf))
 
 <details>
-  <summary> Stock market returns can be used to identify global and domestic factors in portfolio equity flows. </summary>
+  <summary> Stock market returns help to identify global and domestic factors in portfolio equity flows. </summary>
 
 &nbsp;
 
