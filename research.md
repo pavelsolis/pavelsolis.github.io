@@ -16,7 +16,7 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 <details>
   
-  <summary> U.S. monetary policy leads to a reassessment of policy rate expectations and risks in emerging markets. </summary>
+  <summary> U.S. monetary policies lead to a reassessment of policy rate expectations and risks in emerging markets. </summary>
 
 &nbsp;
 
