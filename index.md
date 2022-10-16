@@ -15,7 +15,7 @@ Welcome! I am an Economist ([JHU](http://econ.jhu.edu/ "JHU Economics")) at [Ban
 
 &nbsp;
 
-**Research interests:** International Finance, Empirical Macroeconomics, Financial Intermediation.
+**Research interests:** Empirical Macroeconomics, Financial Intermediation, International Finance.
 
 <!-- **Curriculum Vitae:** [CV](CV.md) -->
 
