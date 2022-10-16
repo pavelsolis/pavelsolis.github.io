@@ -7,6 +7,43 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 &nbsp;
 
+# Publications
+
+---
+
+"**Does the Exchange Rate Respond to Monetary Policy in Mexico? Solving an Exchange Rate Puzzle in Emerging Markets**," Forthcoming. ([Paper](/files/research/FXpuzzle.pdf) &#124; [Slides](/files/research/FXpuzzleSlides.pdf)) 
+<!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
+
+<details>
+  <summary> Intraday data solves the exchange rate puzzle in emerging markets. </summary>
+
+&nbsp;
+
+  <b><i>Abstract:</i></b> This paper argues that the null or weak response of emerging market currencies to domestic monetary policy documented in the literature is the result of wide event windows. An event study with intraday data for Mexico shows that an unanticipated tightening appreciates the currency and flattens the yield curve, consistent with the evidence for advanced economies. With daily event windows, however, only the yield curve responds to monetary policy. Noise in daily exchange rate returns explains the lack of response of the currency. Such noise gives rise to a bias that declines after controlling for potential omitted variables.
+
+&nbsp;
+</details>
+
+&nbsp;
+
+"**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. [In Spanish] ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
+
+<details>
+  <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
+
+&nbsp;
+
+  <b><i>Abstract:</i></b> This paper studies the relationship between the arrival of macroeconomic news and the Mexican stock market. We use GARCH models to examine the reaction of daily excess returns of stock prices to surprises in Mexican and U.S. macroeconomic releases from 2003 to 2008. We find that the dynamics of daily returns in the Mexican stock market are linked to the arrival of new information on macroeconomic fundamentals from both Mexico and the U.S.
+
+&nbsp;
+</details>
+
+<!--
+<img align="middle" width="300" height="150" src="/files/research/VolMacroNewsFigA.png" alt="Volatility and U.S. Macroeconomic News">
+-->
+
+&nbsp;
+
 # Working Papers
 
 ---
@@ -21,21 +58,6 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 &nbsp;
 
   <b><i>Abstract:</i></b> This paper documents the channels through which U.S. monetary policy impacts the sovereign bond yields of emerging markets. 	Traditional decompositions of sovereign yields are not suitable for emerging markets because they rely on a default-free assumption. Instead, I decompose the yields of 15 emerging markets into average expected future short-term interest rates, a (`clean') term premium and compensation for credit risk. I use these decompositions to analyze the transmission channels of U.S. monetary policy surprises identified with intraday data. I find that the responses of emerging market yields to target, forward guidance and asset purchase surprises are sluggish, and amplify over time. The yield decompositions show that U.S. monetary policy transmits to emerging market yields through their different components. Unanticipated Fed's policy decisions lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets. The effects vary along their yield curves.
-
-&nbsp;
-</details>
-
-&nbsp;
-
-"**Does the Exchange Rate Respond to Monetary Policy in Emerging Markets? Evidence from Mexico**," Submitted, 2021. ([Paper](/files/research/FXpuzzle.pdf) &#124; [Slides](/files/research/FXpuzzleSlides.pdf)) 
-<!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
-
-<details>
-  <summary> Intraday data solves the exchange rate puzzle in emerging markets. </summary>
-
-&nbsp;
-
-  <b><i>Abstract:</i></b> This paper shows that the null or weak response of emerging market currencies to domestic monetary policy documented so far in the literature is the result of wide event windows. An event study with intraday data for Mexico shows that an unanticipated tightening appreciates the currency and flattens the yield curve, consistent with the evidence for advanced economies. With daily event windows, however, only the yield curve responds to monetary policy. Noise in daily exchange rate returns explains the lack of response of the currency. Such noise gives rise to a bias that declines after controlling for potential omitted variables.
 
 &nbsp;
 </details>
@@ -118,28 +140,6 @@ margin-right: auto;
 <!--
 <img align="left" width="300" height="150" src="/files/research/TieringFigA.png" alt="Links within and between tiers">
 <img align="rigt" width="300" height="150" src="/files/research/TieringFigB.png" alt="Core-periphery network">
--->
-
-&nbsp;
-
-# Publication
-
----
-
-"**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. [In Spanish] ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
-
-<details>
-  <summary> Stock returns in Mexico are associated with macroeconomic surprises from Mexico <i>and</i> the U.S. </summary>
-
-&nbsp;
-
-  <b><i>Abstract:</i></b> This paper studies the relationship between the arrival of macroeconomic news and the Mexican stock market. We use GARCH models to examine the reaction of daily excess returns of stock prices to surprises in Mexican and U.S. macroeconomic releases from 2003 to 2008. We find that the dynamics of daily returns in the Mexican stock market are linked to the arrival of new information on macroeconomic fundamentals from both Mexico and the U.S.
-
-&nbsp;
-</details>
-
-<!--
-<img align="middle" width="300" height="150" src="/files/research/VolMacroNewsFigA.png" alt="Volatility and U.S. Macroeconomic News">
 -->
 
 &nbsp;
