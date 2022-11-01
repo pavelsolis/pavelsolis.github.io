@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 ---
 
-"**Does the Exchange Rate Respond to Monetary Policy in Mexico? Solving an Exchange Rate Puzzle in Emerging Markets**," Forthcoming. ([Paper](/files/research/FXpuzzle.pdf) &#124; [Slides](/files/research/FXpuzzleSlides.pdf)) 
+"**Does the Exchange Rate Respond to Monetary Policy in Mexico? Solving an Exchange Rate Puzzle in Emerging Markets**," *Journal of Money, Credit and Banking*, forthcoming. ([Paper](/files/research/FXpuzzle.pdf) &#124; [Slides](/files/research/FXpuzzleSlides.pdf)) 
 <!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
 
 <details>
