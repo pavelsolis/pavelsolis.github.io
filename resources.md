@@ -41,7 +41,7 @@ Popular: [Martin Wolf](https://www.ft.com/martin-wolf) &#124; [Paul Krugman](htt
 [Matlab](https://www.mathworks.com/help/index.html) &#124; [Stata](https://stats.idre.ucla.edu/stata/) &#124; [R](https://swirlstats.com/) &#124; Python ([QuantEcon](https://quantecon.org/), [Quantopian](https://www.quantopian.com/))
 
 # Research <a name="research"></a>
-[Replication Template](https://github.com/pavelsolis/Replication-Folder) &#124; [Communicating Economics](www.communicatingeconomics.com) &#124; [Reference Manager](https://researchguides.library.tufts.edu/c.php?g=249269&p=1659288) &#124; [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) &#124; [The Writing Process](https://owl.purdue.edu/site_map.html)
+[A Primer on Git and GitHub](https://github.com/pavelsolis/Git-GitHub-Primer) &#124; [Replication Folder Template](https://github.com/pavelsolis/Replication-Folder) &#124; [Communicating Economics](www.communicatingeconomics.com) &#124; [Reference Manager](https://researchguides.library.tufts.edu/c.php?g=249269&p=1659288) &#124; [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) &#124; [The Writing Process](https://owl.purdue.edu/site_map.html)
 
 # Conferences <a name="conferences"></a>
 [Central Bank Research Association (CEBRA)](https://cebra.org/) &#124; [International Banking Research Network (IBRN)](https://www.newyorkfed.org/ibrn) &#124; [Jacques Polak (IMF)](https://www.imf.org/external/pubs/ft/staffp/arc/index.asp)
