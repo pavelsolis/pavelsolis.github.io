@@ -7,17 +7,21 @@ title: Home
 
 &nbsp;
 
-Welcome! I am an Economist ([JHU](http://econ.jhu.edu/ "JHU Economics")) at [Banco de México](https://www.banxico.org.mx "Banxico").
+Welcome! 
 
-&nbsp;
+I am a Senior Economist at [Banco de México](https://www.banxico.org.mx "Banxico"). My research focuses on the macroeconomic and financial effects of monetary policy in emerging markets. 
+
+I am interested in applied macroeconomics, financial intermediation and international finance.
 
 **E-mail:** <pavel.solis@banxico.org.mx>.
 
 &nbsp;
 
+<!-- 
+&nbsp;
 **Research interests:** Empirical Macroeconomics, Financial Intermediation, International Finance.
-
-<!-- **Curriculum Vitae:** [CV](CV.md) -->
+**Curriculum Vitae:** [CV](CV.md) 
+-->
 
 <!-- **Research Profiles**: [Google Scholar](https://scholar.google.com/citations?user=psWsSL0AAAAJ&hl=en "Google Scholar - Pavel Solís"), [ORCID](https://orcid.org/0000-0001-6893-4326 "ORCID - Pavel Solís"). 
  [Mendeley](https://www.mendeley.com/profiles/pavel-sols3/ "Mendeley - Pavel Solís"), Research Gate, RePEc. -->
