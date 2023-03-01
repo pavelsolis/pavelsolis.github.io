@@ -48,7 +48,7 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2021. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)). 
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2023. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)). 
 <!---
  &#124; [Codes](https://github.com/pavelsolis/Ch_Synthetic)
 (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)
@@ -60,24 +60,27 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper documents the channels through which U.S. monetary policy impacts the sovereign bond yields of emerging markets. 	Traditional decompositions of sovereign yields are not suitable for emerging markets because they rely on a default-free assumption. Instead, I decompose the yields of 15 emerging markets into average expected future short-term interest rates, a (`clean') term premium and compensation for credit risk. I use these decompositions to analyze the transmission channels of U.S. monetary policy surprises identified with intraday data. I find that the responses of emerging market yields to target, forward guidance and asset purchase surprises are sluggish, and amplify over time. The yield decompositions show that U.S. monetary policy transmits to emerging market yields through their different components. Unanticipated Fed's policy decisions lead to a reassessment of policy rate expectations and a repricing of interest and credit risks in emerging markets. The effects vary along their yield curves.
+  <b><i>Abstract:</i></b> This paper studies how U.S. monetary policy transmits to the sovereign yields of emerging markets without ignoring credit risk. First, investors expect emerging market central banks to follow the monetary stance of the Fed. Second, U.S. unconventional monetary policies influence the term premium in emerging markets as in the U.S. Third, U.S. monetary policy also alters the pricing of sovereign credit risk in emerging markets, a previously overlooked channel. To quantify these effects, I first identify target, forward guidance and asset purchase surprises in the U.S. using intraday data, and then propose a novel (three-part) decomposition of emerging market yields that accounts for credit risk.
 
 &nbsp;
 </details>
 
 &nbsp;
 
-"**Price and Quantity Effects of Monetary Policy Actions and Statements in an Emerging Economy**," Submitted, 2022. ([Paper](/files/research/MXmp.pdf) &#124; [Slides](/files/research/MXmpSlides.pdf)) 
+"**Do Central Bank Words Matter in Emerging Markets? Evidence from Mexico**," Submitted, 2023. ([Paper](/files/research/MPMX.pdf) &#124; [Slides](/files/research/MPMXSlides.pdf)) 
 <!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
 
 <details>
   
-  <summary> Emerging market central banks manage expectations about future policy via statements. </summary>
-<!-- Asset prices and portfolio flows respond to monetary policy actions <i>and</i> statements. -->
+  <summary> Expectations management about future policy via statements is not exclusive to advanced economies. </summary>
+<!-- 
+Emerging market central banks manage expectations about future policy via statements
+Asset prices and portfolio flows respond to monetary policy actions <i>and</i> statements. 
+-->
 	
 &nbsp;
 
-  <b><i>Abstract:</i></b> This paper studies the effects of monetary policy actions and statements on the exchange rate, the yield curve and bond holdings in Mexico. Monetary policy surprises are identified using intraday data on asset prices around monetary policy announcements. Asset prices and the bond holdings of domestic and foreign investors respond not only to unanticipated changes in the policy rate but to information about its future path communicated via statements. The ability to manage expectations about future policy via statements is thus not exclusive to central banks in advanced economies and does not require the zero lower bound to be binding.
+  <b><i>Abstract:</i></b> This paper analyzes the price and quantity effects of monetary policy statements in an emerging market economy. Surprises in monetary policy are identified using intraday data on asset prices around monetary policy announcements in Mexico. I find that asset prices and the portfolio flows of domestic and foreign investors respond not only to changes in the policy rate but to information about its future path communicated via statements. The ability to manage expectations about future policy via statements is thus not exclusive to central banks in advanced economies and does not require the zero lower bound to be binding.
 
 &nbsp;
 </details>
