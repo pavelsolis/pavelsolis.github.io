@@ -48,7 +48,7 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2023. ([Paper](/files/research/EMYields.pdf) &#124; [Appendix](/files/research/EMYieldsAppendix.pdf)). 
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2023. ([Paper](/files/research/EMyields.pdf) &#124; [Appendix](/files/research/EMyieldsAppendix.pdf)). 
 <!---
  &#124; [Codes](https://github.com/pavelsolis/Ch_Synthetic)
 (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)
