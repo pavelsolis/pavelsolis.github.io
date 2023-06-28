@@ -4,11 +4,9 @@ author: ""
 email: pavel.solis@banxico.org.mx
 keywords: "pavel, solis, solís, economics, economist, jhu, banxico, emerging markets, mexico, macroeconomics, international finance"
 
-# Build settings, use remote theme
+# Build settings
 markdown: kramdown
-remote_theme: jekyll/minima
-plugins:
-- jekyll-remote-theme
+theme: minima
 
 # Generate social links in footer
 minima:
