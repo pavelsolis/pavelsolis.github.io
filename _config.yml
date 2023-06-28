@@ -22,9 +22,11 @@ header_pages:
 - teaching.md
 - resources.md
 
-# Build settings
+# Build settings, use remote theme because Jekyll blog uses minima theme and is hosted on GitHub Pages
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+- jekyll-remote-theme
 
 # Google Analytics
-google_analytics: UA-180749220-1
+google_analytics: G-3DD2DLXDQF
