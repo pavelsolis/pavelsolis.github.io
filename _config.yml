@@ -4,6 +4,12 @@ author: ""
 email: pavel.solis@banxico.org.mx
 keywords: "pavel, solis, solís, economics, economist, jhu, banxico, emerging markets, mexico, macroeconomics, international finance"
 
+# Build settings, use remote theme
+markdown: kramdown
+remote_theme: jekyll/minima
+plugins:
+- jekyll-remote-theme
+
 # Generate social links in footer
 minima:
   social_links:
@@ -21,12 +27,6 @@ header_pages:
 - research.md
 - teaching.md
 - resources.md
-
-# Build settings, use remote theme because Jekyll blog uses minima theme and is hosted on GitHub Pages
-markdown: kramdown
-remote_theme: jekyll/minima
-plugins:
-- jekyll-remote-theme
 
 # Google Analytics
 google_analytics: G-3DD2DLXDQF
