@@ -73,7 +73,7 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 <details>
   
-  <summary> Expectations management about future policy via statements is not exclusive to advanced economies. </summary>
+  <summary> Guidance about future policy is not exclusive to central banks in advanced economies. </summary>
 <!-- 
 Emerging market central banks manage expectations about future policy via statements
 Asset prices and portfolio flows respond to monetary policy actions <i>and</i> statements. 
@@ -155,8 +155,10 @@ margin-right: auto;
 
 ---
 
-"**Bond Flows and Liquidity: Do Foreigners Matter?**" by Jens H. E. Christensen, Eric Fischer and Patrick J. Shultz, 2020. ([Slides](/files/research/Discussion_CFS.pdf))
+"**The Asymmetric Credit Channel of Monetary Policy**" by Ander Perez-Orive, Yannick Timmer and Alejandro van der Ghote, 2023. (Slides forthcoming) <!--([Slides](/files/research/Discussion_CFS.pdf))-->
 
 "**Firm’s Internal Dynamics and Credit Risk in Emerging Asia**" by Arti Omar and P. Krishna Prasanna, 2021. ([Slides](/files/research/Discussion_OmarPrasanna.pdf))
+
+"**Bond Flows and Liquidity: Do Foreigners Matter?**" by Jens H. E. Christensen, Eric Fischer and Patrick J. Shultz, 2020. ([Slides](/files/research/Discussion_CFS.pdf))
 
 &nbsp; 
