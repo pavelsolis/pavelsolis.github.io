@@ -27,6 +27,27 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 &nbsp;
 
+"**Do Central Bank Words Matter in Emerging Markets? Evidence from Mexico**," *Journal of Macroeconomics*, 2023. ([Paper](/files/research/EMwords.pdf) &#124; [Slides](/files/research/EMwordsSlides.pdf)) 
+<!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
+
+<details>
+  
+  <summary> Guidance about future policy is not exclusive to central banks in advanced economies. </summary>
+<!-- 
+Emerging market central banks can manage expectations about future policy via statements
+Asset prices and portfolio flows respond to monetary policy actions <i>and</i> statements. 
+-->
+	
+&nbsp;
+
+  <b><i>Abstract:</i></b> This paper analyzes the price and quantity effects of monetary policy statements in an emerging market economy. Surprises in monetary policy are identified using intraday data on asset prices around monetary policy announcements in Mexico. I find that asset prices and the portfolio flows of domestic and foreign investors respond strongly and persistently to both news about the policy rate and guidance about its future path communicated via statements. The ability to manage expectations about future policy via statements is thus not exclusive to central banks in advanced economies and does not require the zero lower bound to be binding.
+
+&nbsp;
+</details>
+
+&nbsp;
+
+
 "**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012, 35-67. [In Spanish] ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract -->
 
 <details>
@@ -62,26 +83,6 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 &nbsp;
 
   <b><i>Abstract:</i></b> This paper studies how U.S. monetary policy transmits to the sovereign yields of emerging markets without ignoring credit risk. First, investors expect emerging market central banks to follow the monetary stance of the Fed. Second, U.S. unconventional monetary policies influence the term premium in emerging markets as in the U.S. Third, U.S. monetary policy also alters the pricing of sovereign credit risk in emerging markets, a previously overlooked channel. To quantify these effects, I first identify target, forward guidance and asset purchase surprises in the U.S. using intraday data, and then propose a novel (three-part) decomposition of emerging market yields that accounts for credit risk.
-
-&nbsp;
-</details>
-
-&nbsp;
-
-"**Do Central Bank Words Matter in Emerging Markets? Evidence from Mexico**," Submitted, 2023. ([Paper](/files/research/EMwords.pdf) &#124; [Slides](/files/research/EMwordsSlides.pdf)) 
-<!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
-
-<details>
-  
-  <summary> Guidance about future policy is not exclusive to central banks in advanced economies. </summary>
-<!-- 
-Emerging market central banks manage expectations about future policy via statements
-Asset prices and portfolio flows respond to monetary policy actions <i>and</i> statements. 
--->
-	
-&nbsp;
-
-  <b><i>Abstract:</i></b> This paper analyzes the price and quantity effects of monetary policy statements in an emerging market economy. Surprises in monetary policy are identified using intraday data on asset prices around monetary policy announcements in Mexico. I find that asset prices and the portfolio flows of domestic and foreign investors respond not only to changes in the policy rate but to information about its future path communicated via statements. The ability to manage expectations about future policy via statements is thus not exclusive to central banks in advanced economies and does not require the zero lower bound to be binding.
 
 &nbsp;
 </details>
