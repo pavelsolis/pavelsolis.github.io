@@ -27,8 +27,8 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 &nbsp;
 
-"**Do Central Bank Words Matter in Emerging Markets? Evidence from Mexico**," *Journal of Macroeconomics*, 2023. ([Paper](/files/research/EMwords.pdf) &#124; [Slides](/files/research/EMwordsSlides.pdf)) 
-<!--(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
+"**Do Central Bank Words Matter in Emerging Markets? Evidence from Mexico**," *Journal of Macroeconomics*, forthcoming. ([Paper](/files/research/EMwords.pdf)) 
+<!-- &#124; [Slides](/files/research/EMwordsSlides.pdf) (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
 
 <details>
   
