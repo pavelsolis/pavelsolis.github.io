@@ -156,10 +156,10 @@ margin-right: auto;
 
 ---
 
-"**The Asymmetric Credit Channel of Monetary Policy**" by Ander Perez-Orive, Yannick Timmer and Alejandro van der Ghote, 2023. (Slides forthcoming) <!--([Slides](/files/research/Discussion_CFS.pdf))-->
+"**The Asymmetric Credit Channel of Monetary Policy**" by Ander Pérez-Orive, Yannick Timmer and Alejandro van der Ghote, 2023. ([Slides](/files/research/Discussion_Asymmetric.pdf))
 
-"**Firm’s Internal Dynamics and Credit Risk in Emerging Asia**" by Arti Omar and P. Krishna Prasanna, 2021. ([Slides](/files/research/Discussion_OmarPrasanna.pdf))
+"**Firm’s Internal Dynamics and Credit Risk in Emerging Asia**" by Arti Omar and P. Krishna Prasanna, 2021. ([Slides](/files/research/Discussion_FirmsCRAsia.pdf))
 
-"**Bond Flows and Liquidity: Do Foreigners Matter?**" by Jens H. E. Christensen, Eric Fischer and Patrick J. Shultz, 2020. ([Slides](/files/research/Discussion_CFS.pdf))
+"**Bond Flows and Liquidity: Do Foreigners Matter?**" by Jens H. E. Christensen, Eric Fischer and Patrick J. Shultz, 2020. ([Slides](/files/research/Discussion_LiqForeigners.pdf))
 
 &nbsp; 
