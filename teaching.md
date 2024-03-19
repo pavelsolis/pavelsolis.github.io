@@ -10,7 +10,8 @@ title: Teaching
 ---
 
 **Lugar:** Salón (T3-25 Norte), Laboratorio (T3-PB Sur, Sala 5)
-**Horario:** Martes 19:00 - 22:00 hrs (Ene 16 - May 14)
+
+**Horario:** Martes 19:00 - 22:00 hrs (Ene 16 - May 14, 2024)
 
 # Archivos
 
