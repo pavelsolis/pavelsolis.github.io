@@ -11,7 +11,7 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 ---
 
-"**Does the Exchange Rate Respond to Monetary Policy in Mexico? Solving an Exchange Rate Puzzle in Emerging Markets**," *Journal of Money, Credit and Banking*, 2023. ([Paper](https://doi.org/10.1111/jmcb.13032)  &#124; [Slides](/files/research/FXpuzzleSlides.pdf))
+"**Does the Exchange Rate Respond to Monetary Policy in Mexico? Solving an Exchange Rate Puzzle in Emerging Markets**," *Journal of Money, Credit and Banking*, 2023. ([Paper](https://doi.org/10.1111/jmcb.13032) &#124; [Slides](/files/research/FXpuzzleSlides.pdf) &#124; [Codes](https://github.com/pavelsolis/FXpuzzle))
 
 <!--[Paper](/files/research/FXpuzzle.pdf) &#124;  &#124; [Codes](https://github.com/pavelsolis/FXpuzzle)(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
 
@@ -27,7 +27,7 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 &nbsp;
 
-"**Do Central Bank Words Matter in Emerging Markets? Evidence from Mexico**," *Journal of Macroeconomics*, forthcoming. ([Paper](https://doi.org/10.1016/j.jmacro.2023.103570)) 
+"**Do Central Bank Words Matter in Emerging Markets? Evidence from Mexico**," *Journal of Macroeconomics*, forthcoming. ([Paper](https://doi.org/10.1016/j.jmacro.2023.103570) &#124; [Codes](https://github.com/pavelsolis/EMwords)) 
 <!-- (/files/research/EMwords.pdf) &#124; [Slides](/files/research/EMwordsSlides.pdf) (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
 
 <details>
@@ -70,7 +70,7 @@ Asset prices and portfolio flows respond to monetary policy actions <i>and</i> s
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2023. ([Paper](/files/research/EMyields.pdf) &#124; [Appendix](/files/research/EMyieldsAppendix.pdf)). 
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2023. ([Paper](/files/research/EMyields.pdf) &#124; [Appendix](/files/research/EMyieldsApdx.pdf) &#124; [Codes](https://github.com/pavelsolis/EMyields)). 
 <!---
  &#124; [Codes](https://github.com/pavelsolis/Ch_Synthetic)
 (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)
