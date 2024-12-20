@@ -27,7 +27,7 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 &nbsp;
 
-"**Do Central Bank Words Matter in Emerging Markets? Evidence from Mexico**," *Journal of Macroeconomics*, forthcoming. ([Paper](https://doi.org/10.1016/j.jmacro.2023.103570) &#124; [Codes](https://github.com/pavelsolis/EMwords)) 
+"**Do Central Bank Words Matter in Emerging Markets? Evidence from Mexico**," *Journal of Macroeconomics*, 2023. ([Paper](https://doi.org/10.1016/j.jmacro.2023.103570) &#124; [Codes](https://github.com/pavelsolis/EMwords)) 
 <!-- (/files/research/EMwords.pdf) &#124; [Slides](/files/research/EMwordsSlides.pdf) (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/MXmpSolisMP.pdf)-->
 
 <details>
@@ -70,7 +70,7 @@ Asset prices and portfolio flows respond to monetary policy actions <i>and</i> s
 
 ---
 
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2023. ([Paper](/files/research/EMyields.pdf) &#124; [Appendix](/files/research/EMyieldsApdx.pdf) &#124; [Codes](https://github.com/pavelsolis/EMyields)). 
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2024. ([Paper](/files/research/EMyields.pdf) &#124; [Appendix](/files/research/EMyieldsApdx.pdf) &#124; [Codes](https://github.com/pavelsolis/EMyields)). 
 <!---
  &#124; [Codes](https://github.com/pavelsolis/Ch_Synthetic)
 (http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)
