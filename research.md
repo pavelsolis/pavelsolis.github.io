@@ -11,6 +11,25 @@ Click on the bullets to see the abstracts. Here is my [Google Scholar profile](h
 
 ---
 
+"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," *Journal of International Economics*, 2025 (forthcoming). ([Paper](/files/research/EMyields.pdf) &#124; [Appendix](/files/research/EMyieldsApdx.pdf) &#124; [Codes](https://github.com/pavelsolis/EMyields)). 
+<!---
+ &#124; [Codes](https://github.com/pavelsolis/Ch_Synthetic)
+(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)
+-->
+
+<details>
+  
+  <summary> U.S. monetary policies lead to a reassessment of policy rate expectations and risks in emerging markets. </summary>
+
+&nbsp;
+
+  <b><i>Abstract:</i></b> This paper studies how U.S. monetary policy transmits to the sovereign yields of emerging markets without ignoring credit risk. To quantify the effects, I first identify different types of surprises in U.S. monetary policy using intraday data, and then propose a novel (three-part) decomposition of emerging market yields that accounts for credit risk. I find that surprises in U.S. monetary policy lead to a reassessment of policy rate expectations and a repricing of interest rate and credit risks in emerging markets. Specifically, investors expect monetary authorities in emerging markets to follow the monetary stance of the U.S. central bank rather than counteract it, unconventional U.S. monetary policies transmit to the term premia in emerging markets similarly to the U.S. term premium, and the sovereign credit risk in emerging markets responds to changes in U.S. monetary policy.
+
+&nbsp;
+</details>
+
+&nbsp;
+
 "**Does the Exchange Rate Respond to Monetary Policy in Mexico? Solving an Exchange Rate Puzzle in Emerging Markets**," *Journal of Money, Credit and Banking*, 2023. ([Paper](https://doi.org/10.1111/jmcb.13032) &#124; [Slides](/files/research/FXpuzzleSlides.pdf) &#124; [Codes](https://github.com/pavelsolis/FXpuzzle))
 
 <!--[Paper](/files/research/FXpuzzle.pdf) &#124;  &#124; [Codes](https://github.com/pavelsolis/FXpuzzle)(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/OtherThesisPapers/FXpuzzleSolisMP.pdf)-->
@@ -47,7 +66,6 @@ Asset prices and portfolio flows respond to monetary policy actions <i>and</i> s
 
 &nbsp;
 
-
 "**The Impact of Macroeconomic News from Mexico and the U.S. on the Mexican Stock Market**" with Rodolfo Cermeño Bazán, *Economía Mexicana* (renamed *Latin American Economic Review* in 2014), 2012. [In Spanish] ([Paper](http://www.economiamexicana.cide.edu/num_anteriores/XXI-1/02_EM_Impacto%20de%20sorpresas(35-67).pdf)) <!-- Abstract , 35-67 -->
 
 <details>
@@ -69,25 +87,6 @@ Asset prices and portfolio flows respond to monetary policy actions <i>and</i> s
 # Working Papers
 
 ---
-
-"**Term Premia and Credit Risk in Emerging Markets: The Role of U.S. Monetary Policy**," Submitted, 2024. ([Paper](/files/research/EMyields.pdf) &#124; [Appendix](/files/research/EMyieldsApdx.pdf) &#124; [Codes](https://github.com/pavelsolis/EMyields)). 
-<!---
- &#124; [Codes](https://github.com/pavelsolis/Ch_Synthetic)
-(http://www.econ2.jhu.edu/jobmarket/2020/SolisMP/JobPaper/JobPaperSolisMP.pdf)
--->
-
-<details>
-  
-  <summary> U.S. monetary policies lead to a reassessment of policy rate expectations and risks in emerging markets. </summary>
-
-&nbsp;
-
-  <b><i>Abstract:</i></b> This paper studies how U.S. monetary policy transmits to the sovereign yields of emerging markets without ignoring credit risk. First, investors expect emerging market central banks to follow the monetary stance of the Fed. Second, U.S. unconventional monetary policies influence the term premium in emerging markets as in the U.S. Third, U.S. monetary policy also alters the pricing of sovereign credit risk in emerging markets, a previously overlooked channel. To quantify these effects, I first identify target, forward guidance and asset purchase surprises in the U.S. using intraday data, and then propose a novel (three-part) decomposition of emerging market yields that accounts for credit risk.
-
-&nbsp;
-</details>
-
-&nbsp;
 
 "**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**," 2019. ([Paper](/files/research/MXroa.pdf) &#124; [Slides](/files/research/MXroaSlides.pdf))
 
