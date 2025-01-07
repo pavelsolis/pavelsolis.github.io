@@ -88,6 +88,21 @@ Asset prices and portfolio flows respond to monetary policy actions <i>and</i> s
 
 ---
 
+"**Trade War Spillover: Nearshoring and Banking in Mexico**," with A. Bechara, H. Lee, R. Paluszynski and L. Salinas, 2025.
+
+<details>
+
+  <summary> Corporate credit in Mexico increases in response to the 2018 U.S.-China trade war. </summary>
+
+&nbsp;
+
+  <b><i>Abstract:</i></b> Forthcoming.
+
+&nbsp;
+</details>
+
+&nbsp;
+
 "**Do Banks Hedge Their Return on Assets from Monetary Policy Shocks?**," 2019. ([Paper](/files/research/MXroa.pdf) &#124; [Slides](/files/research/MXroaSlides.pdf))
 
 <details>
