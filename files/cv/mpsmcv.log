@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.11.29)  6 JAN 2025 15:45
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.11.29)  6 JAN 2025 18:13
  restricted system commands enabled.
 **mpsmcv.tex
 (./mpsmcv.tex
@@ -595,22 +595,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 43.
 
-Overfull \vbox (18.125pt too high) detected at line 86
- []
-
-
-Overfull \hbox (25.11743pt too wide) in paragraph at lines 77--93
+Overfull \hbox (25.11743pt too wide) in paragraph at lines 77--94
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \vbox (18.125pt too high) detected at line 121
+Overfull \vbox (18.125pt too high) detected at line 123
  []
 
 
-Overfull \vbox (18.125pt too high) detected at line 122
+Overfull \vbox (18.125pt too high) detected at line 124
  []
 
 
@@ -632,7 +628,7 @@ Here is how much of LuaTeX's memory you used:
  431 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 53 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:511,3:232,4:14,5:331,6:57,7:7340,8:26,9:476,10:13,11:604
+   avail lists: 1:1,2:511,3:232,4:14,5:325,6:57,7:7034,8:26,9:473,10:13,11:571
  34851 multiletter control sequences out of 65536+600000
  37 fonts using 2819295 bytes
  70i,11n,80p,1008b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -643,7 +639,7 @@ ar.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmmono12-reg
 ular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/F
 ontAwesome.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmro
 man12-bold.otf>
-Output written on mpsmcv.pdf (2 pages, 31977 bytes).
+Output written on mpsmcv.pdf (2 pages, 32061 bytes).
 
 PDF statistics: 95 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
