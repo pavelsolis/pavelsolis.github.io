@@ -5,23 +5,37 @@ title: Teaching
 
 &nbsp;
 
+---
 # ECO3404 - Econometría I
 
----
 
-**Lugar:** Salón (T3-25 Norte), Laboratorio (T3-PB Sur, Sala 5)
+**Lugar:** Salón (T3-25 Sur), Laboratorio (T3-PB Sur, Sala 5)
 
-**Horario:** Martes 19:00 - 22:00 hrs (Ene 16 - May 14, 2024)
+**Horario:** Martes 19:00 - 22:00 hrs (Ene 13 - Mayo 9, 2025)
+
+[**Temario**](/files/teaching/econometria/temario.pdf)
 
 # Archivos
 
-Bases de datos: [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta)
+Bases de datos: 
+<!--  [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) -->
 
 &nbsp;
 
-# 180.334 (02) - Econometrics
+---
+# Macroeconomía Avanzada
+
+
+**Lugar:** Webex
+<!-- https://banxico.webex.com/meet/pavel.solis -->
+
+**Horario:** Jueves 7:00 - 10:00 hrs (24 Abril - 29 Mayo, 2025)
+
+
+&nbsp;
 
 ---
+# 180.334 (02) - Econometrics
 
 This course gives an introduction to estimation for economic research.
 
@@ -78,10 +92,9 @@ TA Section Evaluation: [Survey](https://forms.gle/Xfvf7yYhhdUcPRWE6)
 
 &nbsp;
 
-
+---
 # 180.101.11 - Elements of Macroeconomics
 
----
 
 This course introduces basic concepts and models in macroeconomics and applies them towards gaining an understanding of recent events and current policy issues. The course covers a broad range of topics including national income and output, unemployment, inflation, interest rates, exchange rates, as well as monetary and fiscal policies. Time is devoted to analyze recent events and their impact on the economy. 
 
