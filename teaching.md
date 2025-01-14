@@ -11,11 +11,14 @@ title: Teaching
 
 **Lugar:** Salón (T3-25 Sur), Laboratorio (T3-PB Sur, Sala 5)
 
-**Horario:** Martes 19:00 - 22:00 hrs (Ene 13 - May 16, 2025)
+**Horario:** Martes 19:00 - 22:00 hrs (Ene 13 - Mayo 9, 2025)
+
+[**Temario**](/files/teaching/econometria/temario.pdf)
 
 # Archivos
 
-Bases de datos: [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta)
+Bases de datos: 
+<!--  [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) -->
 
 &nbsp;
 
