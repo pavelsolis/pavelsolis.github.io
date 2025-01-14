@@ -15,10 +15,16 @@ title: Teaching
 
 [**Temario**](/files/teaching/econometria/temario.pdf)
 
-# Archivos
+# Bases de Datos
+ 
+[wgthgtage](/files/teaching/econometria/wgthgtage.xlsx)
+<!--  , [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) -->
 
-Bases de datos: 
-<!--  [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) -->
+# Lecturas
+
+[RCTs](/files/teaching/econometria/L01-Nobel2019.pdf)
+
+&nbsp;
 
 &nbsp;
 
@@ -31,6 +37,8 @@ Bases de datos:
 
 **Horario:** Jueves 7:00 - 10:00 hrs (24 Abril - 29 Mayo, 2025)
 
+
+&nbsp;
 
 &nbsp;
 
@@ -89,6 +97,8 @@ TA Section Evaluation: [Survey](https://forms.gle/Xfvf7yYhhdUcPRWE6)
 
 [Stata Videos](https://www.youtube.com/user/statacorp/playlists)
 
+
+&nbsp;
 
 &nbsp;
 
