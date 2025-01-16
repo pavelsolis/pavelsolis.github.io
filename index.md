@@ -9,7 +9,7 @@ title: Home
 
 Welcome! 
 
-I am a Senior Economist in the Financial Stability Division at [Banco de México](https://www.banxico.org.mx "Banxico"). My research focuses on the macroeconomic and financial effects of monetary policy in emerging markets. 
+I am a Senior Economist in the Financial Stability Division at [Banco de México](https://www.banxico.org.mx "Banxico"). 
 
 I am interested in applied macroeconomics, financial intermediation and international finance.
 
