@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.11.29)  6 JAN 2025 18:13
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2021.11.29)  15 JAN 2025 22:34
  restricted system commands enabled.
 **mpsmcv.tex
 (./mpsmcv.tex
@@ -628,7 +628,7 @@ Here is how much of LuaTeX's memory you used:
  431 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 53 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:511,3:232,4:14,5:325,6:57,7:7034,8:26,9:473,10:13,11:571
+   avail lists: 1:1,2:511,3:232,4:14,5:325,6:57,7:7010,8:26,9:473,10:13,11:565
  34851 multiletter control sequences out of 65536+600000
  37 fonts using 2819295 bytes
  70i,11n,80p,1008b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
