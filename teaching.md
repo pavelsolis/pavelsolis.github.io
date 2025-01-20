@@ -22,7 +22,7 @@ title: Teaching
 
 # Lecturas
 
-[RCTs](/files/teaching/econometria/L01-Nobel2019.pdf)
+[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf)
 
 &nbsp;
 
