@@ -17,8 +17,8 @@ title: Teaching
 
 # Bases de Datos
  
-[wgthgtage](/files/teaching/econometria/wgthgtage.xlsx)
-<!--  , [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) -->
+[auto](/files/teaching/econometria/auto.xlsx)
+<!--  [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) -->
 
 # Lecturas
 
