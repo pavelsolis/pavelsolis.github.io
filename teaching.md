@@ -17,8 +17,12 @@ title: Teaching
 
 # Bases de Datos
  
-[auto](/files/teaching/econometria/auto.xlsx)
+[auto](/files/teaching/econometria/auto.xlsx), [WAGE1.DTA](/files/teaching/econometria/WAGE1.DTA), [BWGHT](/files/teaching/econometria/BWGHT.DTA)
 <!--  [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) -->
+
+# Tareas
+ 
+[T1](/files/teaching/econometria/2025S1T1.pdf)
 
 # Lecturas
 
