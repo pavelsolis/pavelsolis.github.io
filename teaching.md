@@ -22,7 +22,7 @@ title: Teaching
 
 # Tareas
  
-[T1](/files/teaching/econometria/2025S1T1.pdf)
+[T1](/files/teaching/econometria/T1-2025S1.pdf) ([Resp](/files/teaching/econometria/T1-2025S1Re.pdf)), [T2](/files/teaching/econometria/T2-2025S1.pdf)
 
 # Lecturas
 
