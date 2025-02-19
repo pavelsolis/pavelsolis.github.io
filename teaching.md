@@ -26,7 +26,7 @@ title: Teaching
 
 # Lecturas
 
-[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf)
+[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf), [Política Monetaria MX](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13032)
 
 &nbsp;
 
