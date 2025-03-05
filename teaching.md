@@ -18,6 +18,7 @@ title: Teaching
 # Bases de Datos
  
 [auto](/files/teaching/econometria/auto.xlsx) (Lab), [WAGE1](/files/teaching/econometria/WAGE1.DTA) (T1), [BWGHT](/files/teaching/econometria/BWGHT.DTA) (T1), [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx) (T3), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) (Lab)
+<!-- , [WAGE2](/files/teaching/econometria/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/HPRICE2.DTA) (T4)  -->
 
 # Tareas
  
