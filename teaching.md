@@ -17,8 +17,7 @@ title: Teaching
 
 # Bases de Datos
  
-[auto](/files/teaching/econometria/auto.xlsx), [WAGE1](/files/teaching/econometria/WAGE1.DTA) (T1), [BWGHT](/files/teaching/econometria/BWGHT.DTA) (T1), [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx) (T3)
-<!--  [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) -->
+[auto](/files/teaching/econometria/auto.xlsx) (Lab), [WAGE1](/files/teaching/econometria/WAGE1.DTA) (T1), [BWGHT](/files/teaching/econometria/BWGHT.DTA) (T1), [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx) (T3), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) (Lab)
 
 # Tareas
  
@@ -26,7 +25,7 @@ title: Teaching
 
 # Lecturas
 
-[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf), [Política Monetaria MX](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13032)
+[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf), [Política Monetaria MX](/files/teaching/econometria/L03-PM-MX)
 
 &nbsp;
 
