@@ -21,11 +21,11 @@ title: Teaching
 
 # Tareas
  
-[T1](/files/teaching/econometria/T1-2025S1.pdf) ([Resp](/files/teaching/econometria/T1-2025S1Re.pdf)), [T2](/files/teaching/econometria/T2-2025S1.pdf), [T3](/files/teaching/econometria/T3-2025S1.pdf)
+[T1](/files/teaching/econometria/T1-2025S1.pdf) ([Resp](/files/teaching/econometria/T1-2025S1Re.pdf)), [T2](/files/teaching/econometria/T2-2025S1.pdf), [T3](/files/teaching/econometria/T3-2025S1.pdf), [T4](/files/teaching/econometria/T4-2025S1.pdf)
 
 # Lecturas
 
-[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf), [Política Monetaria MX](/files/teaching/econometria/L03-PM-MX)
+[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf), [Política Monetaria MX](/files/teaching/econometria/L03-PM-MX), [RLS Comentado](/files/teaching/econometria/L04a-RLS-Comentado.pdf), [RLM Comentado](/files/teaching/econometria/L04b-RLM-Comentado.pdf)
 
 &nbsp;
 
