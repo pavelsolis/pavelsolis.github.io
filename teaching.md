@@ -15,10 +15,21 @@ title: Teaching
 
 [**Temario**](/files/teaching/econometria/temario.pdf)
 
-# Bases de Datos
+# Archivos
  
-[auto](/files/teaching/econometria/auto.xlsx) (Lab), [WAGE1](/files/teaching/econometria/WAGE1.DTA) (T1), [BWGHT](/files/teaching/econometria/BWGHT.DTA) (T1), [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx) (T3), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta) (Lab)
-<!-- , [WAGE2](/files/teaching/econometria/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/HPRICE2.DTA) (T4)  -->
+Lab: [auto](/files/teaching/econometria/auto.xlsx)
+
+T1: [WAGE1](/files/teaching/econometria/WAGE1.DTA), [BWGHT](/files/teaching/econometria/BWGHT.DTA)
+
+T3: [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx)
+
+Lab: , [RLS/RLM](/files/teaching/econometria/code_rls_rlm.do), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta)
+
+<!-- 
+T4: [WAGE2](/files/teaching/econometria/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/HPRICE2.DTA)
+T5: 
+T6: 
+-->
 
 # Tareas
  
