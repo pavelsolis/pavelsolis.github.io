@@ -25,8 +25,9 @@ T3: [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx)
 
 Lab: , [RLS/RLM](/files/teaching/econometria/code_rls_rlm.do), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta)
 
-<!-- 
 T4: [WAGE2](/files/teaching/econometria/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/HPRICE2.DTA)
+
+<!-- 
 T5: 
 T6: 
 -->
