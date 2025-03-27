@@ -13,7 +13,17 @@ title: Teaching
 
 **Horario:** Martes 19:00 - 22:00 hrs (Ene 13 - Mayo 9, 2025)
 
-[**Temario**](/files/teaching/econometria/temario.pdf)
+# Archivos
+
+[Temario](/files/teaching/econometria/A-Temario.pdf)
+
+[Guía MT](/files/teaching/econometria/A-Guia_MT.pdf)
+
+[RLS en Stata](/files/teaching/econometria/A-RLS-Stata.pdf)
+
+[RLM en Stata](/files/teaching/econometria/A-RLM-Stata.pdf)
+
+[Guías Stata](/files/teaching/econometria/A-Guias-Stata.pdf)
 
 # Bases de Datos
  
@@ -42,23 +52,13 @@ T6:
 
 [T4](/files/teaching/econometria/T4-2025S1.pdf)
 
-# Archivos
-
-[Guía MT](/files/teaching/econometria/A-Guia_MT)
-
-[RLS en Stata](/files/teaching/econometria/A-RLS-Stata.pdf)
-
-[RLM en Stata](/files/teaching/econometria/A-RLM-Stata.pdf)
-
-[Guías Stata](/files/teaching/econometria/A-Guias-Stata)
-
 # Lecturas
 
 [RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
 
 [Label Data](/files/teaching/econometria/L02-Label-Data.pdf)
 
-[Política Monetaria MX](/files/teaching/econometria/L03-PM-MX)
+[Política Monetaria MX](/files/teaching/econometria/L03-PM-MX.pdf)
 
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
 
