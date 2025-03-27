@@ -15,7 +15,7 @@ title: Teaching
 
 [**Temario**](/files/teaching/econometria/temario.pdf)
 
-# Archivos
+# Bases de Datos
  
 Lab: [auto](/files/teaching/econometria/auto.xlsx)
 
@@ -23,7 +23,7 @@ T1: [WAGE1](/files/teaching/econometria/WAGE1.DTA), [BWGHT](/files/teaching/econ
 
 T3: [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx)
 
-Lab: , [RLS/RLM](/files/teaching/econometria/code_rls_rlm.do), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta)
+Lab: [RLS/RLM](/files/teaching/econometria/code_rls_rlm.do), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta)
 
 T4: [WAGE2](/files/teaching/econometria/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/HPRICE2.DTA)
 
@@ -34,14 +34,46 @@ T6:
 
 # Tareas
  
-[T1](/files/teaching/econometria/T1-2025S1.pdf) ([Resp](/files/teaching/econometria/T1-2025S1Re.pdf)), [T2](/files/teaching/econometria/T2-2025S1.pdf), [T3](/files/teaching/econometria/T3-2025S1.pdf), [T4](/files/teaching/econometria/T4-2025S1.pdf)
+[T1](/files/teaching/econometria/T1-2025S1.pdf) ([Resp](/files/teaching/econometria/T1-2025S1Re.pdf))
+
+[T2](/files/teaching/econometria/T2-2025S1.pdf)
+
+[T3](/files/teaching/econometria/T3-2025S1.pdf)
+
+[T4](/files/teaching/econometria/T4-2025S1.pdf)
+
+# Archivos
+
+[Guía MT](/files/teaching/econometria/A-Guia_MT)
+
+[RLS en Stata](/files/teaching/econometria/A-RLS-Stata.pdf)
+
+[RLM en Stata](/files/teaching/econometria/A-RLM-Stata.pdf)
+
+[Guías Stata](/files/teaching/econometria/A-Guias-Stata)
 
 # Lecturas
 
-[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf), [Política Monetaria MX](/files/teaching/econometria/L03-PM-MX), [CAPM](/files/teaching/econometria/L04-CAPM.pdf), [RLS en Stata](/files/teaching/econometria/L04a-RLS-Comentado.pdf), [RLM en Stata](/files/teaching/econometria/L04b-RLM-Comentado.pdf), [Excel](/files/teaching/econometria/L05-Excel-Error.pdf), [Fraude](/files/teaching/econometria/L06-Fraud.pdf)
+[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
+
+[Label Data](/files/teaching/econometria/L02-Label-Data.pdf)
+
+[Política Monetaria MX](/files/teaching/econometria/L03-PM-MX)
+
+[CAPM](/files/teaching/econometria/L04-CAPM.pdf)
+
+[Excel](/files/teaching/econometria/L05-Excel-Error.pdf)
+
+[Fraude](/files/teaching/econometria/L06-Fraud.pdf)
 
 <!-- 
-, [p-hacking](/files/teaching/econometria/L07-p-hack.pdf), [Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf), [Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf), [Causalidad](/files/teaching/econometria/L10-Nobel-2021.pdf)
+[p-hacking](/files/teaching/econometria/L07-p-hack.pdf)
+
+[Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf)
+
+[Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf)
+
+[Causalidad](/files/teaching/econometria/L10-Nobel-2021.pdf)
 -->
 
 &nbsp;
