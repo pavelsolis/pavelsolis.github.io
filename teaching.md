@@ -38,7 +38,11 @@ T6:
 
 # Lecturas
 
-[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf), [Política Monetaria MX](/files/teaching/econometria/L03-PM-MX), [RLS Comentado](/files/teaching/econometria/L04a-RLS-Comentado.pdf), [RLM Comentado](/files/teaching/econometria/L04b-RLM-Comentado.pdf)
+[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf), [Label Data](/files/teaching/econometria/L02-Label-Data.pdf), [Política Monetaria MX](/files/teaching/econometria/L03-PM-MX), [CAPM](/files/teaching/econometria/L04-CAPM.pdf), [RLS en Stata](/files/teaching/econometria/L04a-RLS-Comentado.pdf), [RLM en Stata](/files/teaching/econometria/L04b-RLM-Comentado.pdf), [Excel](/files/teaching/econometria/L05-Excel-Error.pdf), [Fraude](/files/teaching/econometria/L06-Fraud.pdf)
+
+<!-- 
+, [p-hacking](/files/teaching/econometria/L07-p-hack.pdf), [Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf), [Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf), [Causalidad](/files/teaching/econometria/L10-Nobel-2021.pdf)
+-->
 
 &nbsp;
 
