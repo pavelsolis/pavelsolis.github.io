@@ -17,7 +17,7 @@ title: Teaching
 
 [Temario](/files/teaching/econometria/A-Temario.pdf)
 
-[Guía MT](/files/teaching/econometria/A-Guia_MT.pdf)
+[Guía MT](/files/teaching/econometria/A-Guia-MT.pdf)
 
 [RLS en Stata](/files/teaching/econometria/A-RLS-Stata.pdf)
 
