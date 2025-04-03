@@ -37,8 +37,9 @@ Lab: [RLS/RLM](/files/teaching/econometria/code_rls_rlm.do), [elemapi](/files/te
 
 T4: [WAGE2](/files/teaching/econometria/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/HPRICE2.DTA)
 
+T5: [CEOSAL1](/files/teaching/econometria/CEOSAL1.DTA), [hprice1](/files/teaching/econometria/hprice1.dta), [RETURN](/files/teaching/econometria/RETURN.DTA)
+
 <!-- 
-T5: 
 T6: 
 -->
 
@@ -51,6 +52,8 @@ T6:
 [T3](/files/teaching/econometria/T3-2025S1.pdf)
 
 [T4](/files/teaching/econometria/T4-2025S1.pdf)
+
+[T5](/files/teaching/econometria/T5-2025S1.pdf)
 
 # Lecturas
 
@@ -66,9 +69,9 @@ T6:
 
 [Fraude](/files/teaching/econometria/L06-Fraud.pdf)
 
-<!-- 
 [p-hacking](/files/teaching/econometria/L07-p-hack.pdf)
 
+<!-- 
 [Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf)
 
 [Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf)
