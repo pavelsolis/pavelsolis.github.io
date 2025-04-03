@@ -27,20 +27,20 @@ title: Teaching
 
 # Bases de Datos
  
-Lab: [auto](/files/teaching/econometria/auto.xlsx)
+Lab: [auto](/files/teaching/econometria/datos/auto.xlsx)
 
-T1: [WAGE1](/files/teaching/econometria/WAGE1.DTA), [BWGHT](/files/teaching/econometria/BWGHT.DTA)
+T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
-T3: [wgthgtage](/files/teaching/econometria/wgthgtage.xlsx)
+T3: [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx)
 
-Lab: [RLS/RLM](/files/teaching/econometria/code_rls_rlm.do), [elemapi](/files/teaching/econometria/elemapi.dta), [elemapi2](/files/teaching/econometria/elemapi2.dta)
+Lab: [Código RLS-RLM](/files/teaching/econometria/C-RLS-RLM.do), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
-T4: [WAGE2](/files/teaching/econometria/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/HPRICE2.DTA)
+T4: [WAGE2](/files/teaching/econometria/datos/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/datos/HPRICE2.DTA)
 
-T5: [CEOSAL1](/files/teaching/econometria/CEOSAL1.DTA), [hprice1](/files/teaching/econometria/hprice1.dta), [RETURN](/files/teaching/econometria/RETURN.DTA)
+T5: [CEOSAL1](/files/teaching/econometria/datos/CEOSAL1.DTA), [hprice1](/files/teaching/econometria/datos/hprice1.dta), [RETURN](/files/teaching/econometria/datos/RETURN.DTA)
 
 <!-- 
-T6: 
+T6: [](/files/teaching/econometria/datos/)
 -->
 
 # Tareas
