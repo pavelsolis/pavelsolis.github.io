@@ -6,6 +6,26 @@ title: Teaching
 &nbsp;
 
 ---
+# Macroeconomía Avanzada
+
+
+**Lugar:** Webex
+<!-- https://banxico.webex.com/meet/pavel.solis -->
+
+**Horario:** Jueves 7:00 - 10:00 hrs (24 Abril - 29 Mayo, 2025)
+
+# Archivos
+
+[DSGE](/files/teaching/macro/DSGE_slides.pdf)
+
+[RBC](/files/teaching/macro/RBC_slides.pdf)
+
+&nbsp;
+
+&nbsp;
+
+
+---
 # ECO3404 - Econometría I
 
 
@@ -83,19 +103,6 @@ T6: [](/files/teaching/econometria/datos/)
 
 &nbsp;
 
----
-# Macroeconomía Avanzada
-
-
-**Lugar:** Webex
-<!-- https://banxico.webex.com/meet/pavel.solis -->
-
-**Horario:** Jueves 7:00 - 10:00 hrs (24 Abril - 29 Mayo, 2025)
-
-
-&nbsp;
-
-&nbsp;
 
 ---
 # 180.334 (02) - Econometrics
@@ -173,67 +180,67 @@ This course introduces basic concepts and models in macroeconomics and applies t
 
 **Office Hours:** Wed 8:00 am - 9:00 am, or by appointment, in the Gilman Atrium
 
-[**Syllabus**](/files/teaching/macro/Syllabus101.pdf)
+[**Syllabus**](/files/teaching/macro101/Syllabus101.pdf)
 
 # Slides
 
-Lecture 1: [Intro](/files/teaching/macro/Slides101_01_Intro.pdf)
+Lecture 1: [Intro](/files/teaching/macro101/Slides101_01_Intro.pdf)
 
-Lecture 2: [PPF & Comparative Advantage](/files/teaching/macro/Slides101_02_PPF.pdf)
+Lecture 2: [PPF & Comparative Advantage](/files/teaching/macro101/Slides101_02_PPF.pdf)
 
-Lecture 3: [Demand & Supply Analysis](/files/teaching/macro/Slides101_03_DS.pdf), [Macroeconomic Variables](/files/teaching/macro/Slides101_03_MacroVars.pdf)
+Lecture 3: [Demand & Supply Analysis](/files/teaching/macro101/Slides101_03_DS.pdf), [Macroeconomic Variables](/files/teaching/macro101/Slides101_03_MacroVars.pdf)
 
-Lecture 4: [GDP](/files/teaching/macro/Slides101_04_GDP.pdf), [Inflation](/files/teaching/macro/Slides101_04_Inflation.pdf)
+Lecture 4: [GDP](/files/teaching/macro101/Slides101_04_GDP.pdf), [Inflation](/files/teaching/macro101/Slides101_04_Inflation.pdf)
 
-Lecture 5: [Unemployment](/files/teaching/macro/Slides101_05_Unemployment.pdf)
+Lecture 5: [Unemployment](/files/teaching/macro101/Slides101_05_Unemployment.pdf)
 
-Lecture 6: [Economic Growth](/files/teaching/macro/Slides101_06_Growth.pdf)
+Lecture 6: [Economic Growth](/files/teaching/macro101/Slides101_06_Growth.pdf)
 
-Lecture 7: [Financial System](/files/teaching/macro/Slides101_07_S&I.pdf)
+Lecture 7: [Financial System](/files/teaching/macro101/Slides101_07_S&I.pdf)
 
-Lecture 8: [Aggregate Expenditure](/files/teaching/macro/Slides101_08_AE.pdf), [Okun's Law](/files/teaching/macro/Slides101_08_Okun.pdf)
+Lecture 8: [Aggregate Expenditure](/files/teaching/macro101/Slides101_08_AE.pdf), [Okun's Law](/files/teaching/macro101/Slides101_08_Okun.pdf)
 
-Lecture 9: [AD-AS](/files/teaching/macro/Slides101_09_AD-AS.pdf)
+Lecture 9: [AD-AS](/files/teaching/macro101/Slides101_09_AD-AS.pdf)
 
-Lecture 10: [Monetary Policy](/files/teaching/macro/Slides101_10_MP.pdf)
+Lecture 10: [Monetary Policy](/files/teaching/macro101/Slides101_10_MP.pdf)
 
-Lecture 11: [Phillips Curve](/files/teaching/macro/Slides101_11_PC.pdf), [Fiscal Policy](/files/teaching/macro/Slides101_11_FP.pdf)
+Lecture 11: [Phillips Curve](/files/teaching/macro101/Slides101_11_PC.pdf), [Fiscal Policy](/files/teaching/macro101/Slides101_11_FP.pdf)
 
-Lecture 12: [Open Economy](/files/teaching/macro/Slides101_12_OE.pdf)
+Lecture 12: [Open Economy](/files/teaching/macro101/Slides101_12_OE.pdf)
 
-Lecture 13: [International Financial System](/files/teaching/macro/Slides101_13_IFS.pdf), [Summary](/files/teaching/macro/Slides101_13_Summary.pdf)
+Lecture 13: [International Financial System](/files/teaching/macro101/Slides101_13_IFS.pdf), [Summary](/files/teaching/macro101/Slides101_13_Summary.pdf)
 
 # Problem Sets
 
-Problem Set 1: [Exercises](/files/teaching/macro/PS1.pdf)
+Problem Set 1: [Exercises](/files/teaching/macro101/PS1.pdf)
 
-Problem Set 2: [Exercises](/files/teaching/macro/PS2.pdf)
+Problem Set 2: [Exercises](/files/teaching/macro101/PS2.pdf)
 
-Problem Set 3: [Exercises](/files/teaching/macro/PS3.pdf)
+Problem Set 3: [Exercises](/files/teaching/macro101/PS3.pdf)
 
-Problem Set 4: [Exercises](/files/teaching/macro/PS4.pdf)
+Problem Set 4: [Exercises](/files/teaching/macro101/PS4.pdf)
 
 # Additional Material
 
-Reading: [Does International Trade Create Winners and Losers?](/files/teaching/macro/Reading-International_Trade.pdf)
+Reading: [Does International Trade Create Winners and Losers?](/files/teaching/macro101/Reading-International_Trade.pdf)
 
-Reading: [GDP - Does It Measure Up?](/files/teaching/macro/Reading-GDP.pdf)
+Reading: [GDP - Does It Measure Up?](/files/teaching/macro101/Reading-GDP.pdf)
 
 Video: [A Selfish Argument for Making the World a Better Place](https://youtu.be/rvskMHn0sqQ)
 
-Reading: [Output Gap](/files/teaching/macro/Reading-Output_Gap.pdf)
+Reading: [Output Gap](/files/teaching/macro101/Reading-Output_Gap.pdf)
 
-Reading: [What Do Financial Market Indicators Tell Us?](/files/teaching/macro/Reading-Financial_Market_Indicators.pdf)
+Reading: [What Do Financial Market Indicators Tell Us?](/files/teaching/macro101/Reading-Financial_Market_Indicators.pdf)
 
-Reading: [What Is Keynesian Economics?](/files/teaching/macro/Reading-Keynesian_Economics.pdf)
+Reading: [What Is Keynesian Economics?](/files/teaching/macro101/Reading-Keynesian_Economics.pdf)
 
-Reading: [Output Gap (2)](/files/teaching/macro/Reading-Output_Gap_2.pdf)
+Reading: [Output Gap (2)](/files/teaching/macro101/Reading-Output_Gap_2.pdf)
 
 Video: [The Fed Explains Monetary Policy](https://youtu.be/wOfQPn9Jwpo)
 
-Reading: [Fiscal and Monetary Policy in Times of Crisis](/files/teaching/macro/Reading-FP&MP_in_Crisis.pdf)
+Reading: [Fiscal and Monetary Policy in Times of Crisis](/files/teaching/macro101/Reading-FP&MP_in_Crisis.pdf)
 
-Reading: [Real Exchange Rates - What Money Can Buy](/files/teaching/macro/Reading-RER.pdf)
+Reading: [Real Exchange Rates - What Money Can Buy](/files/teaching/macro101/Reading-RER.pdf)
 
 <!--
 ---
