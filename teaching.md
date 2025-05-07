@@ -37,27 +37,31 @@ title: Teaching
 
 [Temario](/files/teaching/econometria/A-Temario.pdf)
 
-[Guía MT](/files/teaching/econometria/A-Guia-MT.pdf)
-
 [RLS en Stata](/files/teaching/econometria/A-RLS-Stata.pdf)
 
 [RLM en Stata](/files/teaching/econometria/A-RLM-Stata.pdf)
 
 [Guías Stata](/files/teaching/econometria/A-Guias-Stata.pdf)
 
+[Guía MT](/files/teaching/econometria/A-Guia-MT.pdf)
+
+[Guía Final](/files/teaching/econometria/A-Guia-Final.pdf)
+
 # Bases de Datos
  
-Lab: [auto](/files/teaching/econometria/datos/auto.xlsx)
+Lab1: [auto](/files/teaching/econometria/datos/auto.xlsx)
 
 T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
 T3: [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx)
 
-Lab: [Código RLS-RLM](/files/teaching/econometria/C-RLS-RLM.do), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
+Lab2: [Código RLS-RLM](/files/teaching/econometria/C-RLS-RLM.do), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
 T4: [WAGE2](/files/teaching/econometria/datos/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/datos/HPRICE2.DTA)
 
 T5: [CEOSAL1](/files/teaching/econometria/datos/CEOSAL1.DTA), [hprice1](/files/teaching/econometria/datos/hprice1.dta), [RETURN](/files/teaching/econometria/datos/RETURN.DTA)
+
+Lab3: [Código Dummies](/files/teaching/econometria/C-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
 
 <!-- 
 T6: [](/files/teaching/econometria/datos/)
@@ -91,12 +95,12 @@ T6: [](/files/teaching/econometria/datos/)
 
 [p-hacking](/files/teaching/econometria/L07-p-hack.pdf)
 
-<!-- 
 [Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf)
 
-[Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf)
-
 [Causalidad](/files/teaching/econometria/L10-Nobel-2021.pdf)
+
+<!-- 
+[Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf)
 -->
 
 &nbsp;
