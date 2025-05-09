@@ -47,6 +47,8 @@ title: Teaching
 
 [Guía Final](/files/teaching/econometria/A-Guia-Final.pdf)
 
+[Dummies](/files/teaching/econometria/A-Dummies.pdf)
+
 # Bases de Datos
  
 Lab1: [auto](/files/teaching/econometria/datos/auto.xlsx)
