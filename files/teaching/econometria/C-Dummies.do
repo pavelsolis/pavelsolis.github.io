@@ -32,7 +32,6 @@ drop prog1 prog2 prog3
 tabulate prog, generate(prog)
 describe
 browse prog*
-drop prog1 prog2 prog3
 
 * Análisis
 * ------------------------------------------------------------------------------
@@ -41,9 +40,13 @@ regress write read math prog2 prog3
 regress write read math
 display ((9938.81034-9708.28876)/9708.28876)*(195/2)
 display Ftail(2,195,2.3151201)
+regress write read math prog2 prog3
 test prog2 prog3
 
 regress write read math prog1 prog3
+
+regress write read math prog1 prog2 prog3
+regress write read math prog1 prog2 prog3, nocons
 
 * Notación de variable factorial (usa prefijos, evita crear dummies explícitamente)
 * ------------------------------------------------------------------------------
