@@ -20,6 +20,8 @@ title: Teaching
 
 [RBC](/files/teaching/macro/RBC_slides.pdf)
 
+[MIUF](/files/teaching/macro/MIUF_slides.pdf)
+
 &nbsp;
 
 &nbsp;
