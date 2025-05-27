@@ -22,6 +22,8 @@ title: Teaching
 
 [MIUF](/files/teaching/macro/MIUF_slides.pdf) (última actualización: 19/05/2025)
 
+[NK](/files/teaching/macro/NK_slides.pdf) (última actualización: 26/05/2025)
+
 &nbsp;
 
 &nbsp;
