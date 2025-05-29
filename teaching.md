@@ -22,7 +22,15 @@ title: Teaching
 
 [MIUF](/files/teaching/macro/MIUF_slides.pdf) (última actualización: 19/05/2025)
 
-[NK](/files/teaching/macro/NK_slides.pdf) (última actualización: 26/05/2025)
+[NK](/files/teaching/macro/NK_slides.pdf) (última actualización: 29/05/2025)
+
+# Material Adicional
+
+[Derivación del modelo NK tradicional](https://bergholt.weebly.com/uploads/1/1/8/4/11843961/the_basic_new_keynesian_model_-_drago_bergholt.pdf)
+
+[Modelos DSGE en Dynare](https://github.com/JohannesPfeifer/DSGE_mod/)
+
+[Macro lenguaje de Dynare](https://archives.dynare.org/manual/Macro_002dprocessing-language.html)
 
 &nbsp;
 
