@@ -16,13 +16,13 @@ title: Teaching
 
 # Archivos
 
-[DSGE](/files/teaching/macro/DSGE_slides.pdf) (última actualización: 19/05/2025)
+[DSGE](/files/teaching/macro/DSGE_slides.pdf)
 
-[RBC](/files/teaching/macro/RBC_slides.pdf) (última actualización: 22/05/2025)
+[RBC](/files/teaching/macro/RBC_slides.pdf)
 
-[MIUF](/files/teaching/macro/MIUF_slides.pdf) (última actualización: 19/05/2025)
+[MIUF](/files/teaching/macro/MIUF_slides.pdf)
 
-[NK](/files/teaching/macro/NK_slides.pdf) (última actualización: 29/05/2025)
+[NK](/files/teaching/macro/NK_slides.pdf)
 
 # Material Adicional
 
