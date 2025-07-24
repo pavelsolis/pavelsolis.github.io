@@ -17,6 +17,8 @@ title: Teaching
 
 [Temario](/files/teaching/econometria/A-Temario.pdf)
 
+[Presentaciones: Criterios y Lineamientos](/files/teaching/econometria/A-Presentaciones.pdf)
+
 <!--
 [Guías Stata](/files/teaching/econometria/A-Guias-Stata.pdf)
 
@@ -85,6 +87,12 @@ T6: [](/files/teaching/econometria/datos/)
 [Causalidad](/files/teaching/econometria/L10-Nobel-2021.pdf)
 
 [Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf)
+-->
+
+# Presentaciones
+
+<!--
+T1.1, T1.2, T3, T4.1, T4.4, T5.1, T5.2, T5.3, T5.4
 -->
 
 &nbsp;
