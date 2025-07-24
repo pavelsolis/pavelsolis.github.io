@@ -17,7 +17,7 @@ title: Teaching
 
 [Temario](/files/teaching/econometria/A-Temario.pdf)
 
-[Presentaciones: Criterios y Lineamientos](/files/teaching/econometria/A-Presentaciones.pdf)
+[Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A-Presentaciones.pdf)
 
 <!--
 [Guías Stata](/files/teaching/econometria/A-Guias-Stata.pdf)
