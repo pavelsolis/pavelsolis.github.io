@@ -11,7 +11,7 @@ title: Teaching
 
 **Lugar:** Salón (T3-34 Sur), Laboratorio (T3-PB Sur)
 
-**Horario:** Martes 19:00 - 22:00 hrs (Ago 11 - Nov 26, 2025)
+**Horario:** Martes 19:00 - 22:00 hrs (Ago 11 - Dic 2, 2025)
 
 # Archivos
 
