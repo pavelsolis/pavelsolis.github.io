@@ -68,25 +68,27 @@ T6: [](/files/teaching/econometria/datos/)
 # Lecturas
 
 <!--
-[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
+[Causalidad](/files/teaching/econometria/L01-Seed-Oils.pdf)
 
-[Label Data](/files/teaching/econometria/L02-Label-Data.pdf)
+[Limpieza](/files/teaching/econometria/L02-Label-Data.pdf)
 
-[Política Monetaria MX](/files/teaching/econometria/L03-PM-MX.pdf)
+[Impacto IA](/files/teaching/econometria/L03-MIT-Backs-Away.pdf)
 
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
 
 [Excel](/files/teaching/econometria/L05-Excel-Error.pdf)
 
-[Fraude](/files/teaching/econometria/L06-Fraud.pdf)
+[Fraude individual](/files/teaching/econometria/L06-Fraud.pdf)
 
-[p-hacking](/files/teaching/econometria/L07-p-hack.pdf)
+[Fraude a escala](/files/teaching/econometria/L07-Fraud-Scale.pdf)
 
 [Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf)
 
-[Causalidad](/files/teaching/econometria/L10-Nobel-2021.pdf)
-
 [Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf)
+
+[Experimentos naturales](/files/teaching/econometria/L10-Nobel-2021.pdf)
+
+[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
 -->
 
 # Presentaciones
