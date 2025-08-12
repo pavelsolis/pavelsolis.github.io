@@ -19,6 +19,8 @@ title: Teaching
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A-Presentaciones.pdf)
 
+[AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
+
 <!--
 [Guías Stata](/files/teaching/econometria/A-Guias-Stata.pdf)
 
