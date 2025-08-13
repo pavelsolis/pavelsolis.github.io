@@ -19,8 +19,6 @@ title: Teaching
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A-Presentaciones.pdf)
 
-[AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
-
 <!--
 [Guías Stata](/files/teaching/econometria/A-Guias-Stata.pdf)
 
@@ -31,6 +29,8 @@ title: Teaching
 [Guía MT](/files/teaching/econometria/A-Guia-MT.pdf)
 
 [Guía Final](/files/teaching/econometria/A-Guia-Final.pdf)
+
+[AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
 -->
 
 # Bases de Datos
@@ -69,8 +69,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Lecturas
 
-<!--
 [Causalidad](/files/teaching/econometria/L01-Seed-Oils.pdf)
+
+<!--
 
 [Limpieza](/files/teaching/econometria/L02-Label-Data.pdf)
 
