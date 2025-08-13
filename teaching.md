@@ -15,20 +15,20 @@ title: Teaching
 
 # Archivos
 
-[Temario](/files/teaching/econometria/A-Temario.pdf)
+[Temario](/files/teaching/econometria/A1-Temario.pdf)
 
-[Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A-Presentaciones.pdf)
+[Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
 <!--
-[Guías Stata](/files/teaching/econometria/A-Guias-Stata.pdf)
+[Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
-[RLS en Stata](/files/teaching/econometria/A-RLS-Stata.pdf)
+[RLS en Stata](/files/teaching/econometria/A4-RLS-Stata.pdf)
 
-[RLM en Stata](/files/teaching/econometria/A-RLM-Stata.pdf)
+[RLM en Stata](/files/teaching/econometria/A5-RLM-Stata.pdf)
 
-[Guía MT](/files/teaching/econometria/A-Guia-MT.pdf)
+[Guía MT](/files/teaching/econometria/A6-Guia-MT.pdf)
 
-[Guía Final](/files/teaching/econometria/A-Guia-Final.pdf)
+[Guía Final](/files/teaching/econometria/A7-Guia-Final.pdf)
 
 [AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
 -->
@@ -36,19 +36,19 @@ title: Teaching
 # Bases de Datos
 
 <!--
-Lab 1: [Código Intro](/files/teaching/econometria/C-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
+Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
 
 T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
 T3: [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx)
 
-Lab 2: [Código RLS-RLM](/files/teaching/econometria/C-RLS-RLM.do), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
+Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
 T4: [WAGE2](/files/teaching/econometria/datos/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/datos/HPRICE2.DTA)
 
 T5: [CEOSAL1](/files/teaching/econometria/datos/CEOSAL1.DTA), [hprice1](/files/teaching/econometria/datos/hprice1.dta), [RETURN](/files/teaching/econometria/datos/RETURN.DTA)
 
-Lab 3: [Código Dummies](/files/teaching/econometria/C-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
+Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
 
 T6: [](/files/teaching/econometria/datos/)
 -->
