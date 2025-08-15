@@ -20,7 +20,7 @@ title: Teaching
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
 <!--
-[Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
+Para ago 19: [Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
 [RLS en Stata](/files/teaching/econometria/A4-RLS-Stata.pdf)
 
@@ -36,7 +36,7 @@ title: Teaching
 # Bases de Datos
 
 <!--
-Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
+Para ago 19: Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
 
 T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
