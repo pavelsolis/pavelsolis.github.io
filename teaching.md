@@ -53,9 +53,10 @@ Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/fil
 T6: [](/files/teaching/econometria/datos/)
 -->
 
-# Tareas
 
 <!--
+# Tareas
+
 [T1](/files/teaching/econometria/Tarea-1.pdf) ([Resp](/files/teaching/econometria/Tarea-1Re.pdf))
 
 [T2](/files/teaching/econometria/Tarea-2.pdf)
