@@ -20,7 +20,7 @@ title: Teaching
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
 <!--
-Para ago 19: [Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
+20/08/2025 | [Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
 [RLS en Stata](/files/teaching/econometria/A4-RLS-Stata.pdf)
 
@@ -36,9 +36,9 @@ Para ago 19: [Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 # Bases de Datos
 
 <!--
-Para ago 19: Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
+19/08/2025 | Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
 
-T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
+20/08/2025 | T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
 T3: [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx)
 
@@ -57,7 +57,7 @@ T6: [](/files/teaching/econometria/datos/)
 <!--
 # Tareas
 
-[T1](/files/teaching/econometria/Tarea-1.pdf) ([Resp](/files/teaching/econometria/Tarea-1Re.pdf))
+20/08/2025 | [T1](/files/teaching/econometria/Tarea-1.pdf) ([Resp](/files/teaching/econometria/Tarea-1Re.pdf))
 
 [T2](/files/teaching/econometria/Tarea-2.pdf)
 
@@ -74,15 +74,15 @@ T6: [](/files/teaching/econometria/datos/)
 
 <!--
 
-[Limpieza](/files/teaching/econometria/L02-Label-Data.pdf)
+20/08/2025 | [Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
 
-[Impacto IA](/files/teaching/econometria/L03-MIT-Backs-Away.pdf)
+[Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
 
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
 
-[Excel](/files/teaching/econometria/L05-Excel-Error.pdf)
+[Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
 
-[Fraude individual](/files/teaching/econometria/L06-Fraud.pdf)
+[Fraude individual](/files/teaching/econometria/L06-Fraud-Individual.pdf)
 
 [Fraude a escala](/files/teaching/econometria/L07-Fraud-Scale.pdf)
 
@@ -90,7 +90,7 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf)
 
-[Experimentos naturales](/files/teaching/econometria/L10-Nobel-2021.pdf)
+[Errores comunes](/files/teaching/econometria/L10-Common-Mistakes.pdf)
 
 [RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
 -->
@@ -98,7 +98,29 @@ T6: [](/files/teaching/econometria/datos/)
 # Presentaciones
 
 <!--
-T1.1, T1.2, T3, T4.1, T4.4, T5.1, T5.2, T5.3, T5.4
+T1.1:
+
+T1.2:
+
+T3.2:
+
+T3.4:
+
+T4.1:
+
+T4.2:
+
+T4.3:
+
+T4.4:
+
+T5.1:
+
+T5.2:
+
+T5.3:
+
+T5.4:
 -->
 
 &nbsp;
