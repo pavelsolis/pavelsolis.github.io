@@ -57,7 +57,7 @@ T6: [](/files/teaching/econometria/datos/)
 <!--
 # Tareas
 
-20/08/2025 | [T1](/files/teaching/econometria/Tarea-1.pdf) ([Resp](/files/teaching/econometria/Tarea-1Re.pdf))
+20/08/2025 | [T1](/files/teaching/econometria/Tarea-1.pdf)
 
 [T2](/files/teaching/econometria/Tarea-2.pdf)
 
