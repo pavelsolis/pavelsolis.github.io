@@ -104,10 +104,12 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Presentaciones
 
-<!--
 T1.1:
 
 T1.2:
+
+<!--
+
 
 T3.2:
 
