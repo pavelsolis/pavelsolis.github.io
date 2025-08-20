@@ -19,9 +19,9 @@ title: Teaching
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
-[Slides Stata](/files/teaching/econometria/01b-Stata.pdf)
-<!--
 
+<!--
+[Slides Stata](/files/teaching/econometria/01b-Stata.pdf)
 
 20/08/2025 | [Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
