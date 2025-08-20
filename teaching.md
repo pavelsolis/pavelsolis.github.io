@@ -19,11 +19,12 @@ title: Teaching
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
+[Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
 <!--
 [Slides Stata](/files/teaching/econometria/01b-Stata.pdf)
 
-20/08/2025 | [Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
+20/08/2025 | 
 
 [RLS en Stata](/files/teaching/econometria/A4-RLS-Stata.pdf)
 
@@ -76,9 +77,11 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Causalidad](/files/teaching/econometria/L01-Seed-Oils.pdf)
 
+[Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
+
 <!--
 
-20/08/2025 | [Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
+20/08/2025 | 
 
 [Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
 
