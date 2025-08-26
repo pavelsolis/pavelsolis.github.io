@@ -19,10 +19,10 @@ title: Teaching
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
-[Guías Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
+[Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
 <!--
-[Slides Stata](/files/teaching/econometria/01b-Stata.pdf)
+[Slides Stata](/files/teaching/econometria/01c-Repaso.pdf)
 
 20/08/2025 | 
 
@@ -37,7 +37,7 @@ title: Teaching
 [AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
 -->
 
-# Códigos y Bases de Datos
+# Laboratorios
 
 Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
 
