@@ -21,8 +21,10 @@ title: Teaching
 
 [Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
-<!--
 [Slides Stata](/files/teaching/econometria/01c-Repaso.pdf)
+
+<!--
+
 
 20/08/2025 | 
 
