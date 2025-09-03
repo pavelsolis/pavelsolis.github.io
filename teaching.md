@@ -21,10 +21,8 @@ title: Teaching
 
 [Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
-[Notas RLS](/files/teaching/econometria/02-RLS.pdf)
-
 <!--
-
+[Notas RLS](/files/teaching/econometria/03-RLM.pdf)
 
 20/08/2025 | 
 
@@ -81,11 +79,11 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
 
+[Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
+
 <!--
 
 20/08/2025 | 
-
-[Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
 
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
 
