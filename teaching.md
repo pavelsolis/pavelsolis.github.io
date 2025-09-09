@@ -21,18 +21,22 @@ title: Teaching
 
 [Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
+[Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
+
+[Notas RLS](/files/teaching/econometria/02-RLS.pdf)
+
 <!--
-[Notas RLS](/files/teaching/econometria/03-RLM.pdf)
+
 
 20/08/2025 | 
 
-[RLS en Stata](/files/teaching/econometria/A4-RLS-Stata.pdf)
+[RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
 
-[RLM en Stata](/files/teaching/econometria/A5-RLM-Stata.pdf)
+[RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
-[Guía MT](/files/teaching/econometria/A6-Guia-MT.pdf)
+[Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
 
-[Guía Final](/files/teaching/econometria/A7-Guia-Final.pdf)
+[Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
 [AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
 -->
@@ -43,17 +47,17 @@ Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/t
 
 <!--
 
-20/08/2025 | T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
+Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
+
+Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
+
+T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
 T3: [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx)
-
-Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
 T4: [WAGE2](/files/teaching/econometria/datos/WAGE2.DTA), [HPRICE2](/files/teaching/econometria/datos/HPRICE2.DTA)
 
 T5: [CEOSAL1](/files/teaching/econometria/datos/CEOSAL1.DTA), [hprice1](/files/teaching/econometria/datos/hprice1.dta), [RETURN](/files/teaching/econometria/datos/RETURN.DTA)
-
-Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
 
 T6: [](/files/teaching/econometria/datos/)
 -->
@@ -62,7 +66,7 @@ T6: [](/files/teaching/econometria/datos/)
 <!--
 # Tareas
 
-20/08/2025 | [T1](/files/teaching/econometria/Tarea-1.pdf)
+[T1](/files/teaching/econometria/Tarea-1.pdf)
 
 [T2](/files/teaching/econometria/Tarea-2.pdf)
 
@@ -81,11 +85,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
 
-<!--
-
-20/08/2025 | 
-
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
+
+<!--
 
 [Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
 
@@ -108,12 +110,11 @@ T1.1:
 
 T1.2:
 
-<!--
-
-
 T3.2:
 
 T3.4:
+
+<!--
 
 T4.1:
 
