@@ -23,10 +23,8 @@ title: Teaching
 
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
 
-[Notas RLS](/files/teaching/econometria/02-RLS.pdf)
-
 <!--
-
+[Notas RLS](/files/teaching/econometria/02-RLS.pdf)
 
 20/08/2025 | 
 
