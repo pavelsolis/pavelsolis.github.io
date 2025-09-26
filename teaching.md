@@ -23,6 +23,8 @@ title: Teaching
 
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
 
+[Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
+
 <!--
 
 [Notas RLS](/files/teaching/econometria/02-RLS.pdf)
@@ -31,14 +33,9 @@ title: Teaching
 
 [Notas RLM](/files/teaching/econometria/03-RLM.pdf)
 
-
-20/08/2025 | 
-
 [RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
 
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
-
-[Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
 
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
