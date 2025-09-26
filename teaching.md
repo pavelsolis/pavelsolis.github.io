@@ -91,9 +91,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
 
-<!--
-
 [Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
+
+<!--
 
 [Fraude individual](/files/teaching/econometria/L06-Fraud-Individual.pdf)
 
