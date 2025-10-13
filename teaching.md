@@ -107,31 +107,31 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Presentaciones
 
-T1.1:
+T1.1: Disponible
 
-T1.2:
+T1.2: Disponible
 
-T3.2:
+T3.2: Disponible
 
-T3.4:
+T3.4: Disponible
 
 <!--
 
-T4.1:
+T4.1: Disponible
 
-T4.2:
+T4.2: Disponible
 
-T4.3:
+T4.3: Disponible
 
-T4.4:
+T4.4: Disponible
 
-T5.1:
+T5.1: Disponible
 
-T5.2:
+T5.2: Disponible
 
-T5.3:
+T5.3: Disponible
 
-T5.4:
+T5.4: Disponible
 -->
 
 &nbsp;
