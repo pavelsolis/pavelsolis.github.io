@@ -107,7 +107,7 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Presentaciones
 
-T1.1: Disponible
+T1.1: Escogido
 
 T1.2: Disponible
 
