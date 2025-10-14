@@ -1,11 +1,13 @@
 * Pavel Solís
 * Econometría I
+* Laboratorio
+*-------------------------------------------------------------------------------
 
 * ==============================================================================
 * Regresión lineal simple
 * ==============================================================================
 cd "~\Documentos\eco3404"
-import excel "~\Documentos\eco3404\wgthgtage.xlsx", sheet("Hoja1") firstrow case(lower)
+import excel "wgthgtage.xlsx", sheet("Hoja1") firstrow case(lower)
 save wgthgtage, replace
 
 * Análisis preliminar
@@ -43,9 +45,11 @@ twoway (scatter weight height) (lfit weight height)
 scatter uhat yhat
 
 * Opciones
+regress weight height
 regress weight height, level(90)
 regress weight height, noconstant
 // predict yhatnocons; predict uhatnocons, r; tw (sc w h) (line y*n* h); su y* u* 
+regress weight height
 regress weight height, robust
 regress weight height if height > 60
 regress weight height in 2/237
@@ -54,6 +58,7 @@ regress weight height in 2/237
 replace weight = . in 1
 browse
 corr weight height age
+pwcorr, obs sig
 regress weight height
 generate sample = e(sample)
 	
@@ -118,10 +123,12 @@ list dnum snum api00 acs_k3 meals full if dnum == 140
 histogram acs_k3
 graph box acs_k3
 stem acs_k3
+*replace acs_k3 = acs_k3*-1 if acs_k3 < 0
 stem full
 tabulate full
 tabulate dnum if full <= 1
 count if dnum == 401
+*replace full = full*100 if full <= 1
 graph matrix api00 acs_k3 meals full, half
 
 regress api00 acs_k3 meals full
