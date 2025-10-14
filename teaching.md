@@ -25,17 +25,16 @@ title: Teaching
 
 [Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
 
+[RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
+
+[RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
+
+
 <!--
 
 [Notas RLS](/files/teaching/econometria/02-RLS.pdf)
 
-[T3](/files/teaching/econometria/Tarea-3.pdf)
-
 [Notas RLM](/files/teaching/econometria/03-RLM.pdf)
-
-[RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
-
-[RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
@@ -46,9 +45,9 @@ title: Teaching
 
 Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
 
-<!--
+Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
-Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
+<!--
 
 Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
 
@@ -64,14 +63,17 @@ T6: [](/files/teaching/econometria/datos/)
 -->
 
 
-<!--
 # Tareas
+
+[T3](/files/teaching/econometria/Tarea-3.pdf)
+
+<!--
 
 [T1](/files/teaching/econometria/Tarea-1.pdf)
 
 [T2](/files/teaching/econometria/Tarea-2.pdf)
 
-[T3](/files/teaching/econometria/Tarea-3.pdf)
+
 
 [T4](/files/teaching/econometria/Tarea-4.pdf)
 
