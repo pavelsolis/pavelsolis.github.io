@@ -29,12 +29,13 @@ title: Teaching
 
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
+[Notas RLM](/files/teaching/econometria/03-RLM.pdf)
 
 <!--
 
 [Notas RLS](/files/teaching/econometria/02-RLS.pdf)
 
-[Notas RLM](/files/teaching/econometria/03-RLM.pdf)
+
 
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
