@@ -29,13 +29,11 @@ title: Teaching
 
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
-[Notas RLM](/files/teaching/econometria/03-RLM.pdf)
-
 <!--
 
 [Notas RLS](/files/teaching/econometria/02-RLS.pdf)
 
-
+[Notas RLM](/files/teaching/econometria/03-RLM.pdf)
 
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
@@ -63,18 +61,15 @@ T5: [CEOSAL1](/files/teaching/econometria/datos/CEOSAL1.DTA), [hprice1](/files/t
 T6: [](/files/teaching/econometria/datos/)
 -->
 
+<!--
 
 # Tareas
-
-[T3](/files/teaching/econometria/Tarea-3.pdf)
-
-<!--
 
 [T1](/files/teaching/econometria/Tarea-1.pdf)
 
 [T2](/files/teaching/econometria/Tarea-2.pdf)
 
-
+[T3](/files/teaching/econometria/Tarea-3.pdf)
 
 [T4](/files/teaching/econometria/Tarea-4.pdf)
 
@@ -93,9 +88,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
 
-<!--
-
 [Fraude individual](/files/teaching/econometria/L06-Fraud-Individual.pdf)
+
+<!--
 
 [Fraude a escala](/files/teaching/econometria/L07-Fraud-Scale.pdf)
 
@@ -112,21 +107,21 @@ T6: [](/files/teaching/econometria/datos/)
 
 T1.1: Escogido
 
-T1.2: Disponible
+T1.2: Escogido
 
-T3.2: Disponible
+T3.2: Escogido
 
-T3.4: Disponible
+T3.4: Escogido
 
-<!--
-
-T4.1: Disponible
+T4.1: Escogido
 
 T4.2: Disponible
 
 T4.3: Disponible
 
 T4.4: Disponible
+
+<!--
 
 T5.1: Disponible
 
