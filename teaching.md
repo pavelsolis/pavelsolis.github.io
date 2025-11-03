@@ -116,13 +116,11 @@ T3.4: Escogido
 
 T4.1: Escogido
 
-T4.2: Disponible
+T4.2: Escogido
 
 T4.3: Disponible
 
 T4.4: Disponible
-
-<!--
 
 T5.1: Disponible
 
@@ -131,6 +129,7 @@ T5.2: Disponible
 T5.3: Disponible
 
 T5.4: Disponible
+<!--
 -->
 
 &nbsp;
