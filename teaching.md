@@ -106,21 +106,25 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Presentaciones
 
-T1.1: Escogido
+T1.1: Escogido*
 
-T1.2: Escogido
+T1.2: Escogido*
 
-T3.2: Escogido
+T3.2: Escogido*
 
-T3.4: Escogido
+T3.4: Escogido*
 
-T4.1: Escogido
+T3.5 (Nuevo): Disponible*
 
-T4.2: Escogido
+T3.6 (Nuevo): Disponible*
 
-T4.3: Disponible
+T4.1: Escogido*
 
-T4.4: Escogido
+T4.2: Escogido*
+
+T4.3: Disponible*
+
+T4.4: Escogido*
 
 T5.1: Disponible
 
