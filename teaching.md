@@ -123,7 +123,7 @@ T4.1: Escogido*
 
 T4.2: Escogido*
 
-T4.3: Disponible*
+T4.3: Escogido*
 
 T4.4: Escogido*
 
