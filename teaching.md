@@ -127,7 +127,7 @@ T4.3: Escogido*
 
 T4.4: Escogido*
 
-T5.1: Disponible
+T5.1: Escogido
 
 T5.2: Disponible
 
