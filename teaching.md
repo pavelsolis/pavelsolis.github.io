@@ -30,13 +30,6 @@ title: Teaching
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
 <!--
-
-[Notas RLS](/files/teaching/econometria/02-RLS.pdf)
-
-[Notas RLM](/files/teaching/econometria/03-RLM.pdf)
-
-[Notas Inferencia](/files/teaching/econometria/04-Inferencia.pdf)
-
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
 [AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
@@ -94,15 +87,18 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Fraude a escala](/files/teaching/econometria/L07-Fraud-Scale.pdf)
 
+[Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf)
+
+[Credibilidad](/files/teaching/econometria/L09-Nobel-2021.pdf)
+
 <!--
 
-[Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf)
+[Tips](/files/teaching/econometria/L10-Common-Mistakes.pdf)
+
+[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
 
 [Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf)
 
-[Errores comunes](/files/teaching/econometria/L10-Common-Mistakes.pdf)
-
-[RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
 -->
 
 # Presentaciones
@@ -134,8 +130,14 @@ T5.2: Disponible
 T5.3: Disponible
 
 T5.4: Disponible
+
 <!--
+[02](/files/teaching/econometria/02-RLS.pdf), [03](/files/teaching/econometria/03-RLM.pdf), [04](/files/teaching/econometria/04-Inferencia.pdf), 
 -->
+
+[05](/files/teaching/econometria/05-Asintotica.pdf), [06](/files/teaching/econometria/06-Aplicaciones.pdf)
+[07](/files/teaching/econometria/07-Dummies.pdf), [08](/files/teaching/econometria/08-Proyectos.pdf)
+
 
 &nbsp;
 
