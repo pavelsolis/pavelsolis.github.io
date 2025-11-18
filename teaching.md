@@ -41,9 +41,9 @@ Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/t
 
 Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
-<!--
-
 Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
+
+<!--
 
 T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
