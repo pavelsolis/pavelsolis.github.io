@@ -129,7 +129,7 @@ T5.2: Escogido
 
 T5.3: Escogido
 
-T5.4: Disponible
+T5.4: Escogido
 
 &nbsp;
 
