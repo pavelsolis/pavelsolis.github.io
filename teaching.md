@@ -29,8 +29,9 @@ title: Teaching
 
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
-<!--
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
+
+<!--
 
 [AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
 -->
@@ -111,10 +112,6 @@ T3.2: Escogido*
 
 T3.4: Escogido*
 
-T3.5 (Nuevo): Disponible*
-
-T3.6 (Nuevo): Disponible*
-
 T4.1: Escogido*
 
 T4.2: Escogido*
@@ -136,12 +133,14 @@ T5.4: Escogido
 &nbsp;
 
 <!--
-[02](/files/teaching/econometria/02-RLS.pdf), [03](/files/teaching/econometria/03-RLM.pdf), [04](/files/teaching/econometria/04-Inferencia.pdf), [05](/files/teaching/econometria/05-Asintotica.pdf), [06](/files/teaching/econometria/06-Aplicaciones.pdf), [07](/files/teaching/econometria/07-Dummies.pdf), 
--->
+T3.5 (Nuevo): Disponible*
 
-[08](/files/teaching/econometria/08-Proyectos.pdf)
+T3.6 (Nuevo): Disponible*
+
+[02](/files/teaching/econometria/02-RLS.pdf), [03](/files/teaching/econometria/03-RLM.pdf), [04](/files/teaching/econometria/04-Inferencia.pdf), [05](/files/teaching/econometria/05-Asintotica.pdf), [06](/files/teaching/econometria/06-Aplicaciones.pdf), [07](/files/teaching/econometria/07-Dummies.pdf), [08](/files/teaching/econometria/08-Proyectos.pdf)
 
 &nbsp;
+-->
 
 ---
 # Macroeconomía Avanzada
@@ -154,6 +153,8 @@ T5.4: Escogido
 
 # Archivos
 
+
+<!--
 [DSGE](/files/teaching/macro/DSGE_slides.pdf)
 
 [RBC](/files/teaching/macro/RBC_slides.pdf)
@@ -169,6 +170,7 @@ T5.4: Escogido
 [Modelos DSGE en Dynare](https://github.com/JohannesPfeifer/DSGE_mod/)
 
 [Macro lenguaje de Dynare](https://archives.dynare.org/manual/Macro_002dprocessing-language.html)
+-->
 
 &nbsp;
 
