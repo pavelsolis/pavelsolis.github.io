@@ -170,6 +170,8 @@ margin-right: auto;
 
 ---
 
+"**How to Design Rules for Ex-Post Evaluation**" by Benjamin S. Kay and Marco Migueis, 2025. ([Slides](/files/research/Discussion_ExPostEval.pdf))
+
 "**The Asymmetric Credit Channel of Monetary Policy**" by Ander Pérez-Orive, Yannick Timmer and Alejandro van der Ghote, 2023. ([Slides](/files/research/Discussion_Asymmetric.pdf))
 
 "**Firm’s Internal Dynamics and Credit Risk in Emerging Asia**" by Arti Omar and P. Krishna Prasanna, 2021. ([Slides](/files/research/Discussion_FirmsCRAsia.pdf))
