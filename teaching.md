@@ -9,12 +9,13 @@ title: Teaching
 # ECO3404 - Econometría I
 
 
-**Lugar:** Salón (T3-34 Sur), Laboratorio (T3-PB Sur)
+**Lugar:** Salón (T3-24 Sur), Laboratorio (T3-PB Sur)
 
-**Horario:** Martes 19:00 - 22:00 hrs (Ago 11 - Dic 2, 2025)
+**Horario:** Martes 19:00 - 22:00 hrs (Ene 12 - May 7, 2026)
 
 # Archivos
 
+<!--
 [Temario](/files/teaching/econometria/A1-Temario.pdf)
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
@@ -31,20 +32,17 @@ title: Teaching
 
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
-<!--
-
 [AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
 -->
 
 # Laboratorios
 
+<!--
 Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
 
 Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
 Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
-
-<!--
 
 T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
@@ -74,6 +72,7 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Lecturas
 
+<!--
 [Causalidad](/files/teaching/econometria/L01-Seed-Oils.pdf)
 
 [Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
@@ -94,8 +93,6 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Tips](/files/teaching/econometria/L10-Common-Mistakes.pdf)
 
-<!--
-
 [RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
 
 [Juicio](/files/teaching/econometria/L09-Judge-Residual.pdf)
@@ -104,6 +101,13 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Presentaciones
 
+
+
+&nbsp;
+
+&nbsp;
+
+<!--
 T1.1: Escogido*
 
 T1.2: Escogido*
@@ -128,11 +132,6 @@ T5.3: Escogido
 
 T5.4: Escogido
 
-&nbsp;
-
-&nbsp;
-
-<!--
 T3.5 (Nuevo): Disponible*
 
 T3.6 (Nuevo): Disponible*
