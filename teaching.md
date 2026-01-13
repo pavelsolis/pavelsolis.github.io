@@ -15,11 +15,12 @@ title: Teaching
 
 # Archivos
 
-<!--
 [Temario](/files/teaching/econometria/A1-Temario.pdf)
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
+
+<!--
 [Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
@@ -32,7 +33,6 @@ title: Teaching
 
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
-[AACSB](/files/teaching/econometria/Temp-AACSB.pptx)
 -->
 
 # Laboratorios
@@ -72,8 +72,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Lecturas
 
-<!--
 [Causalidad](/files/teaching/econometria/L01-Seed-Oils.pdf)
+
+<!--
 
 [Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
 
