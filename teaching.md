@@ -19,9 +19,9 @@ title: Teaching
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
+[Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
 <!--
-[Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
 
