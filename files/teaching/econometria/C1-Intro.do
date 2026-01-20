@@ -3,7 +3,7 @@ cd ~\Documentos\eco3404
 clear
 sysuse dir
 sysuse auto
-list
+browse
 summarize
 summarize price foreign
 describe
@@ -14,6 +14,7 @@ scatter price trunk
 correlate length weight
 stem rep78
 tabulate rep78
+tabulate rep78, missing
 browse rep78
 count if missing(rep78)
 browse rep78 if missing(rep78)
