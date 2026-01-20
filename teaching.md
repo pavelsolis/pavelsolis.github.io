@@ -74,8 +74,8 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Causalidad](/files/teaching/econometria/L01-Seed-Oils.pdf)
 
-<!--
 
+<!--
 [Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
 
 [Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
@@ -139,7 +139,7 @@ T3.6 (Nuevo): Disponible*
 
 -->
 
-[01](/files/teaching/econometria/01a-Intro.pdf)
+[01a](/files/teaching/econometria/01a-Intro.pdf), [01b](/files/teaching/econometria/01b-Stata.pdf)
 
 <!--
 # Slides
