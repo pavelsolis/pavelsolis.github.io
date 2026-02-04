@@ -100,7 +100,7 @@ T6: [](/files/teaching/econometria/datos/)
 
 -->
 
-# Presentaciones
+# Ejercicios para Presentaciones
 
 
 
@@ -109,9 +109,9 @@ T6: [](/files/teaching/econometria/datos/)
 &nbsp;
 
 <!--
-T1.1: Escogido*
+T1.1: Disponible
 
-T1.2: Escogido*
+T1.2: Disponible
 
 T3.2: Escogido*
 
