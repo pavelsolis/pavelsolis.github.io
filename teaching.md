@@ -21,9 +21,9 @@ title: Teaching
 
 [Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
-<!--
-
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
+
+<!--
 
 [Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
 
@@ -78,9 +78,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
 
-<!--
-
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
+
+<!--
 
 [Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
 
@@ -139,7 +139,7 @@ T3.6 (Nuevo): Disponible*
 
 -->
 
-[02](/files/teaching/econometria/02-RLS.pdf)
+[02](/files/teaching/econometria/02-RLS.pdf), [03](/files/teaching/econometria/03-RLM.pdf)
 
 <!--
 # Slides
@@ -147,7 +147,7 @@ T3.6 (Nuevo): Disponible*
 [01b](/files/teaching/econometria/01b-Stata.pdf), 
 [01c](/files/teaching/econometria/01c-Repaso.pdf), 
 
-[03](/files/teaching/econometria/03-RLM.pdf), 
+
 [04](/files/teaching/econometria/04-Inferencia.pdf), 
 [05](/files/teaching/econometria/05-Asintotica.pdf), 
 [06](/files/teaching/econometria/06-Aplicaciones.pdf), 
