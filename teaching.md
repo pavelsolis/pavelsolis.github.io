@@ -23,9 +23,9 @@ title: Teaching
 
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
 
-<!--
-
 [Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
+
+<!--
 
 [RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
 
@@ -80,9 +80,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
 
-<!--
-
 [Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
+
+<!--
 
 [Fraude individual](/files/teaching/econometria/L06-Fraud-Individual.pdf)
 
@@ -139,14 +139,14 @@ T3.6 (Nuevo): Disponible*
 
 -->
 
-[02](/files/teaching/econometria/02-RLS.pdf), [03](/files/teaching/econometria/03-RLM.pdf)
+[03](/files/teaching/econometria/03-RLM.pdf)
 
 <!--
 # Slides
 [01a](/files/teaching/econometria/01a-Intro.pdf), 
 [01b](/files/teaching/econometria/01b-Stata.pdf), 
 [01c](/files/teaching/econometria/01c-Repaso.pdf), 
-
+[02](/files/teaching/econometria/02-RLS.pdf), 
 
 [04](/files/teaching/econometria/04-Inferencia.pdf), 
 [05](/files/teaching/econometria/05-Asintotica.pdf), 
