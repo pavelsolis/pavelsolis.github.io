@@ -23,9 +23,9 @@ title: Teaching
 
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
 
-<!--
-
 [Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
+
+<!--
 
 [RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
 
@@ -39,8 +39,9 @@ title: Teaching
 
 Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
 
-<!--
 Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
+
+<!--
 
 Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
 
@@ -80,9 +81,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
 
-<!--
-
 [Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
+
+<!--
 
 [Fraude individual](/files/teaching/econometria/L06-Fraud-Individual.pdf)
 
@@ -139,14 +140,14 @@ T3.6 (Nuevo): Disponible*
 
 -->
 
-[02](/files/teaching/econometria/02-RLS.pdf), [03](/files/teaching/econometria/03-RLM.pdf)
+[03](/files/teaching/econometria/03-RLM.pdf)
 
 <!--
 # Slides
 [01a](/files/teaching/econometria/01a-Intro.pdf), 
 [01b](/files/teaching/econometria/01b-Stata.pdf), 
 [01c](/files/teaching/econometria/01c-Repaso.pdf), 
-
+[02](/files/teaching/econometria/02-RLS.pdf), 
 
 [04](/files/teaching/econometria/04-Inferencia.pdf), 
 [05](/files/teaching/econometria/05-Asintotica.pdf), 
