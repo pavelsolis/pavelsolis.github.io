@@ -140,7 +140,7 @@ T3.6 (Nuevo): Disponible*
 
 -->
 
-[03](/files/teaching/econometria/03-RLM.pdf)
+[03](/files/teaching/econometria/03-RLM.pdf), [C2](/files/teaching/econometria/C2-RLS-RLM-secc.do)
 
 <!--
 # Slides
