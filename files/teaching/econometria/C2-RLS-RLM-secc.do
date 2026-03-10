@@ -9,11 +9,15 @@
 cd "~\Documentos\eco3404"
 import excel "wgthgtage.xlsx", sheet("Hoja1") firstrow case(lower)
 save wgthgtage, replace
+
+* Análisis preliminar
 summarize weight height age, detail
 return list
 correlate weight height age
 matrix list r(C)
 graph matrix weight height age, half
+
+* Reporte de resultados
 regress weight height
 help regress
 ereturn list
@@ -27,14 +31,20 @@ help regress_post
 predict yhat, xb
 predict uhat, residuals
 browse
+	
+* Verificaciones: Propiedades MCO
 display sqrt(e(rss)/e(df_r))
 display e(mss)/(e(mss)+e(rss)) vs display 1-(e(rss)/(e(mss)+e(rss)))
 summarize height weight yhat uhat
 correlate height uhat
 display _b[_cons] + _b[height]*61.36456
+
+* Análisis Visual
 scatter weight height
 twoway (scatter weight height) (lfit weight height)
 scatter uhat yhat
+
+* Opciones
 regress weight height
 regress weight height, level(90)
 regress weight height, noconstant
@@ -43,12 +53,16 @@ regress weight height
 regress weight height, robust
 regress weight height if height > 60
 regress weight height in 2/237
+
+* Datos faltantes (Stata los excluye)
 replace weight = . in 1
 browse
 corr weight height age
 pwcorr, obs sig
 regress weight height
 generate sample = e(sample)
+	
+* Cambio de unidades (kilogramos, centímetros, años)
 use wgthgtage, clear
 regress weight height
 dis _b[_cons]*.45
@@ -73,10 +87,14 @@ predict uhat, r
 summarize height age weight yhat uhat
 correlate height uhat
 display _b[_cons] + _b[height]*155.866 + _b[age]*13.70253
+
+* Interpretación de efecto parcial en RLM (mismas b1)
 regress
 regress height age, noheader coeflegend
 predict r1, residuals
 regress weight r1, noheader coeflegend
+	
+* Pruebas de hipótesis (PH): Individual y conjunta
 regress weight height age
 test height
 test height == 1
@@ -112,6 +130,7 @@ tabulate dnum if full <= 1
 count if dnum == 401
 *replace full = full*100 if full <= 1
 graph matrix api00 acs_k3 meals full, half
+
 regress api00 acs_k3 meals full
 use elemapi2, clear
 regress api00 acs_k3 meals full
