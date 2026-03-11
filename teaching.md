@@ -39,7 +39,7 @@ title: Teaching
 
 Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
 
-Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/wgthgtage.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
+Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/weight-height-age.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
 <!--
 
