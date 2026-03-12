@@ -25,11 +25,11 @@ title: Teaching
 
 [Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
 
-<!--
-
 [RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
 
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
+
+<!--
 
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
