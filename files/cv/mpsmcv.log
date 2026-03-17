@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (MiKTeX 22.7) (format=lualatex 2022.10.11)  11 FEB 2026 13:52
+This is LuaHBTeX, Version 1.15.0 (MiKTeX 22.7) (format=lualatex 2022.10.11)  12 MAR 2026 10:16
  system commands enabled.
 **mpsmcv.tex
 (./mpsmcv.tex
@@ -589,18 +589,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 43.
 
-Overfull \hbox (25.11743pt too wide) in paragraph at lines 77--94
+Overfull \hbox (25.11743pt too wide) in paragraph at lines 77--95
 [] 
  []
 
 [1
 
 {C:/Users/G12284/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \vbox (18.125pt too high) detected at line 127
+Overfull \vbox (18.125pt too high) detected at line 128
  []
 
 
-Overfull \vbox (18.125pt too high) detected at line 128
+Overfull \vbox (18.125pt too high) detected at line 129
  []
 
 
@@ -622,17 +622,17 @@ Here is how much of LuaTeX's memory you used:
  431 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 53 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:514,3:254,4:14,5:322,6:54,7:6779,8:26,9:440,10:13,11:538
+   avail lists: 1:1,2:521,3:259,4:14,5:322,6:57,7:6875,8:26,9:467,10:13,11:544
  35255 multiletter control sequences out of 65536+600000
  37 fonts using 2819295 bytes
- 72i,11n,80p,1008b,460s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,11n,80p,1008b,462s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <//?/c:/program files/miktex/fonts/opentype/public/lm/lmroman8-regular.otf><//?/
 c:/program files/miktex/fonts/opentype/public/lm/lmroman12-italic.otf><//?/c:/pr
 ogram files/miktex/fonts/opentype/public/lm/lmroman12-regular.otf><//?/c:/progra
 m files/miktex/fonts/opentype/public/lm/lmmono12-regular.otf><C:/Users/G12284/Ap
 pData/Roaming/MiKTeX/fonts/opentype/public/fontawesome/fontawesome.otf><//?/c:/p
 rogram files/miktex/fonts/opentype/public/lm/lmroman12-bold.otf>
-Output written on mpsmcv.pdf (2 pages, 40075 bytes).
+Output written on mpsmcv.pdf (2 pages, 40073 bytes).
 
 PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 131072)
