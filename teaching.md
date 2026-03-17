@@ -25,11 +25,11 @@ title: Teaching
 
 [Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
 
-<!--
-
 [RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
 
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
+
+<!--
 
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 
@@ -83,9 +83,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
 
-<!--
-
 [Fraude individual](/files/teaching/econometria/L06-Fraud-Individual.pdf)
+
+<!--
 
 [Fraude a escala](/files/teaching/econometria/L07-Fraud-Scale.pdf)
 
@@ -103,7 +103,21 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Ejercicios para Presentaciones
 
+T4.1: Disponible
 
+T4.2: Disponible
+
+T4.3: Disponible
+
+T4.4: Escogido
+
+T5.1: Disponible
+
+T5.2: Disponible
+
+T5.3: Disponible
+
+T5.4: Disponible
 
 &nbsp;
 
@@ -118,29 +132,13 @@ T3.2: Escogido*
 
 T3.4: Escogido*
 
-T4.1: Escogido*
-
-T4.2: Escogido*
-
-T4.3: Escogido*
-
-T4.4: Escogido*
-
-T5.1: Escogido
-
-T5.2: Escogido
-
-T5.3: Escogido
-
-T5.4: Escogido
-
 T3.5 (Nuevo): Disponible*
 
 T3.6 (Nuevo): Disponible*
 
 -->
 
-[03](/files/teaching/econometria/03-RLM.pdf), [C2](/files/teaching/econometria/C2-RLS-RLM-secc.do)
+[03](/files/teaching/econometria/03-RLM.pdf)
 
 <!--
 # Slides
@@ -148,7 +146,7 @@ T3.6 (Nuevo): Disponible*
 [01b](/files/teaching/econometria/01b-Stata.pdf), 
 [01c](/files/teaching/econometria/01c-Repaso.pdf), 
 [02](/files/teaching/econometria/02-RLS.pdf), 
-
+, [C2](/files/teaching/econometria/C2-RLS-RLM-secc.do)
 [04](/files/teaching/econometria/04-Inferencia.pdf), 
 [05](/files/teaching/econometria/05-Asintotica.pdf), 
 [06](/files/teaching/econometria/06-Aplicaciones.pdf), 
