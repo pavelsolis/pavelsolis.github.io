@@ -103,17 +103,17 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Ejercicios para Presentaciones
 
-T4.1: Disponible
+T4.1: Edgar
 
-T4.2: Disponible
+T4.2: Vanessa
 
-T4.3: Disponible
+T4.3: Raúl
 
-T4.4: Escogido
+T4.4: Alan
 
-T5.1: Disponible
+T5.1: Patricio
 
-T5.2: Disponible
+T5.2: Francisco
 
 T5.3: Disponible
 
