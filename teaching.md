@@ -105,6 +105,8 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Ejercicios para Presentaciones
 
+T1.1: Akemi
+
 T4.1: Edgar
 
 T4.2: Vanessa
@@ -126,7 +128,6 @@ T5.4: Disponible
 &nbsp;
 
 <!--
-T1.1: Disponible
 
 T1.2: Disponible
 
