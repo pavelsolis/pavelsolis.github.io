@@ -85,15 +85,17 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Fraude individual](/files/teaching/econometria/L06-Fraud-Individual.pdf)
 
-<!--
-
 [Fraude a escala](/files/teaching/econometria/L07-Fraud-Scale.pdf)
+
+<!--
 
 [Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf)
 
 [Credibilidad](/files/teaching/econometria/L09-Nobel-2021.pdf)
 
 [Tips](/files/teaching/econometria/L10-Common-Mistakes.pdf)
+
+
 
 [RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
 
