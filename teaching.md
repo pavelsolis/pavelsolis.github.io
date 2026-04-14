@@ -87,9 +87,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Fraude a escala](/files/teaching/econometria/L07-Fraud-Scale.pdf)
 
-<!--
-
 [Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf)
+
+<!--
 
 [Credibilidad](/files/teaching/econometria/L09-Nobel-2021.pdf)
 
