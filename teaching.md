@@ -141,7 +141,7 @@ T3.6 (Nuevo): Disponible*
 
 -->
 
-[04](/files/teaching/econometria/04-Inferencia.pdf)
+[05](/files/teaching/econometria/05-Asintotica.pdf), [06](/files/teaching/econometria/06-Aplicaciones.pdf)
 
 <!--
 # Slides
@@ -150,9 +150,8 @@ T3.6 (Nuevo): Disponible*
 [01c](/files/teaching/econometria/01c-Repaso.pdf), 
 [02](/files/teaching/econometria/02-RLS.pdf), 
 [03](/files/teaching/econometria/03-RLM.pdf),
+[04](/files/teaching/econometria/04-Inferencia.pdf), 
 , 
-[05](/files/teaching/econometria/05-Asintotica.pdf), 
-[06](/files/teaching/econometria/06-Aplicaciones.pdf), 
 [07](/files/teaching/econometria/07-Dummies.pdf), 
 [08](/files/teaching/econometria/08-Proyectos.pdf)
 
