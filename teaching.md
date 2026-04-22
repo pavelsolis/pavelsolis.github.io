@@ -29,9 +29,9 @@ title: Teaching
 
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
-<!--
-
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
+
+<!--
 
 -->
 
@@ -41,9 +41,9 @@ Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/t
 
 Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/weight-height-age.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
-<!--
-
 Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
+
+<!--
 
 T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
@@ -91,10 +91,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Credibilidad](/files/teaching/econometria/L09-Nobel-2021.pdf)
 
-<!--
-
 [Tips](/files/teaching/econometria/L10-Common-Mistakes.pdf)
 
+<!--
 
 
 [RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
@@ -119,9 +118,9 @@ T5.1: Patricio
 
 T5.2: Francisco
 
-T5.3: Disponible
+T5.3: Jorge
 
-T5.4: Disponible
+T5.4: Mauricio
 
 &nbsp;
 
@@ -141,7 +140,8 @@ T3.6 (Nuevo): Disponible*
 
 -->
 
-[06](/files/teaching/econometria/06-Aplicaciones.pdf), [07](/files/teaching/econometria/07-Dummies.pdf)
+[07](/files/teaching/econometria/07-Dummies.pdf), [08](/files/teaching/econometria/08-Proyectos.pdf)
+
 
 <!--
 # Slides
@@ -152,9 +152,7 @@ T3.6 (Nuevo): Disponible*
 [03](/files/teaching/econometria/03-RLM.pdf),
 [04](/files/teaching/econometria/04-Inferencia.pdf), 
 [05](/files/teaching/econometria/05-Asintotica.pdf), 
-, 
-, 
-[08](/files/teaching/econometria/08-Proyectos.pdf)
+[06](/files/teaching/econometria/06-Aplicaciones.pdf), 
 
 &nbsp;
 -->
