@@ -6,6 +6,40 @@ title: Teaching
 &nbsp;
 
 ---
+# Macroeconomía Avanzada
+
+
+**Lugar:** Zoom / Webex
+
+**Horario:** Martes 7:00 - 10:00 hrs (28 Abril - 26 Mayo, 2026)
+
+# Archivos
+
+[DSGE](/files/teaching/macro/DSGE_slides.pdf)
+
+<!--
+
+[RBC](/files/teaching/macro/RBC_slides.pdf)
+
+[MIUF](/files/teaching/macro/MIUF_slides.pdf)
+
+[NK](/files/teaching/macro/NK_slides.pdf)
+
+# Material Adicional
+
+[Derivación del modelo NK tradicional](https://bergholt.weebly.com/uploads/1/1/8/4/11843961/the_basic_new_keynesian_model_-_drago_bergholt.pdf)
+
+[Modelos DSGE en Dynare](https://github.com/JohannesPfeifer/DSGE_mod/)
+
+[Macro lenguaje de Dynare](https://archives.dynare.org/manual/Macro_002dprocessing-language.html)
+-->
+
+&nbsp;
+
+&nbsp;
+
+
+---
 # ECO3404 - Econometría I
 
 
@@ -122,10 +156,6 @@ T5.3: Jorge
 
 T5.4: Mauricio
 
-&nbsp;
-
-&nbsp;
-
 <!--
 
 T1.2: Disponible
@@ -140,6 +170,11 @@ T3.6 (Nuevo): Disponible*
 
 -->
 
+&nbsp;
+
+&nbsp;
+
+
 [07](/files/teaching/econometria/07-Dummies.pdf), [08](/files/teaching/econometria/08-Proyectos.pdf)
 
 
@@ -153,43 +188,7 @@ T3.6 (Nuevo): Disponible*
 [04](/files/teaching/econometria/04-Inferencia.pdf), 
 [05](/files/teaching/econometria/05-Asintotica.pdf), 
 [06](/files/teaching/econometria/06-Aplicaciones.pdf), 
-
-&nbsp;
 -->
-
----
-# Macroeconomía Avanzada
-
-
-**Lugar:** Webex
-<!-- https://banxico.webex.com/meet/pavel.solis -->
-
-**Horario:** Jueves 7:00 - 10:00 hrs (24 Abril - 29 Mayo, 2025)
-
-# Archivos
-
-
-<!--
-[DSGE](/files/teaching/macro/DSGE_slides.pdf)
-
-[RBC](/files/teaching/macro/RBC_slides.pdf)
-
-[MIUF](/files/teaching/macro/MIUF_slides.pdf)
-
-[NK](/files/teaching/macro/NK_slides.pdf)
-
-# Material Adicional
-
-[Derivación del modelo NK tradicional](https://bergholt.weebly.com/uploads/1/1/8/4/11843961/the_basic_new_keynesian_model_-_drago_bergholt.pdf)
-
-[Modelos DSGE en Dynare](https://github.com/JohannesPfeifer/DSGE_mod/)
-
-[Macro lenguaje de Dynare](https://archives.dynare.org/manual/Macro_002dprocessing-language.html)
--->
-
-&nbsp;
-
-&nbsp;
 
 
 ---
