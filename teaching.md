@@ -17,9 +17,9 @@ title: Teaching
 
 [DSGE](/files/teaching/macro/DSGE_slides.pdf)
 
-<!--
-
 [RBC](/files/teaching/macro/RBC_slides.pdf)
+
+<!--
 
 [MIUF](/files/teaching/macro/MIUF_slides.pdf)
 
