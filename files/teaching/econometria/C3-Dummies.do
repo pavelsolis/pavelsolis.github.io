@@ -6,6 +6,7 @@
 * ==============================================================================
 cd "~\Documentos\eco3404"
 use hsb2, clear
+browse
 tabulate female
 tabulate race
 tabulate ses
@@ -13,9 +14,8 @@ tabulate schtyp
 tabulate prog
 summarize read write math science socst
 
-/* Objetivo: Tras explicar la puntuación en pruebas de escritura con información sobre 
-pruebas de lectura y matemáticas, y el tipo de programa del estudiante (general, académico, 
-vocacional), queremos saber si el tipo de programa es estadísticamente significativo. */
+/* Pregunta: ¿El tipo de programa es estadísticamente significativo para explicar la 
+puntuación en pruebas de escritura controlando por las pruebas de lectura y matemáticas?*/
 
 * Creación de variables dummy para una categoría
 * ------------------------------------------------------------------------------
@@ -52,6 +52,7 @@ regress write read math prog1 prog2 prog3, nocons
 * ------------------------------------------------------------------------------
 regress write read math prog2 prog3
 drop prog1 prog2 prog3
+browse
 list prog i.prog in 1/10
 regress write read math i.prog
 test 2.prog 3.prog
@@ -79,8 +80,7 @@ browse prog math prog2 highmath hghmthprog2
 
 regress write read highmath prog2 hghmthprog2
 regress write read highmath##2.prog
+regress write read i.highmath#i.prog2	// sum of all coefs
 
 regress write read c.math##i.prog
-
-* regress write read highmath#prog2
-* regress write read c.math#i.prog
+regress write read c.math#i.prog
