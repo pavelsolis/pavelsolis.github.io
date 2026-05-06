@@ -6,6 +6,41 @@ title: Teaching
 &nbsp;
 
 
+
+---
+# Macroeconomía Avanzada
+
+
+**Lugar:** Zoom / Webex
+
+**Horario:** Martes 7:00 - 10:00 hrs (28 Abril - 26 Mayo, 2026)
+
+# Archivos
+
+[DSGE](/files/teaching/macro/DSGE_slides.pdf)
+
+[RBC](/files/teaching/macro/RBC_slides.pdf)
+
+<!--
+
+[MIUF](/files/teaching/macro/MIUF_slides.pdf)
+
+[NK](/files/teaching/macro/NK_slides.pdf)
+
+# Material Adicional
+
+[Derivación del modelo NK tradicional](https://bergholt.weebly.com/uploads/1/1/8/4/11843961/the_basic_new_keynesian_model_-_drago_bergholt.pdf)
+
+[Modelos DSGE en Dynare](https://github.com/JohannesPfeifer/DSGE_mod/)
+
+[Macro lenguaje de Dynare](https://archives.dynare.org/manual/Macro_002dprocessing-language.html)
+-->
+
+&nbsp;
+
+&nbsp;
+
+
 ---
 # ECO3404 - Econometría I
 
@@ -157,39 +192,6 @@ T3.6 (Nuevo): Disponible*
 [06](/files/teaching/econometria/06-Aplicaciones.pdf), 
 -->
 
-
----
-# Macroeconomía Avanzada
-
-
-**Lugar:** Zoom / Webex
-
-**Horario:** Martes 7:00 - 10:00 hrs (28 Abril - 26 Mayo, 2026)
-
-# Archivos
-
-[DSGE](/files/teaching/macro/DSGE_slides.pdf)
-
-[RBC](/files/teaching/macro/RBC_slides.pdf)
-
-<!--
-
-[MIUF](/files/teaching/macro/MIUF_slides.pdf)
-
-[NK](/files/teaching/macro/NK_slides.pdf)
-
-# Material Adicional
-
-[Derivación del modelo NK tradicional](https://bergholt.weebly.com/uploads/1/1/8/4/11843961/the_basic_new_keynesian_model_-_drago_bergholt.pdf)
-
-[Modelos DSGE en Dynare](https://github.com/JohannesPfeifer/DSGE_mod/)
-
-[Macro lenguaje de Dynare](https://archives.dynare.org/manual/Macro_002dprocessing-language.html)
--->
-
-&nbsp;
-
-&nbsp;
 
 
 ---
