@@ -21,9 +21,9 @@ title: Teaching
 
 [RBC](/files/teaching/macro/RBC_slides.pdf)
 
-<!--
-
 [MIUF](/files/teaching/macro/MIUF_slides.pdf)
+
+<!--
 
 [NK](/files/teaching/macro/NK_slides.pdf)
 
