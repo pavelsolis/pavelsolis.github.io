@@ -140,25 +140,26 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Ejercicios para Presentaciones
 
-T1.1: Akemi
-
-T4.1: Edgar
-
-T4.2: Vanessa
-
-T4.3: Raúl
-
-T4.4: Alan
-
-T5.1: Patricio
-
-T5.2: Francisco
-
-T5.3: Jorge
-
-T5.4: Mauricio
-
 <!--
+
+T1.1: 
+
+T4.1: 
+
+T4.2: 
+
+T4.3: 
+
+T4.4: 
+
+T5.1: 
+
+T5.2:
+
+T5.3:
+
+T5.4:
+
 
 T1.2: Disponible
 
@@ -177,9 +178,6 @@ T3.6 (Nuevo): Disponible*
 &nbsp;
 
 
-[07](/files/teaching/econometria/07-Dummies.pdf), [08](/files/teaching/econometria/08-Proyectos.pdf)
-
-
 <!--
 # Slides
 [01a](/files/teaching/econometria/01a-Intro.pdf), 
@@ -190,6 +188,8 @@ T3.6 (Nuevo): Disponible*
 [04](/files/teaching/econometria/04-Inferencia.pdf), 
 [05](/files/teaching/econometria/05-Asintotica.pdf), 
 [06](/files/teaching/econometria/06-Aplicaciones.pdf), 
+[07](/files/teaching/econometria/07-Dummies.pdf), 
+[08](/files/teaching/econometria/08-Proyectos.pdf)
 -->
 
 
