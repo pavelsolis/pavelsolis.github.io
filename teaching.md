@@ -23,9 +23,10 @@ title: Teaching
 
 [MIUF](/files/teaching/macro/MIUF_slides.pdf)
 
+[NK](/files/teaching/macro/NK_slides.pdf)
+
 <!--
 
-[NK](/files/teaching/macro/NK_slides.pdf)
 
 # Material Adicional
 
