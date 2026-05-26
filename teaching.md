@@ -25,9 +25,6 @@ title: Teaching
 
 [NK](/files/teaching/macro/NK_slides.pdf)
 
-<!--
-
-
 # Material Adicional
 
 [Derivación del modelo NK tradicional](https://bergholt.weebly.com/uploads/1/1/8/4/11843961/the_basic_new_keynesian_model_-_drago_bergholt.pdf)
@@ -35,6 +32,11 @@ title: Teaching
 [Modelos DSGE en Dynare](https://github.com/JohannesPfeifer/DSGE_mod/)
 
 [Macro lenguaje de Dynare](https://archives.dynare.org/manual/Macro_002dprocessing-language.html)
+
+
+<!--
+
+
 -->
 
 &nbsp;
