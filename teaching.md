@@ -6,51 +6,13 @@ title: Teaching
 &nbsp;
 
 
-
----
-# Macroeconomía Avanzada
-
-
-**Lugar:** Zoom / Webex
-
-**Horario:** Martes 7:00 - 10:00 hrs (28 Abril - 26 Mayo, 2026)
-
-# Archivos
-
-[DSGE](/files/teaching/macro/DSGE_slides.pdf)
-
-[RBC](/files/teaching/macro/RBC_slides.pdf)
-
-[MIUF](/files/teaching/macro/MIUF_slides.pdf)
-
-[NK](/files/teaching/macro/NK_slides.pdf)
-
-# Material Adicional
-
-[Derivación del modelo NK tradicional](https://bergholt.weebly.com/uploads/1/1/8/4/11843961/the_basic_new_keynesian_model_-_drago_bergholt.pdf)
-
-[Modelos DSGE en Dynare](https://github.com/JohannesPfeifer/DSGE_mod/)
-
-[Macro lenguaje de Dynare](https://archives.dynare.org/manual/Macro_002dprocessing-language.html)
-
-
-<!--
-
-
--->
-
-&nbsp;
-
-&nbsp;
-
-
 ---
 # ECO3404 - Econometría I
 
 
-**Lugar:** Salón (T3-24 Sur), Laboratorio (T3-PB Sur)
+**Lugar:** Salón (T3-34 Sur), Laboratorio (T3-PB Sur)
 
-**Horario:** Martes 19:00 - 22:00 hrs (Ene 12 - May 7, 2026)
+**Horario:** Martes 19:00 - 22:00 hrs (Ago 11 - Nov 24, 2026)
 
 # Archivos
 
@@ -58,6 +20,7 @@ title: Teaching
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
+<!--
 [Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
@@ -69,20 +32,16 @@ title: Teaching
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
-
-<!--
-
 -->
 
 # Laboratorios
 
+<!--
 Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
 
 Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/weight-height-age.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
 Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
-
-<!--
 
 T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
@@ -114,6 +73,8 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Causalidad](/files/teaching/econometria/L01-Seed-Oils.pdf)
 
+
+<!--
 [Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
 
 [Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
@@ -131,8 +92,6 @@ T6: [](/files/teaching/econometria/datos/)
 [Credibilidad](/files/teaching/econometria/L09-Nobel-2021.pdf)
 
 [Tips](/files/teaching/econometria/L10-Common-Mistakes.pdf)
-
-<!--
 
 
 [RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
@@ -180,10 +139,10 @@ T3.6 (Nuevo): Disponible*
 
 &nbsp;
 
-
+[01a](/files/teaching/econometria/01a-Intro.pdf)
 <!--
 # Slides
-[01a](/files/teaching/econometria/01a-Intro.pdf), 
+, 
 [01b](/files/teaching/econometria/01b-Stata.pdf), 
 [01c](/files/teaching/econometria/01c-Repaso.pdf), 
 [02](/files/teaching/econometria/02-RLS.pdf), 
@@ -195,6 +154,40 @@ T3.6 (Nuevo): Disponible*
 [08](/files/teaching/econometria/08-Proyectos.pdf)
 -->
 
+
+---
+# Macroeconomía Avanzada
+
+
+**Lugar:** Zoom / Webex
+
+**Horario:** Martes 7:00 - 10:00 hrs (28 Abril - 26 Mayo, 2026)
+
+# Archivos
+
+
+# Material Adicional
+
+<!--
+[DSGE](/files/teaching/macro/DSGE_slides.pdf)
+
+[RBC](/files/teaching/macro/RBC_slides.pdf)
+
+[MIUF](/files/teaching/macro/MIUF_slides.pdf)
+
+[NK](/files/teaching/macro/NK_slides.pdf)
+
+
+[Derivación del modelo NK tradicional](https://bergholt.weebly.com/uploads/1/1/8/4/11843961/the_basic_new_keynesian_model_-_drago_bergholt.pdf)
+
+[Modelos DSGE en Dynare](https://github.com/JohannesPfeifer/DSGE_mod/)
+
+[Macro lenguaje de Dynare](https://archives.dynare.org/manual/Macro_002dprocessing-language.html)
+-->
+
+&nbsp;
+
+&nbsp;
 
 
 ---
