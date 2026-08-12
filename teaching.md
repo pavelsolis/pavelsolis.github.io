@@ -140,6 +140,7 @@ T3.6 (Nuevo): Disponible*
 &nbsp;
 
 [01a](/files/teaching/econometria/01a-Intro.pdf)
+
 <!--
 # Slides
 , 
