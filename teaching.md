@@ -20,8 +20,9 @@ title: Teaching
 
 [Presentaciones: Lineamientos y Criterios](/files/teaching/econometria/A2-Presentaciones.pdf)
 
-<!--
 [Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
+
+<!--
 
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
 
@@ -36,8 +37,9 @@ title: Teaching
 
 # Laboratorios
 
-<!--
 Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
+
+<!--
 
 Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/weight-height-age.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
 
@@ -73,9 +75,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Causalidad](/files/teaching/econometria/L01-Seed-Oils.pdf)
 
+[Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
 
 <!--
-[Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
 
 [Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
 
@@ -139,12 +141,11 @@ T3.6 (Nuevo): Disponible*
 
 &nbsp;
 
-[01a](/files/teaching/econometria/01a-Intro.pdf)
+[01a](/files/teaching/econometria/01a-Intro.pdf), [01b](/files/teaching/econometria/01b-Stata.pdf)
 
 <!--
 # Slides
 , 
-[01b](/files/teaching/econometria/01b-Stata.pdf), 
 [01c](/files/teaching/econometria/01c-Repaso.pdf), 
 [02](/files/teaching/econometria/02-RLS.pdf), 
 [03](/files/teaching/econometria/03-RLM.pdf),
