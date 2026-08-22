@@ -141,12 +141,12 @@ T3.6 (Nuevo): Disponible*
 
 &nbsp;
 
-[01a](/files/teaching/econometria/01a-Intro.pdf), [01b](/files/teaching/econometria/01b-Stata.pdf)
+[01b](/files/teaching/econometria/01b-Stata.pdf), [01c](/files/teaching/econometria/01c-Repaso.pdf)
 
 <!--
 # Slides
+[01a](/files/teaching/econometria/01a-Intro.pdf),
 , 
-[01c](/files/teaching/econometria/01c-Repaso.pdf), 
 [02](/files/teaching/econometria/02-RLS.pdf), 
 [03](/files/teaching/econometria/03-RLM.pdf),
 [04](/files/teaching/econometria/04-Inferencia.pdf), 
