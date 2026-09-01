@@ -77,9 +77,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Autocorrector](/files/teaching/econometria/L02-Excel-Genes.pdf)
 
-<!--
-
 [Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
+
+<!--
 
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
 
@@ -141,13 +141,14 @@ T3.6 (Nuevo): Disponible*
 
 &nbsp;
 
-[01b](/files/teaching/econometria/01b-Stata.pdf), [01c](/files/teaching/econometria/01c-Repaso.pdf)
+[02](/files/teaching/econometria/02-RLS.pdf)
 
 <!--
 # Slides
 [01a](/files/teaching/econometria/01a-Intro.pdf),
+[01b](/files/teaching/econometria/01b-Stata.pdf), 
+[01c](/files/teaching/econometria/01c-Repaso.pdf), 
 , 
-[02](/files/teaching/econometria/02-RLS.pdf), 
 [03](/files/teaching/econometria/03-RLM.pdf),
 [04](/files/teaching/econometria/04-Inferencia.pdf), 
 [05](/files/teaching/econometria/05-Asintotica.pdf), 
