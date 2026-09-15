@@ -79,9 +79,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Retracción](/files/teaching/econometria/L03-MIT-Student.pdf)
 
-<!--
-
 [CAPM](/files/teaching/econometria/L04-CAPM.pdf)
+
+<!--
 
 [Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
 
