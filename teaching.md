@@ -22,11 +22,11 @@ title: Teaching
 
 [Guías de Stata](/files/teaching/econometria/A3-Guias-Stata.pdf)
 
+[Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
+
 <!--
 
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
-
-[Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
 
 [RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
 
