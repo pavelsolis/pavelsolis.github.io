@@ -137,34 +137,3 @@ regress api00 acs_k3 meals full
 regress api00 acs_k3 acs_46 meals full
 regress api00 acs_k3 acs_46 meals full ell
 regress api00 acs_k3 acs_46 meals full ell emer enroll
-
-* ==============================================================================
-* Limpieza de bases de datos
-* ==============================================================================
-* Pregunta de investigación requiere análisis de carros domésticos
-sysuse auto, clear
-generate lsqd = length^2
-order lsqd, after(length)
-rename lsqd lengthsqd
-generate domestic = 0
-replace domestic = 1 if foreign == 0
-browse
-label define lbldom 0 "Foreign" 1 "Domestic"
-label values domestic lbldom
-browse
-label variable domestic "Car origin"
-drop if !domestic
-browse
-drop foreign domestic
-Transformar variables: 
-tab rep78, missing
-recode rep78 (. = 999)
-browse
-recode rep78 (999 = .)
-tostring turn, generate(string)
-browse
-destring string, replace
-browse
-drop string
-save auto_clean, replace
-use auto_clean, clear
