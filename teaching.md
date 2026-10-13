@@ -24,26 +24,26 @@ title: Teaching
 
 [Guía MT](/files/teaching/econometria/A7-Guia-MT.pdf)
 
-<!--
-
 [Política Monetaria MX](/files/teaching/econometria/A4-PM-MX.pdf)
 
 [RLS en Stata](/files/teaching/econometria/A5-RLS-Stata.pdf)
 
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
+<!--
+
 [Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 -->
 
 # Laboratorios
 
-Lab 1: [Código Intro](/files/teaching/econometria/C1-Intro.do), [auto](/files/teaching/econometria/datos/auto.xlsx)
+Lab 1: Códigos ([Intro](/files/teaching/econometria/C1-Intro.do), [MC](/files/teaching/econometria/C1-MC_Normal.do)), datos ([auto](/files/teaching/econometria/datos/auto.xlsx))
+
+Lab 2: Códigos ([RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [código MC](/files/teaching/econometria/C2-MC_RLS.do)), datos ([wgthgtage](/files/teaching/econometria/datos/weight-height-age.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta))
 
 <!--
 
-Lab 2: [Código RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [wgthgtage](/files/teaching/econometria/datos/weight-height-age.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta)
-
-Lab 3: [Código Dummies](/files/teaching/econometria/C3-Dummies.do), [hsb2](/files/teaching/econometria/datos/hsb2.dta)
+Lab 3: Código ([Dummies](/files/teaching/econometria/C3-Dummies.do)), datos ([hsb2](/files/teaching/econometria/datos/hsb2.dta))
 
 T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
