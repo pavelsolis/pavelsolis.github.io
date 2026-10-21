@@ -83,9 +83,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Error Excel](/files/teaching/econometria/L05-RR-Error.pdf)
 
-<!--
-
 [Fraude individual](/files/teaching/econometria/L06-Fraud-Individual.pdf)
+
+<!--
 
 [Fraude a escala](/files/teaching/econometria/L07-Fraud-Scale.pdf)
 
