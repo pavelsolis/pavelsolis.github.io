@@ -104,9 +104,9 @@ T6: [](/files/teaching/econometria/datos/)
 
 # Ejercicios para Presentaciones
 
-T4.1: 
+T4.1: Miros
 
-T4.4: 
+T4.4: Erick
 
 T5.1: 
 
