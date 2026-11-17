@@ -41,9 +41,9 @@ Lab 1: Códigos ([Intro](/files/teaching/econometria/C1-Intro.do), [MC](/files/t
 
 Lab 2: Códigos ([RLS-RLM](/files/teaching/econometria/C2-RLS-RLM.do), [código MC](/files/teaching/econometria/C2-MC_RLS.do)), datos ([wgthgtage](/files/teaching/econometria/datos/weight-height-age.xlsx), [elemapi](/files/teaching/econometria/datos/elemapi.dta), [elemapi2](/files/teaching/econometria/datos/elemapi2.dta))
 
-<!--
-
 Lab 3: Código ([Dummies](/files/teaching/econometria/C3-Dummies.do)), datos ([hsb2](/files/teaching/econometria/datos/hsb2.dta))
+
+<!--
 
 T1: [WAGE1](/files/teaching/econometria/datos/WAGE1.DTA), [BWGHT](/files/teaching/econometria/datos/BWGHT.DTA)
 
@@ -87,13 +87,13 @@ T6: [](/files/teaching/econometria/datos/)
 
 [Fraude a escala](/files/teaching/econometria/L07-Fraud-Scale.pdf)
 
-<!--
-
 [Freakonomics](/files/teaching/econometria/L08-Freakonomics.pdf)
 
 [Credibilidad](/files/teaching/econometria/L09-Nobel-2021.pdf)
 
 [Tips](/files/teaching/econometria/L10-Common-Mistakes.pdf)
+
+<!--
 
 
 [RCTs](/files/teaching/econometria/L01-Nobel-2019.pdf)
@@ -151,7 +151,7 @@ T3.6 (Nuevo): Disponible*
 
 &nbsp;
 
-[06](/files/teaching/econometria/06-Aplicaciones.pdf), [07](/files/teaching/econometria/07-Dummies.pdf)
+[07](/files/teaching/econometria/07-Dummies.pdf), [08](/files/teaching/econometria/08-Proyectos.pdf)
 
 <!--
 # Slides
@@ -162,8 +162,9 @@ T3.6 (Nuevo): Disponible*
 [03](/files/teaching/econometria/03-RLM.pdf),
 [04](/files/teaching/econometria/04-Inferencia.pdf),
 [05](/files/teaching/econometria/05-Asintotica.pdf), 
+[06](/files/teaching/econometria/06-Aplicaciones.pdf), 
 , 
-[08](/files/teaching/econometria/08-Proyectos.pdf)
+
 -->
 
 
