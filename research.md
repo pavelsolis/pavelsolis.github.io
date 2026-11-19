@@ -170,6 +170,8 @@ margin-right: auto;
 
 ---
 
+"**Public Debt, Fiscal Deficit Expectations, and Their Transmission to the Cyclical Component of Long-Term Interest Rates**" by José Vicente Romero and Hernando Vargas-Herrera, 2026. ([Slides](/files/research/Discussion_FiscalExp.pdf))
+
 "**How to Design Rules for Ex-Post Evaluation**" by Benjamin S. Kay and Marco Migueis, 2025. ([Slides](/files/research/Discussion_ExPostEval.pdf))
 
 "**The Asymmetric Credit Channel of Monetary Policy**" by Ander Pérez-Orive, Yannick Timmer and Alejandro van der Ghote, 2023. ([Slides](/files/research/Discussion_Asymmetric.pdf))
