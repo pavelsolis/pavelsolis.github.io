@@ -110,9 +110,9 @@ T4.4: Erick
 
 T5.1: Diego
 
-T5.2:
+T5.2: Axel
 
-T5.4:
+T5.4: Rodrigo
 
 <!--
 
