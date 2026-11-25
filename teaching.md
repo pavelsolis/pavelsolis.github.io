@@ -30,9 +30,10 @@ title: Teaching
 
 [RLM en Stata](/files/teaching/econometria/A6-RLM-Stata.pdf)
 
+[Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
+
 <!--
 
-[Guía Final](/files/teaching/econometria/A8-Guia-Final.pdf)
 -->
 
 # Laboratorios
